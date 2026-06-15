@@ -1,0 +1,2329 @@
+2005 Edition 
+ 
+ 
+ 
+ 
+ 
+Organic Cotton Training Manual 
+Frank Eyhorn, Saro G. Ratter, Mahesh Ramakrishnan 
+ 
+ 
+ 
+ 
+ 
+Funded by: 
+• 
+Swiss Agency for Development and Cooperation (SDC) 
+• 
+World Wide Fund for Nature (WWF), Switzerland
+
+Organic Cotton Training Manual 
+
+Publisher: 
+Research Institute of Organic Agriculture (FiBL), Ackerstrasse, P.O. Box, CH-5070 Frick, Switzerland, Tel. +41 62 865 72 72, Fax +41 
+62 865 72 73, info.suisse@fibl.org, www.fibl.org 
+ 
+In cooperation with: 
+Swiss Agency for Development and Cooperation (SDC), www.deza.admin.ch 
+World Wide Fund for Nature (WWF), Switzerland, www.wwf.ch 
+Remei AG, Switzerland, www.remei.ch, Maikaal bioRe (India) Ltd. 
+International Competence Centre for Organic Agriculture (ICCOA), India, www.iccoa.org 
+ 
+Distribution: 
+Copies and free downloads of this volume and its Hindi translation are available from the International Competence Centre for Organic 
+Agriculture (ICCOA), 951 C, 15th Cross, 8th Main, Ideal Homes Township, Rajarajeshwari Nagar, Bangalore - 560 098, India, Tel. 
++91- 80-57682830, Fax +91-80-28601183, info@iccoa.org, www.iccoa.org. 
+Copies of this volume (excluding transparencies) also can be ordered from FiBL for the price of CHF 9.00/EUR 6.00 plus shipping 
+costs (order number 1390), and are available as free downloads at www.shop.fibl.org. 
+A CD containing this training manual (including the transparencies as PowerPoint files) and other extension tools on organic cotton is 
+available from ICCOA and FiBL (ISBN 3-906081-72-9, FiBL order number 1391). 
+ 
+English review: Christopher Hay (Germany, ecotranslator@t-online.de) 
+ 
+This publication was realized with support from: 
+Swiss Agency for Development and Cooperation (SDC) 
+World Wide Fund for Nature (WWF), Switzerland 
+ 
+© 2005, Research Institute of Organic Agriculture (FiBL) 
+Any reproduction in full or in part of this publication must identify the title of the report and FiBL as the publisher. 
+ 
+Frank Eyhorn, Saro G. Ratter, Mahesh Ramakrishnan: Organic Cotton Training Manual. 1st Edition. Research Institute of Organic 
+Agriculture (FiBL), Frick, Switzerland 
+ 
+ISBN 3-906081-71-0 
+ 
+All of the statements, results etc. contained in this book have been compiled by the authors according to their best knowledge and 
+have been scrupulously checked by the Research Institute of Organic Agriculture (FiBL). However, the possibility of mistakes cannot 
+be ruled out entirely. Therefore, the editors and the authors are not subject to any obligation and make no guarantees whatsoever 
+regarding any of the statements etc. in this work; neither do they accept responsibility or liability for any possible mistakes contained 
+therein.
+
+Organic Cotton Training Manual 
+
+Acknowledgment of contributions 
+ 
+The development of this training manual is a collaborative effort to which many people have contributed. Special thanks 
+go to the following people and institutions: 
+ 
+Maikaal bioRe (India) Ltd., especially Rajeev Baruah, Ritu Baruah and V. Tiwari, who opened their doors to the 
+research project and provided all required support and information. 
+The team members of Maikaal bioRe who worked on this manual from the concept up to the review. Special 
+thanks go to Shriram Vishwakarma, Ishwar Patidar, Yogendra Shrivas, Dharmendra Singh Mandloi, Ashok Singh 
+Chouhan, Rajeev Verma, Jitendra Vyas, Dinesh Tripati, and Sukhdev Gir. This manual is based largely on their 
+experience and knowledge. 
+The Research Team of Maikaal bioRe: Prashant V. Tekade, Lokendra Singh Chouhan, Gajendra Singh Chouhan, 
+Raghuvir Singh Mandloi 
+The Steering Group of the Maikaal Research Project: Patrick Hohmann (Remei AG), Dr. Walter Wagner (WWF), 
+Dr. Urs Heierli (msd consulting), for providing guidance and feedback. 
+ 
+ 
+The training manual has been developed and produced as part of a research project funded by: 
+Swiss Agency for Development and Cooperation (SDC) 
+World Wide Fund for Nature (WWF), Switzerland
+
+Organic Cotton Training Manual 
+
+Contents 
+ 
+How to use this training manual .............................................................................................................................................5 
+Why organic cotton?...............................................................................................................................................................6 
+Growing organic cotton – A system approach........................................................................................................................7 
+Organic standards..................................................................................................................................................................8 
+Inspection and certification.....................................................................................................................................................9 
+Requirements of the cotton crop ..........................................................................................................................................10 
+Selecting the right cotton varieties .......................................................................................................................................11 
+Soil properties ......................................................................................................................................................................12 
+The importance of soil organic matter..................................................................................................................................13 
+Crop rotation – rotation crops...............................................................................................................................................14 
+Green manures and intercrops.............................................................................................................................................15 
+Nutrient requirements...........................................................................................................................................................16 
+Uptake of nutrients ...............................................................................................................................................................17 
+Nitrogen immobilization........................................................................................................................................................18 
+Application of manures and fertilizers ..................................................................................................................................19 
+Compost quality....................................................................................................................................................................20 
+Setting up a compost heap or pit..........................................................................................................................................21 
+Bio-fertilizers.........................................................................................................................................................................22 
+Keeping your cotton crop healthy.........................................................................................................................................23 
+Important cotton pests..........................................................................................................................................................24 
+Management of major cotton pests......................................................................................................................................25 
+Promotion of natural enemies ..............................................................................................................................................26 
+Direct pest management methods .......................................................................................................................................27 
+Monitoring pests...................................................................................................................................................................28 
+Soil cultivation and weed management................................................................................................................................29 
+Water management..............................................................................................................................................................30 
+Picking, storage, processing and trade ................................................................................................................................31 
+Strategies for organic cotton production...............................................................................................................................32 
+The economic performance of organic cotton......................................................................................................................33 
+The conversion process .......................................................................................................................................................34 
+The role of women in organic cotton farming .......................................................................................................................35 
+Annex 1: Example of a 5-day training schedule...................................................................................................................36
+
+Organic Cotton Training Manual 
+
+How to use this training manual 
+The aim of this training manual is to facilitate training activities on organic cotton cultivation for smallholder farmers in the 
+tropics. We hope it will form the basis for training activities by providing the following: 
+• 
+The essence of the involved subject matters in a compact and structured way; 
+• 
+Material for illustration; 
+• 
+Ideas for interactively addressing each topic in a training situation. 
+ 
+The target group of the training manual is extension staff of organic cotton projects and rural development agencies. The 
+training manual complements the Organic Cotton Crop Guide (see www.organiccotton.fibl.org) which contains a detailed 
+description of the theory, and references. 
+ 
+Each sheet of the training manual covers a topic described in detail in the Organic Cotton Crop Guide. The respective 
+chapter in the guide is referred to after the heading (Æ Chapter XY). The key messages to be conveyed give the most 
+important points to be mentioned when covering the topic. The didactics section below provides ideas on how the topic 
+can be dealt with in an interactive way in a training course. Each topic is illustrated with a transparency. The description 
+of the transparency explains what is shown on each transparency. A printout of all transparencies can serve as a 
+handout for the course participants. An example of a schedule for a one week training course on organic cotton is given 
+in Annex 1. 
+ 
+The transparencies are available as a PowerPoint file on a CD containing all extension tools developed as part of this 
+research project. Users are encouraged to alter them as deemed appropriate, complement them with their own 
+illustrations, and translate them into local languages. For this reason, the files are laid out simply. 
+ 
+Obviously, the success of training activities also depends on the communication skills of the resource persons and on 
+whether the course atmosphere is conducive to learning. Active participation of the trainees and consideration of the 
+expertise they already bring with them is crucial for this. For general guidelines on how to organize interactive training 
+sessions on organic agriculture please refer to the IFOAM Training Manual on Organic Agriculture in the Tropics1. 
+ 
+As site and socio-economic conditions differ from place to place, so will the methods and technologies suitable for organic 
+cotton farming. Trainers are thus invited to modify the provided material and develop their own adapted to local 
+conditions. The more local experience of practitioners and trainees is included, the more meaningful will the training be. 
+ 
+1 A free download is available at www.shop.fibl.org. For more on how to organize trainings see chapters 1.2 and 1.3.
+
+Organic Cotton Training Manual 
+
+Why organic cotton? 
+Æ Chapter 1.2 
+Key messages to be conveyed 
+ Conventional cotton production uses large quantities of 
+chemical pesticides and fertilizers. 
+ They are harmful to the environment as they kill beneficial 
+insects and pollute soil and water. In organic farming, the 
+absence of chemical sprays and increased biodiversity results 
+in a better eco-balance between pests and beneficial insects. 
+ With frequent application of pesticides, pests can develop 
+resistance and thus cause additional damage. 
+ Chemical pesticides can cause poisoning as well as long-term 
+effects on human health. Organic farming is free of chemical 
+pesticides and produces safe and healthy food crops. 
+ Frequent use of chemical fertilizers and narrow crop rotation 
+can cause declining soil fertility, while organic farming improves 
+soil fertility. 
+ In conventional cotton, farmers depend on open markets, 
+whereas in organic cotton there is usually a closer relationship 
+with the buyer, and an organic premium is paid. 
+ In organic cotton, yields might be lower, but so are the input 
+costs and thus the financial risk. Diverse crop rotations further 
+reduce the risk of crop failure and provide food for subsistence. 
+ 
+Motivation 
+Invite the participants to a brief brainstorming session: Why are 
+they interested in growing cotton organically? Note down the points 
+in key words on a flip chart or board. Present Transparency 1 and 
+compare the listed aspects with those stated by the participants. 
+Discuss which of these aspects are most important to them. 
+ 
+ 
+Transparency 1: Advantages of growing cotton organically, as 
+compared to conventional farming. 
+ 
+Description of the transparency 
+The table provides an overview of the disadvantages of conventional 
+cotton (left side) and the advantages of organic cotton (right side) with 
+respect to environment, human health, soil fertility, market situations and 
+farm economy. 
+Organic Cotton Training Manual
+Advantages of cultivating cotton organically
+• Lower costs for inputs
+• Lower financial risk
+• Satisfying yields once soil fertility has 
+improved
+• High production costs
+• High financial risk
+• High yields only in good years
+Economy
+• Closer relationship with the market 
+partner. 
+• Option to sell products as ‘organic’ at 
+higher price
+• Farmers usually organized in groups
+• Open market with no loyalty of the 
+buyer to the farmer
+• Dependency on general market rates
+• Usually individual farmers
+Market
+• Soil fertility is maintained or improved 
+by organic manures and crop rotation
+• Risk of declining soil fertility due to 
+use of chemical fertilizers and poor 
+crop rotation
+Soil fertility
+• No health risks from pesticides
+• Healthy organic food crops 
+• Accidents with pesticides
+• Chronic diseases (cancer, infertility, 
+weakness) 
+Health
+• Increased bio-diversity 
+• Eco-balance between pests and 
+beneficial insects
+• No pollution
+• Pesticides kill beneficial insects
+• Pollution of soil and water
+• Resistance of pests
+Environment
+Organic Cotton
+Conventional Cotton
+
+Organic Cotton Training Manual 
+
+Growing organic cotton – A system approach 
+Æ Chapter 1.3 
+Key messages to be conveyed 
+ Organic farming does not mean simply replacing chemical 
+fertilizers and pesticides with organic manures and botanical 
+sprays. 
+ Organic cotton farming means re-thinking the entire farming 
+system. A system means that all elements (e.g. soil, crops, 
+animals, the farmer, markets etc.) are connected with each 
+other. 
+ Most important in organic farming is preventing problems from 
+occurring at all. This always starts with a fertile and healthy 
+soil. 
+ To get good results, organic farmers need to implement 
+appropriate 
+measures 
+for 
+the 
+aspects 
+mentioned 
+in 
+Transparency 2. 
+ 
+Group work: ‘Ingredients’ for organic cotton farming 
+Prepare a large paper chart with the drawing of a farmer in the 
+centre. Divide the participants into 3-4 groups and ask them to 
+discuss the ‘ingredients’ for successful organic cotton farming. 
+‘Ingredients’ are the measures that need to be adopted. The 
+participants should write them on index cards. Each group is 
+invited to briefly present their results by pinning or sticking their 
+cards on the chart around the farmer. In the end, summarize the 
+‘ingredients’ with the help of Transparency 2, referring to the 
+measures suggested by the participants. 
+ 
+Transparency 2: ‘Ingredients’ for successful organic cotton farming. 
+ 
+Description of the transparency 
+The illustration indicates the measures necessary for obtaining good 
+results in organic cotton farming, from measures for improving soil fertility 
+to keeping records for inspection. The farmer is in the centre of the 
+farming system and needs to manage the system in an optimal way. For 
+this, he/she requires training, advice and continuous experimentation. 
+The photo shows an organic cotton farmer in the Maikaal bioRe project, 
+central India. 
+Organic Cotton Training Manual
+Successful organic cotton farming with a system approach
+Improving
+soil fertility
+Crop rotation & 
+crop diversity
+Selecting the right 
+cotton varieties
+Organic
+manures
+Appropriate
+irrigation
+Timely weeding and 
+intercult. operations
+Appropriate pest 
+management
+Monitoring
+of pests
+Timely and proper 
+picking
+Documentation
+and inspection
+Capacity building
+and experimenting
+
+Organic Cotton Training Manual 
+
+Organic standards 
+Æ Chapter 1.4 
+Key messages to be conveyed 
+ If a product is to be sold as organic, it needs to be certified by 
+an authorised and accepted agency. 
+ The rules for a product to be certified organic are laid down by 
+the standards of the respective country or private labels. 
+ Compliance with organic standards is ensured through 
+inspection and certification. 
+ Organic standards only define the minimum criteria to be 
+certified, not the best farming practices. 
+ Important requirements of most organic standards are 
+summarized in Transparency 3. The requirements of the EU 
+regulation are summarized in the Annex of the Organic Cotton 
+Crop Guide. 
+ 
+Group work on organic standards 
+Distribute copies of the organic standards that apply to the 
+project(s) in question (e.g. internal regulations). Ask each group to 
+summarize one section of the standards in their own words and 
+present them in the plenum. 
+Alternatively, distribute copies of the summary in Annex 10.3 of the 
+Organic Cotton Crop Guide and ask the participants to discuss 
+whether their farms/farms they are familiar with meet all the 
+requirements; and if not, what needs to be adapted to achieve 
+compliance. 
+Summarize the session with the help of Transparency 3. 
+If time permits, present a video on organic farming (e.g. from 
+IFOAM). 
+ 
+Transparency 3: Important requirements of organic standards relevant 
+to cotton farming. 
+ 
+Description of the transparency 
+The transparency lists the most important requirements of organic 
+standards relevant to cotton production. Standards on animal husbandry 
+are not listed. The actual standards are far more complex. 
+Organic Cotton Training Manual
+Organic standards in cotton farming
+ No application of any synthetic fertilizers 
+such as urea, NPK, DAP etc.
+ No application of synthetic pesticides 
+(including herbicides, insecticides, 
+fungicides) or growth promoters.
+ No use of genetically modified organisms 
+(GMO) such as Bt-cotton varieties.
+ Crop rotation (no cotton after cotton in the 
+same field in two subsequent years) and/or 
+intercropping.
+ Prevent spray drift from neighbouring 
+conventional fields, e.g. by growing border 
+crops.
+ Maintain records and documents for 
+inspection and certification.
+§
+
+Organic Cotton Training Manual 
+
+Inspection and certification 
+Æ Chapter 1.7 
+Key messages to be conveyed 
+ Inspection and certification aim to establish trust between the 
+consumers of organic products on the one side, and the 
+vendors and producers on the other side. 
+ The requirement for certification also protects the (sincere) 
+organic farmers from unfair competition and maintains a 
+premium price. 
+ Certification needs to be implemented by an independent 
+external agency not involved in the production, processing or 
+trade of the product. 
+ Smallholder 
+groups 
+can 
+streamline 
+certification 
+by 
+implementing an internal control system (ICS) which inspects 
+each farmer at least once a year. 
+ Non-compliance by individual farmers can put the entire project 
+at risk. 
+ 
+Controversial discussion: Why is certification necessary? 
+For the farmers, inspection and certification usually mean a lot of 
+extra work (record keeping) and additional hassle. Still, there are a 
+number of reasons why certification can help them. Encourage the 
+participants to discuss this issue by asking the question: Why is 
+certification necessary? Some arguments for certification are: 
+protecting the consumers from being cheated, ensuring price 
+premiums, protecting the farmers from unfair competition, better 
+quality management; the idea of self-control. Summarize the 
+session with the help of Transparency 4, explaining how an 
+Internal Control System functions. 
+ 
+ 
+Transparency 4: Internal and external control in an organic cotton 
+project (adapted from IFOAM). 
+ 
+Description of the transparency 
+The organic cotton project (within the dashed box) maintains an internal 
+control system (ICS) where each individual farm is inspected at least 
+once a year by internal inspectors. The internal control system needs to 
+ensure that all farmers in the project follow the standards, and that 
+defaulting farmers are sanctioned. An independent external certification 
+body inspects whether the ICS is functioning properly (by checking 
+documents and re-inspecting randomly selected farms), and also inspects 
+the processing and trade chain up to the retailer. 
+Organic Cotton Training Manual
+Internal control and external certification – building trust
+Internal Control System 
+(ICS)
+External
+Certifier
+Processing
+& Trade
+Retail
+Consumers
+Trust
+(adapted from IFOAM)
+
+Organic Cotton Training Manual 
+
+Requirements of the cotton crop 
+Æ Chapter 2.2 
+Key messages to be conveyed 
+ The wild ancestors of cotton are hardy perennial shrubs with 
+hairy leaves protecting them from pest attack. 
+ Cotton prefers a warm and dry climate with a long growing 
+season without frost, and ample sunshine. 
+ Shedding of buds and bolls occurs naturally – only about 1/3 of 
+the flowers develop mature bolls. This rate can drop further if 
+conditions are adverse (drought, nutrient deficiency, cool 
+weather, high nitrogen supply, heavy insect attack etc.). 
+ Cotton is very sensitive to water logging, which causes reduced 
+growth and increased bud and boll shedding. 
+ The cotton plant can compensate for loss of buds and bolls by 
+enhancing vegetative growth and prolonging its flower 
+production. 
+ With its long tap roots, cotton can access soil moisture in 
+deeper layers and thus survive short periods of drought. 
+ 
+Discussion: What do we know about cotton? 
+What do the participants know about the cotton crop, its 
+development and its requirements? Collect the points on a chart or 
+board. Present Transparency 5 to supplement the collected points. 
+ 
+ 
+Transparency 5: Requirements of the cotton crop concerning climatic 
+and soil conditions, and aspects of crop development. 
+ 
+Description of the transparency 
+The photo shows a branch of a cotton plant with flowers, square buds 
+and bolls. Flowering starts at the first node of the first fruit-bearing branch 
+and goes from one node to another along the branch. The text to the left 
+indicates the conditions preferred by the cotton crop (though it can also 
+be grown in sub-optimal conditions). The text below the photo lists some 
+important features of crop development. 
+Organic Cotton Training Manual
+Requirements of the cotton crop
+Ideal climatic conditions
+ High temperature (ideally 30°C)
+ Long vegetation period
+ Ample sunshine
+ Dry climate
+ Min. 500 mm rainfall or irrigation
+Ideal soil conditions
+ Deep soils
+ Heavy clay soils, ideally black 
+cotton soils (vertisols)
+ No water logging
+Crop development
+ Strong root growth in first two weeks
+ Natural bud shedding (only approx. 1/3 
+of flowers develop bolls)
+ Plant compensates for damage through 
+increased growth
+
+Organic Cotton Training Manual 
+
+Selecting the right cotton varieties 
+Æ Chapter 2.3 
+Key messages to be conveyed 
+ There are four main species of cotton grown for fibre: American 
+upland cotton (G. hirsitum, most widely grown); Sea Island 
+cotton (G. barbadense, with extra long fibres); and the species 
+of the Indian sub-continent: G. herbaceum and G. arboreum. 
+ A large number of varieties have been bred from these 
+species; some are more and some are less suitable for organic 
+farming. 
+ Varieties suitable for organic farming are those which have 
+good resistance to pests and diseases and produce satisfying 
+yields with moderate manure application. 
+ When selecting the most suitable varieties the specific 
+conditions of the farm (climate, soil, irrigation, manure) need to 
+be taken into account. 
+ 
+Discussion: Evaluating cotton varieties 
+Present Transparency 6 to introduce the topic. Ask the participants 
+how to identify the most suitable cotton varieties for organic 
+farmers in a region. Prepare a table on a paper chart, with columns 
+as given below. Ask the participants which varieties are grown in 
+the region and what the farmers’ experiences are with them. Enter 
+the characteristics into the table. An example: 
+Variety 
+Yields 
+Water 
+requirements 
+Resistance to 
+pests 
+Fibre quality 
+Variety X 
+Good, if 
+sufficient 
+irrigation 
+High, drought 
+sensitive 
+Medium, 
+sensitive to 
+sucking pests 
+25 – 27 mm 
+staple, fetches 
+good price 
+Discuss with the participants which varieties are the most suitable 
+ones for fertile sites and which for marginal sites. Is there any 
+need/interest in comparing the performance of certain varieties 
+under organic conditions in plot trials on the farmers’ fields? 
+ 
+Transparency 6: Comparison of American upland cotton (Gossypium 
+hirsitum) and Indian ‘desi’ varieties (G. arboreum and G. herbaceum). 
+ 
+Description of the transparency 
+The illustration compares the most widely cultivated American upland 
+cotton (left) with the typical Indian ‘desi’ varieties (‘desi’ means local, 
+indigenous). Note the larger leaf area and larger number of bolls of the 
+hirsitum plant. The desi varieties are usually more adapted to marginal 
+soils, indicated by the more shallow and stony soil in the right drawing. 
+The graph may be adapted to the species/varieties used for the project. 
+Organic Cotton Training Manual
+Selecting the right cotton varieties
+American Upland cotton (G. hirsutum)
+Indian ‘desi’ varieties (G. arboreum, G. herbaceum)
+Advantages:
+Better drought resistance
+More pest tolerant
+Disadvantages:
+Smaller yields
+Mostly shorter staple
+(lower price)
+Suitable for:
+ Shallow soils
+ Sandy soils
+ Little/no irrigation
+Suitable for:
+ Deep soils
+ Heavy soils
+ Good irrigation
+Advantages:
+ High yields
+Longer staple
+(higher price)
+Disadvantages:
+ Needs more water
+ Needs more manure
+ More prone to pests
+larger leaves
+less leaf area
+
+Organic Cotton Training Manual 
+
+Soil properties 
+Æ Chapter 3.1 
+Key messages to be conveyed 
+ The right soil fertility management strategy primarily depends 
+on the types of soil present on a farm. 
+ It is thus important to develop an understanding of the different 
+soil types and their characteristics. 
+ Light (sandy) soils usually have lower capacity to store 
+moisture and nutrients. 
+ Therefore, apply sufficient compost and select crops and 
+varieties which are less prone to drought. Reduced soil 
+cultivation and application of mulch can help to reduce soil 
+erosion. 
+ Heavy (clay-rich) soils keep nutrients and moisture much better 
+and thus sustain more intensive farming. 
+ Frequent shallow soil cultivation helps improve soil aeration, 
+nutrient supply (accelerated decomposition of organic matter), 
+and reduces evaporation and weed pressure. 
+ 
+Group work: Soil quality and crop management 
+Ask the plenum the following questions and note down the results 
+on a board: What are the dominant soil types in the region? What 
+are their properties? Divide the participants into 2–3 groups (one 
+for each soil type). Figure out in groups: What is the relevance of 
+the properties of the selected soil for farm management? The 
+results of each group are presented and discussed in the plenum. 
+Compare the collected points with those listed in Transparency 7. 
+ 
+Transparency 7: Properties and management recommendations for 
+light and heavy soils. 
+ 
+Description of the transparency 
+The table compares typical light (sandy) and heavy (clay-rich) soils and 
+provides recommendations for respective management practices. If 
+necessary, adapt the table to the soils prevalent in the respective region. 
+Organic Cotton Training Manual
+Soil types and their management
+Risk of waterlogging!
+Increase infiltration with trenches and bunds
+Deep ploughing, frequent intercultural 
+operations (shallow soil cultivation)
+Shallow ploughing, little soil cultivation
+Compost to activate soil life and improve soil 
+structure
+Compost and mulching to improve water 
+holding and nutrient supply
+Intensive crop rotation; green manures
+Intercrop to reduce risk of crop failure
+High performance crops: chilli, soya bean, 
+banana, sugarcane, hybrid cotton varieties, 
+pigeon pea (hybrid varieties); wheat
+Drought-resistant crops: sorghum, maize, 
+pigeon pea (desi varieties), moong, millet, 
+castor; desi cotton varieties
+Very fertile Æ need sufficient manures 
+because of high productivity
+Nutrients easily get leached out Æ need 
+sufficient compost; supply of mineral 
+fertilizers in several doses
+High water retention capacity Æ less risk of 
+being affected by drought
+Low water retention capacity Æ affected by 
+drought!
+Rich in clay; muddy when wet, hard when dry
+Sandy; easy to cultivate
+Dark colour; cracks when dry
+Light colours
+Deep; roots penetrate deeply
+Shallow; roots do not penetrate very deeply
+Heavy soils
+Light soils
+
+Organic Cotton Training Manual 
+
+The importance of soil organic matter 
+Æ Chapter 3.2 
+Key messages to be conveyed 
+ On many conventionally managed farms continuous application 
+of chemical fertilizers, along with low inputs of organic 
+manures, have led to loss of soil fertility. 
+ Organic matter is crucial for soil fertility, as it improves soil 
+structure, increases water holding and infiltration, takes up and 
+releases nutrients and hosts a large number of beneficial soil 
+organisms. 
+ Thus, a continuous supply of organic material is crucial for 
+maintaining and increasing soil fertility. 
+ Sources of organic matter are crop residues (including crop 
+roots), farmyard manure, compost and organic manures such 
+as oil cakes or press mud. 
+ 
+Experience sharing: Soil organic matter 
+What have the participants observed or experienced in relation to 
+soil organic matter? What happens to soil if no organic material is 
+applied? What happens if organic manure application is 
+increased? Show Transparency 8 to explain the different ways 
+organic matter affects soil fertility. 
+ 
+Transparency 8: The importance of organic matter for soil fertility. 
+ 
+Description of the transparency 
+The drawing shows a soil profile with leaves (mulch), soil organisms 
+(earthworms, centipedes, spring tails, millipedes etc.), canals and soil 
+pores. The arrows indicate the various functions of organic matter. 
+Organic Cotton Training Manual
+Why organic matter is so important
+Good aeration and good 
+infiltration of rain and 
+irrigation water
+Non-visible parts of 
+organic matter act like 
+a glue, sticking soil 
+particles together
+Soil organic matter provides 
+a suitable environment for 
+soil organisms
+Many beneficial soil 
+organisms such as earth 
+worms feed on organic 
+material
+Visible parts of 
+organic matter act 
+like tiny sponges
+A loose and soft 
+soil structure 
+with a lot of 
+cavities
+
+Organic Cotton Training Manual 
+
+Crop rotation – rotation crops 
+Æ Chapter 3.3 
+Key messages to be conveyed 
+ On organic farms it is a must to grow cotton in rotation with 
+other crops. It is required by the standards, and is crucial for 
+soil fertility and pest management. 
+ If cotton is grown continuously over years on the same field, 
+nutrients get depleted and pest and disease populations may 
+increase. 
+ Because cotton prefers fertile soils rich in nutrients, it grows 
+particularly well after pulses (nitrogen-fixing crops) or intensive 
+horticulture crops (e.g. chillies, vegetables, bananas). 
+ Where sufficient irrigation water is available, a winter crop of 
+wheat or pulses can be grown after cotton, leading to a more 
+diverse crop rotation. 
+ Crop rotation helps farmers reduce their economic risk 
+because they are less vulnerable to price fluctuations and crop 
+losses. 
+Group activity: Designing suitable crop rotations 
+Prepare a crop rotation table on a paper chart or board (example 
+given below). Ask the participants which are the typical cotton 
+rotation patterns in the area and list them in the table. 
+Rotation 
+1st year 
+2nd year 
+3rd year 
+Advantages (+) & 
+Disadvantages (-) 
+Type 1: 
+Chilli 
++ high value 
+- lot of inputs needed - risk 
+of diseases 
+Discuss the advantages (+) and disadvantages (-) of each rotation 
+pattern. Summarize: Which rotation patterns are most suitable 
+under regional conditions? Are the participants interested in 
+developing and trying out new patterns? Compare with the 
+rotations given in Transparency 9. 
+ 
+Transparency 9: Some crop rotation patterns from organic cotton 
+projects in India and Africa. 
+ 
+Description of the transparency 
+The table provides 5 examples of cotton-based crop rotations. The left 
+column names the crops grown in rotation with cotton, and the 
+subsequent columns indicate the crop grown in the first to third year of 
+the rotation. In the first two rotations cotton is grown on the same field 
+every alternate year, while in the remaining three rotation patterns cotton 
+returns to the same field only every third year. 
+Organic Cotton Training Manual
+Crop rotation – rotation crops
+Maize with clover 
+intercrop
+Herbs (anise, basil, 
+fennel etc.)
+(winter crop: 
+wheat or pulses)
+Rotation with 
+herbal plants 
+(from Egypt)
+Pulses (moong, 
+chick pea, cow pea, 
+pigeon pea, 
+groundnut)
+Sesame, safflower, 
+sorghum or maize
+Diverse rotation 
+(from Tanzania)
+Sugar cane
+Sugar cane
+Sugar cane
+(winter crop: wheat 
+or pulses)
+Chilli, onion or other 
+intensive vegetable 
+crop
+(winter crop: 
+wheat or pulses)
+Vegetable
+(winter crop: wheat 
+or pulses)
+Pulses (soya, moong
+beans, cow pea, 
+black gram, pigeon 
+pea), maize or 
+sorghum
+(winter crop: 
+wheat or pulses)
+Pulses + cereals
+3rd year
+2nd year
+1st year
+Rotation Type
+
+Organic Cotton Training Manual 
+
+Green manures and intercrops 
+Æ Chapter 3.4 
+Key messages to be conveyed 
+ Green manure crops are grown for cutting and mulching before 
+they mature, while intercrops are grown for harvesting. 
+ Green manures and intercrops help to: 
+o distract pests from the cotton crop, and host and feed 
+beneficial insects; 
+o catch nutrients and fix nitrogen from the air (legumes); 
+o make nutrients available to the crop while decomposing, and 
+build up organic matter; 
+o suppress weeds and reduce soil erosion; 
+o provide mulch which keeps the moisture in the soil and feeds 
+soil organisms; 
+o provide additional harvests (intercrop) and fodder. 
+ However, green manures and intercrops do compete with the 
+cotton crop, so appropriate spacing and timing are crucial for 
+overall benefit. 
+ Encourage farmers to conduct simple trials with green manures 
+and intercrops to find out about their suitability (trial design: see 
+Organic Cotton Crop Guide). 
+ 
+Discussion: Pros and Cons of Green Manures and Intercrops 
+Explain the concept of green manures and intercrops with the help 
+of Transparency 10. If possible, present some plants that can be 
+used as intercrops. Ask the participants which green manure crops 
+and which intercrops they would suggest for cotton and list them 
+on a board. Discuss the advantages and disadvantages of the 
+suggested options, if possible based on the experience of farmers. 
+Conclude which are the most suitable options under regional 
+conditions. Are the participants interested in trying them out? 
+ 
+Transparency 10: Green manures (cutting at the time of flowering) and 
+intercrops (cutting after harvesting the seeds) for cotton. 
+ 
+Description of the transparency 
+The upper graph shows how green manures are sown by distributing the 
+seeds between the cotton rows (left) and cut for mulching between the 
+cotton rows at the time of flowering (right). The lower graph shows the 
+sowing of intercrop seeds (e.g. beans) between the cotton plants (few 
+seeds per spot) and its cutting after harvest of the fruits and use as mulch 
+within the cotton row. Of course, variations in the design are possible. 
+Organic Cotton Training Manual
+Green manures and intercrops
+Green manure
+Intercrop
+Sowing the intercrop
+Harvesting the intercrop
+Sowing the green manure crop
+Mulching the green manure crop
+
+Organic Cotton Training Manual 
+
+Nutrient requirements 
+Æ Chapter 4.1 
+Key messages to be conveyed 
+ Crop rotation and intercropping with legumes, recycling of crop 
+residues and the application of farm-produced organic manure 
+(FYM and compost) must form the basis of nutrient 
+management in organic cotton farming. 
+ Cotton requires not only N, P and K, but the full range of 
+nutrients applied in a well-balanced manner. 
+ Two-thirds of these nutrients are required during the first two 
+months of growth, because nutrient demand drops at the end 
+of boll formation. 
+ Unlike chemical fertilizers, organic manures release nutrients 
+only when they decompose, which in moist soils usually starts 
+1-2 weeks after application. Thus, the timing of application 
+needs to be different from conventional farming. 
+ Nutrient supply can be ensured through initial application of 
+compost 
+or 
+farmyard 
+manure 
+(basal 
+application) 
+and 
+subsequent top dressing of nitrogen-rich organic manures (e.g. 
+oil cakes mixed with compost). 
+ The timing of manure applications needs to be adapted to local 
+conditions (growing pattern, soil humidity, manures etc.). 
+ 
+Discussion: Timing of manure application 
+Draw the axis of the graph of Transparency 11 on a board or OHP 
+slide. Ask a participant to draw the nutrient demand of the cotton 
+crop over its life cycle. Discuss and correct if necessary. Ask 
+another participant to mark the timing of manure application in 
+order to ensure optimum nutrient supply. Discuss and correct if 
+necessary. Compare with the graph on Transparency 11 and 
+explain the relevance of proper timing of manure application. 
+ 
+Transparency 11: Nutrient demands of cotton and timing of manure 
+applications (qualitative development over time). 
+ 
+Description of the transparency 
+The curve indicates the nutrient demand of the cotton crop throughout the 
+vegetation period (from sowing to up-rooting, qualitative approximation). 
+The second peak is only relevant where the crop is kept for a ‘second 
+flush’. The bars indicate recommended timing of nutrient applications: the 
+first bar for the basal application (compost) and the second and third bars 
+for top dressing of manures like oil cake. The arrows symbolize the 
+release of nutrients through decomposition. 
+Organic Cotton Training Manual
+Timing of nutrient supply in the cotton crop
+Plant Nutrient Demand and Supply
+Germination
+First Flowering
+Boll Formation
+First Picking
+Continuous Picking
+Uprooting
+Maximum 
+Demand
+Sowing
+Second 
+flush
+Time
+Basal
+application
+Top 
+dressing
+Top 
+dressing
+Demand fully
+covered
+Demand partly
+covered
+Nutrient Demand
+Nutrient Supply
+
+Organic Cotton Training Manual 
+
+Uptake of nutrients 
+Æ Chapter 4.2 
+Key messages to be conveyed 
+ In organically managed soils the crop mainly depends on 
+nutrients released by mineral particles and soil organic matter 
+ These take up, store and release nutrients (through exchange, 
+weathering, and decomposition). 
+ Measures to improve overall soil fertility (microbial activity, 
+structure, moisture retention) are more likely to result in 
+increased yields than the mere application of fertilizers. 
+ More important than the total nutrient content in the soil is the 
+availability to the plant. This depends on, among other things, 
+the activity of soil organisms and the water content in the soil. 
+ Nutrient uptake can be hindered by waterlogging, dryness, and 
+an excess of some nutrients (especially N, P and K). 
+ Measures to overcome the inhibiting factors and to stimulate 
+microbial activity can thus be more effective than application of 
+fertilizers. 
+ 
+Consolidation: Nutrient management in cotton 
+Present Transparency 12. Ask a participant to explain the 
+transparency in his/her own words. Summarize the relevance of 
+nutrient uptake and its disturbance for crop management in organic 
+cotton cultivation. 
+ 
+Transparency 12: The uptake of nutrients (represented by coloured 
+circles) and its disturbance (red arrows). K = potassium, Ca = calcium, 
+S = sulphur, B = boron, Mg = magnesium, Fe = iron, Zn = zinc, P = 
+phosphorus, N = nitrogen. 
+ 
+Description of the transparency 
+The different nutrients (coloured circles) are released by mineral particles 
+and by soil organic matter. They are taken up by the plant roots (thin 
+arrows). This uptake can be hindered by the factors given in the text 
+boxes (red arrows). 
+Organic Cotton Training Manual
+Disturbance of nutrient uptake
+Soil
+Organic 
+Matter
+Mineral 
+Particles
+N
+P
+K
+Mg
+Ca
+S
+B
+Fe
+Zn
+Oversupply of nutrients:
+Too much N, P, K prevent
+the uptake of Ca, Mg, Fe, 
+Zn etc.
+Water-
+logging
+Lack of 
+water
+
+Organic Cotton Training Manual 
+
+Nitrogen immobilization 
+Æ Chapter 4.2 
+Key messages to be conveyed 
+ If cotton plants have yellowish leaves, stunted growth or 
+delayed development of pods and bolls, this may be due to a 
+process called temporary nitrogen immobilisation. 
+ To decompose sturdy plant material like half-rotten compost, 
+straw or crop residues, micro-organisms use the nitrogen 
+present in the soil. 
+ Thus, the nitrogen is temporarily unavailable to the cotton 
+plant. 
+ To prevent this situation, collect sturdy crop residues from the 
+field and prepare compost out of them. 
+ Ensure that the compost decomposes well. Keep it moist and 
+turn it at least twice. 
+ Apply the compost at least two weeks before sowing, and add 
+nitrogen-rich manures once the crop has established itself. 
+ Soil cultivations speed up the decomposition of organic matter 
+and thus increase the nutrient supply to the crop. 
+ 
+Illustration: A non-scientific comparison 
+Present and explain Transparency 13. To illustrate this slightly 
+complex situation in simple words, one can use a non-scientific 
+comparison: “Instead of eating plain rice, most people prefer to 
+have it with some vegetable or meat dish. If plain rice is served, 
+people will do everything to get some gravy. Similarly, soil 
+microbes are very keen on carbon-rich materials such as straw, 
+stalks or husks, but they need a certain amount of nitrogen to ‘eat’ 
+it. Thus, they will do everything to find some nitrogen to eat it. They 
+are much better at doing this than plant roots, so that the plants will 
+go hungry. Only once the microbes are saturated and die can the 
+incorporated nitrogen become available to the plants again." 
+ 
+Transparency 13: Temporary nitrogen immobilisation leads to retarded 
+growth in cotton. 
+ 
+Description of the transparency 
+The cotton plant is ‘unhappy’, which it indicates by a number of symptoms 
+(top left). The reason for these symptoms is that the decomposition of 
+carbon-rich material requires nitrogen, and there is not enough nitrogen-
+rich material in the soil. Measures to avoid it are listed at the right hand 
+side. 
+Organic Cotton Training Manual
+Nitrogen immobilisation in soil Æ retarded growth
+Symptoms
+Yellowish leaves
+Stunted growth
+Delayed development
+The reason
+Decomposable material in 
+the soil (half rotten 
+compost or manure, 
+straw, crop residues)
+The decomposition of 
+carbon-rich organic 
+material requires 
+nitrogen
+Little organic material with 
+high nitrogen content 
+(e.g. oil cake)
+Preventive measures
+Remove sturdy crop 
+residues (stalks) from 
+the field and compost 
+them
+Ensure that the 
+compost is well 
+decomposed
+Apply compost at least 
+two weeks before 
+sowing
+Apply sufficient 
+nitrogen-rich organic 
+manures (e.g. de-oiled 
+cakes)
+Note: Organic manures 
+need 1-3 weeks until 
+they release nitrogen
+Shallow soil cultivation 
+helps to accelerate 
+decomposition of 
+organic matter
+
+Organic Cotton Training Manual 
+
+Application of manures and fertilizers 
+Æ Chapter 4.3 
+Key messages to be conveyed 
+ Organic manures contain the full range of nutrients including 
+micronutrients in a balanced composition. 
+ Nutrient management in organic cotton cultivation should be 
+based on the following components: 
+o Crop rotation, intercrops and green manure 
+o Use of crop residues, weeds, leaves etc. for preparing 
+compost 
+o Proper storage and use of farmyard manure 
+ Only then farmers should complement nutrient supply with 
+purchased organic manures and natural mineral fertilizers. 
+ Foliar application of liquid organic manures like vermin-wash, 
+diluted biogas slurry or diluted cow urine can help to fine-tune 
+nutrient supply. 
+ 
+Discussion: Suitable on-farm and off-farm manures 
+Ask the participants which manures and fertilizers are available on 
+the farms, and which are available in the market. List the 
+suggested manures and fertilizers on a board or paper chart 
+together with a comment on their nutrient value. Present and 
+explain Transparency 14 to give some examples of organic 
+manures and natural mineral fertilizers. Discuss with the 
+participants how nutrient supply can be further improved, and 
+which alternative sources of nutrients could be tried out. 
+ 
+ 
+Transparency 14: Approximate nutrient contents of important organic 
+manures and natural mineral fertilizers. 
+ 
+Description of the transparency 
+The table lists some important organic manures (based on biomass) and 
+natural mineral fertilizers, along with a comment on their main function in 
+nutrient management. The contents of nitrogen (N), phosphorus (P) and 
+potassium (K) are approximate values. They can vary considerably from 
+source to source. 
+Organic Cotton Training Manual
+Organic manures and natural mineral fertilizers for cotton
+1 – 8 %
+1 - 3 %
+
+K, Mg, Ca, Mg etc.
+Wood ash
+ca. 60 %
+
+Natural potassium
+fertilizer
+Muriate of potash
+
+15 - 30 %
+
+P-supply, in compost
+heap
+Rock phosphate
+0.4 - 0.6 %
+0.1 – 1.0 %
+1.4 - 1.8 %
+Soil improvement
+Cane press mud
+1.3 - 1.5 %
+0.8 - 1.8 %
+4.5 - 6.0 %
+N- and P-supply
+De-oiled Castor
+0.5 - 1.0 %
+0.4 - 0.9 %
+0.6 - 1.5 %
+Very stable humus
+Vermi-compost
+0.4 - 1.5 %
+0.5 - 0.9 %
+0.7 - 1.5 %
+Less stable humus
+Farmyard manure
+0.5 - 2.0 %
+0.5 - 1.0 %
+0.6 - 1.5 %
+Soil improvement
+Compost
+Potash
+(K2O)
+Phosphate 
+(P2O5)
+Nitrogen
+(total N)
+Comment
+Manure/Fertilizer
+Note: Figures are given in percent of dry matter. The nutrient contents vary from source to source.
+
+Organic Cotton Training Manual 
+
+Compost quality 
+Æ Chapter 4.4 
+Key messages to be conveyed 
+ Composting is a process during which biomass is transformed 
+into high-quality organic manure. 
+ If the material is set up in a heap at once, the compost 
+develops heat. This kills weed seeds, diseases and pests. 
+ The decomposition of the material in a well maintained 
+compost heap is fast and avoids loss of nutrients. 
+ To achieve a product of good quality, keep the compost heap 
+moist (not too dry, not too wet) and turn the heap at least twice. 
+ Proper handling of the compost process pays off, as it 
+influences the quality and the nutrient value of the manure (see 
+Transparency 15). 
+ Vermi-composting with the help of earthworms requires 
+additional labour, but the result is a manure of excellent quality. 
+ 
+Experience sharing: Measures to improve compost quality 
+Collect samples of different dung and compost heaps and display 
+them on a table, with labels indicating the origin of the sample. 
+Invite the participants to examine the samples and to assess their 
+quality. Ask the participants about their experience with preparing 
+compost, and what they have observed on different farms. Discuss 
+which measures can help improve compost quality. Present and 
+explain Transparency 15 to illustrate the importance of proper 
+management of farmyard manure (FYM) and compost. 
+ 
+Transparency 15: Nutrient content (% dry matter) of samples of 
+different compost and dung heaps collected on organic farms in the 
+Nimar Region, India. 
+ 
+Description of the transparency 
+The table shows nutrient analysis results (lab-testing) of different dung 
+and compost heaps on organic farms from the Maikaal bioRe project in 
+India. The contents of nitrogen (N), phosphorus (P) and potassium (K) 
+are considerably different in well-maintained and poorly maintained 
+heaps. This shows that proper handling, like keeping the heaps moist and 
+mixing them, pays off. 
+Organic Cotton Training Manual
+Compost and farmyard manure – proper handling pays off!
+0.7%
+0.4%
+0.6%
+Vermi-compost, poorly maintained
+0.7%
+0.9%
+1.5%
+Vermi-compost in good condition
+0.5%
+0.5%
+0.8%
+Compost, poorly maintained 
+(too dry)
+0.8%
+0.9%
+1.3%
+Compost in good condition 
+(with heat process and turning)
+1.2%
+0.5%
+0.9%
+Cow dung heap, poorly 
+maintained (too wet)
+0.8%
+0.7%
+1.5%
+Cow dung heap, well maintained
+Potash
+(K2O)
+Phosphate 
+(P2O5)
+Nitrogen
+(total N)
+Manure / Compost type
+Nutrient contents of different compost and dung heaps collected in the Nimar region, India
+
+Organic Cotton Training Manual 
+
+Setting up a compost heap or pit 
+Æ Chapter 4.4 
+Key messages to be conveyed 
+ To set up a compost heap, select a shady location where 
+transportation of materials, water and the final product is easy. 
+ Compost can be prepared in any season, but ideally heaps are 
+set up during periods when sufficient biomass is available. 
+ To ensure sufficient aeration inside the heap, they should not 
+be more than 2.5 m wide and 1.5 m high. 
+ Materials suitable for composting are crop residues, weeds, 
+twigs, leaves, fodder residues, dung, biogas slurry, kitchen 
+waste and agricultural processing by-products. 
+ Materials that can be added to improve the compost quality are 
+cow-dung slurry, rock phosphate, wood ash and soil. 
+ For best results, mix sturdy material, medium-to-fine material 
+and material with high nitrogen content. 
+ Turning the compost heap at least twice is essential for 
+obtaining a manure of good quality. 
+ 
+Practical exercise: Setting up a compost heap 
+Preparation: Identify a suitable location close to the training venue. 
+Collect the different materials required for preparing compost. 
+Keep them ready along with the necessary equipments (buckets, 
+knifes, sticks, shovels). 
+Present and explain Transparency 16 to introduce the practical 
+exercise. Guide the participants (possibly in two groups) in 
+chopping the compost material, piling up the heap layer by layer, 
+sprinkling slurry of cow dung and water over the layers, adding 
+rock phosphate and wood ash, and finally covering the heap with 
+straw or a mud plaster. A detailed description of the ingredients 
+and the process is given in the Organic Cotton Crop Guide. 
+ 
+Transparency 16: How to make good compost. 
+ 
+Description of the transparency 
+The transparency illustrates the steps for setting up a compost heap. 
+Steps are described on the left side. Brief descriptions of how the steps 
+should be implemented are given on the right side. 
+Organic Cotton Training Manual
+Setting up a compost heap
+Collect the 
+composting 
+material.
+• Choose a shady location
+• Collect plenty of plant material 
+• Pile it up separately 
+• Chop coarse material
+Set up the heap from 
+bottom: 
+• N-rich material 
+• Coarse C-rich material
+• Twigs and branches
+Turn the heap
+• after 2–3 weeks 
+• after 1-2 months
+• Humidify the materials
+• Pile them up loosely in layers
+• Cover with earth or straw
+• When temperature declines.
+• Outside material goes inside.
+Let it rest to mature 
+for up to 3 months.
+1-2 m
+1-1.5 m
+soil layer
+
+Organic Cotton Training Manual 
+
+Bio-fertilizers 
+Æ Chapter 4.8 
+Key messages to be conveyed 
+ Bio-fertilizers contain beneficial micro-organisms that increase 
+the availability of nutrients. 
+ The application of bio-fertilizers can further increase the 
+number and activity of beneficial micro-organisms. 
+ Some micro-organisms that are commercially sold as bio-
+fertilizers are: 
+o Rhizobium (nitrogen fixation, see Transparency 17); 
+o Azotobacter and Azospirillum (nitrogen fixation outside root 
+nodules); 
+o Phosphorus Solubilizing Bacteria (PSB); 
+o Mycorrhiza (VAM, helps in taking up water and nutrients). 
+ To find out whether a specific bio-fertilizer has a real beneficial 
+effect in the field, farmers can conduct simple plot trials 
+comparing treated and untreated areas. 
+ 
+Guest lecture: Bio-fertilizers 
+Invite a guest speaker to give a short presentation on the use of 
+bio-fertilizers in cotton cultivation. This can be a vendor of bio-
+fertilizers, a scientist or an extension worker or farmer experienced 
+with the use of bio-fertilizers. If possible, display a range of 
+available products and explain their effect. Discuss the usefulness 
+of bio-fertilizers, and invite the participants to share their 
+experiences. 
+ 
+Transparency 17: Nitrogen fixation by leguminous plants. 
+ 
+Description of the transparency 
+Rhizobium is an example of a beneficial micro-organism that is used as a 
+bio-fertilizer. The bacteria cause the legume crop to form root nodules in 
+which nitrogen from the air is fixed into a form that is available to the 
+plant. The photo shows root nodules on a vetch plant. 
+It is possible to inoculate legume seeds with Rhizobium cultures. 
+However, most soils already host the Rhizobium bacteria in sufficient 
+numbers, so that an inoculation has little or no effect. 
+Organic Cotton Training Manual
+Nitrogen fixation through leguminous plants
+ There is plenty of nitrogen in the air 
+(78% nitrogen gas)
+ Leguminous plants fix nitrogen 
+from the air and make it available to 
+the plant
+ Examples: pigeon pea, soya bean, 
+moong, cow pea, chick pea, daal 
+etc.
+ The fixation is done by bacteria 
+living in root nodules (Rhizobium
+species)
+ The nitrogen fixed by the 
+leguminous crop gets available to 
+the associated or following crop 
+(e.g. cotton)
+ If a lot of fertilizer is available in the 
+soil, legumes fix less nitrogen
+Nodules
+
+Organic Cotton Training Manual 
+
+Keeping your cotton crop healthy 
+Æ Chapter 5.1 
+Key messages to be conveyed 
+ A large number of pests feed on cotton. The healthy cotton 
+plant, however, has some means of defence. 
+ First and foremost, organic cotton farming tries to prevent pests 
+from even becoming a problem. 
+ Good soil fertility and balanced nutrition support plant health. 
+ Diverse cropping systems and natural habitats enhance control 
+of pest populations. Intercrops like pulses and trap crops like 
+sunflower or maize distract pests from the cotton plants. 
+ Just like humans or animals, plants also have a kind of immune 
+system that enables them to fight an attack, especially of 
+sucking pests. 
+ To prevent stressful situations for the crop, apply appropriate 
+amounts of manure and water through irrigation at the right 
+time, and cultivate the soil (intercultural operations) in order to 
+encourage soil aeration and decomposition of organic matter. 
+ 
+Group work: Measures to keep the cotton crop healthy 
+Prepare a pin board with “Healthy cotton” written in the centre. 
+Divide the participants into two groups and ask them to discuss 
+which measures can help to keep the cotton crop healthy 
+(preventive pest management). A comparison with human health 
+might help to illustrate the task: To stay healthy it is important to 
+eat nutritious and balanced food, drink enough water, exercise, 
+keep warm, have a sound social environment, avoid stress etc. 
+Similarly a number of measures can help to keep the cotton crop 
+healthy. 
+The groups are invited to briefly present their results by pinning 
+their cards on the pin board. In the end, summarize the discussed 
+measures with the help of Transparency 18. 
+ 
+Transparency 18: Measures used to keep a cotton crop healthy. 
+ 
+Description of the transparency 
+The figure illustrates the different aspects involved in keeping the cotton 
+crop healthy and preventing damage through pest or disease attack. For 
+each aspect, a number of specific measures can be formulated (see 
+group work). 
+Organic Cotton Training Manual
+Keeping your cotton crop healthy
+Intercropping, green manure
+Promote natural enemies
+of pests through diverse
+cropping patterns
+Avoid waterlogging
+(Æ boll shedding, less yield)
+Avoid water shortage
+Enrich the soil
+with organic matter
+Balanced nutrition
+(compost, organic manures)
+Not too much manure
+(Æ tender leaves attract pests; 
+vegetative growth instead 
+of bolls)
+Select a variety
+suitable for the location
+Encourage soil aeration
+(e.g. shallow hoeing)
+Diverse crop rotation
+
+Organic Cotton Training Manual 
+
+Important cotton pests 
+Æ Chapter 5.2 
+Key messages to be conveyed 
+ To effectively manage pests in cotton, farmers should know the 
+main pests and the damage they cause to the crop. 
+ Knowledge of the complex life cycles of the pests (different 
+stages in the development) helps farmers adapt pest 
+management strategies accordingly. 
+ 
+Demonstration: Knowing more about cotton pests 
+Collect different cotton pests and keep them in glass jars or 
+preserve them in alcohol. For pests that you cannot find in the 
+fields, use drawings or photos (e.g. from the transparency). If 
+possible, also collect plant parts affected by the respective pest. 
+Divide the participants into groups and distribute the displayed 
+pests to them. For each pest the group is to fill in a card indicating 
+the name of the pest, the damage it causes, characteristic features 
+of its life cycle and its natural enemies. Each group presents their 
+results to the other participants. 
+To consolidate the information, show Transparency 19 with names 
+of the pests hidden (in the PowerPoint file, delete the names, or 
+use animated presentation mode). Ask the participants for the 
+names of the pests. Supplement with the information provided in 
+the Organic Cotton Crop Guide. 
+ 
+Transparency 19: Important cotton pests (common English and 
+scientific names). 
+ 
+Description of the transparency 
+The transparency shows photos of some important cotton pests along 
+with their common English and scientific names. 
+Organic Cotton Training Manual
+Important cotton pests
+Pink bollworm 
+(Pectinophora gos.)
+Cutworm 
+(Agrotis spp.)
+Spiny Bollworm 
+(Earias spp.)
+American bollworm 
+(Heliothis armigera)
+Cotton aphid 
+(Aphis gossypii)
+Whitefly 
+(Bemisia tabaci)
+Photos (top left to bottom right): Paolo Mazzei, Clemson University, Roland Smith, Mississippi State University, James Smith, Winfield Sterling, Douglas 
+Ferguson, Insectcorner, P. Room, Scott Bauer, Cotton SA, University of Georgia, Frank Eyhorn, Insectcorner, Clemson University
+Thrips
+(Thripidae)
+Grasshoppers
+(Locusta spp.)
+Termites
+(various spp.)
+Cotton stainer 
+(Dysdercus spp.)
+Armyworm 
+(Spodoptera spp.)
+Cotton jassids 
+(Amrasca devestans)
+Spider mites 
+(Tetranychus spp.)
+Root knot nematodes
+(Meloidogyne spp.)
+Cotton leafworm 
+(Alabama argillacea)
+Bollworms and other caterpillars
+Sucking pests and other pests
+
+Organic Cotton Training Manual 
+
+Management of major cotton pests 
+Æ Chapter 5.2 – 5.3 
+Key messages to be conveyed 
+ The first step in organic pest management is to support healthy 
+growth of the cotton crop (refer to previous chapter). 
+ The second step is to prevent pest populations from building up 
+and becoming a problem. 
+ Preventive measures include promotion of natural enemies, 
+cultivation of trap crops, use of pheromone traps or dispensers, 
+and removal of crop residues. 
+ Only when the first two steps of organic pest management are 
+not sufficient to keep pest populations below the economic 
+threshold, should direct control methods be used. 
+ Direct control methods in organic cotton farming include 
+biological control (use of living organisms or germs affecting 
+the pest), natural pesticides and mass trapping. 
+ 
+Group work: Management of major cotton pests 
+Identify together with the participants the 3-4 most important cotton 
+pests in their region. Write the names of these pests on cards. Ask 
+the participants to form groups dealing with one pest each. The 
+participants shall join the group of the pest they are most familiar 
+with. Each group shall discuss measures to prevent and control 
+damage by the respective pest. The suggested measures are to be 
+noted down on cards of different colours for preventive and direct 
+control measures. Each group is to present their points by pinning 
+the cards on a pin board. Summarize the topic by using 
+Transparency 20, possibly adapted to regional conditions. 
+If available and if time permits show a video on organic or 
+integrated pest management. 
+ 
+Transparency 20: Management recommendations for major organic 
+cotton pests. 
+ 
+Description of the transparency 
+The table lists important cotton pests and preventive as well as direct 
+control measures recommended in organic pest management. 
+Organic Cotton Training Manual
+Pest management in cotton
+ Apply neem cake into the soil
+ Pyrethrum, Derris or thyme spray
+ Cutworm baits
+ Hand picking or Bt-spray at night
+ Early soil cultivation
+ Remove weeds in and around fields
+ Encourage birds, spiders etc. (bird 
+perches, trees, hedges)
+Cutworms
+(Agrotis
+and other 
+species)
+ Pyrethrum spray
+ Botanical sprays (neem, custard 
+apple, garlic bulb, sweet flag, 
+sweet basil, Derris species)
+ Grazing of chickens
+ Frequent soil cultivation to destroy the 
+eggs (also along field borders)
+ Encourage birds (turmeric-coloured 
+rice, bird perches, trees)
+ Avoid stand-over of cotton
+Cotton 
+stainers
+(Dysdercus)
+ Neem, botanical preparations 
+(chilli, sweet flag, turmeric etc.)
+ Soft soap spray
+ Cow urine spray
+ Potato starch spray
+ Yellow sticky traps
+ Intercrop of moong, cow pea etc.
+ Avoid high manure application
+ Avoid waterlogging and water 
+shortage
+ Promote natural enemies by growing 
+flowering plants
+Aphids, 
+jassids, 
+thrips, 
+whitefly 
+(Bemisia)
+ Bt-spray, NPV spray
+ Neem, botanical preparations
+ Buttermilk spray
+ Pheromone traps, light traps
+ Trichogramma cards
+ Trap crops: sunflower, okra, castor
+ Hand-pick damaged capsules
+ Encourage natural enemies
+ Remove cotton stalks
+ Cattle grazing after picking is over
+Bollworms 
+(Helicoverpa
+and others)
+Direct control measures
+Preventive measures
+Pest
+
+Organic Cotton Training Manual 
+
+Promotion of natural enemies 
+Æ Chapter 5.3.1 
+Key messages to be conveyed 
+ In a diverse field not treated with pesticides, natural enemies 
+help the farmer keep pest attacks within tolerable levels. 
+ Natural enemy populations can be increased in the field by 
+providing suitable habitats: intercropping of flowering plants, 
+applying mulch, setting up bird perches etc. 
+ Important natural enemies are ladybird beetles, spiders, 
+lacewings, parasitic wasps, ants and bugs (see transparency). 
+ The greater diversity of plants growing in a field, the higher the 
+number of different natural enemies. Intercropping of pulses or 
+other crops in cotton is therefore an effective preventive pest-
+management strategy. 
+ To attract beneficial insects to the field, gaps in the rows of 
+cotton seedlings can be re-sown with flowering plants like 
+sesame, sunflower and marigold. 
+ 
+Demonstration: Insect zoo 
+Present and explain Transparency 21. To see how natural 
+enemies work, collect different varieties of pests (bollworms, 
+aphids, jassids, cutworms etc.) and their natural enemies (ladybird 
+beetles, lace wings, assassin bugs, spiders etc.) from a cotton field 
+and put them in a glass jar, together with some twigs of cotton 
+(stuck in wet cotton wads to keep them fresh). Observe over 2–3 
+days which insects are eaten by others, and which survive. 
+ 
+Transparency 21: Important natural enemies of some major cotton 
+pests. 
+ 
+Description of the transparency 
+The central column shows three important cotton pests. To their left and 
+to their right important natural enemies feeding on these pests are shown. 
+Note: Not all natural enemies feed on all pests. 
+Organic Cotton Training Manual
+Natural enemies of major cotton pests
+Green lacewing 
+(Chrysoperla spp.)
+Ladybird beatle 
+(Harmonia spp.)
+Damsel bug 
+(Nabis spp.)
+Parasitoids 
+(e.g. parasitic 
+wasps)
+Bollworms
+Aphids
+Big-eyed bugs 
+(Geocoris spp.)
+Spiders
+Birds
+Cutworms
+Hoverfly 
+(Eristalis spp., 
+Volucella spp.)
+Assassin bugs 
+(Prithesancus spp.)
+Ants
+Photos: left: WURL, Insectcorner (3), J.K. Lindsey; middle: Paolo Mazzei, Roland Smith, Clemson University; right: Joseph Berger, Bradley Higbee, 
+University of Tennessee (2), Olivier Olgiati
+
+Organic Cotton Training Manual 
+
+Direct pest management methods 
+Æ Chapter 5.4 
+Key messages to be conveyed 
+ Only when the first two steps of organic pest management – 
+strengthening the crop and preventive measures – are not 
+sufficient to keep pest populations below the economic 
+threshold, should direct control methods be used. 
+ Biological control uses living organisms or germs to affect the 
+pests. 
+ There are a number of natural pesticides that can be used in 
+organic cotton cultivation. Most of them are based on locally 
+available plants. 
+ Caution: Many natural pesticides also affect beneficial insect 
+populations and thus should be used only when really 
+necessary. 
+ Traps can help reduce the populations of certain pests, 
+especially of moths. If used at an early stage, they can prevent 
+mass multiplication. 
+ 
+Practical exercise: Preparing natural pesticides 
+Preparations: Arrange materials and equipments for preparing 3-4 
+natural pesticides in group work. 
+Provide an overview on the direct pest management methods with 
+the help of Transparency 22. Invite the participants to share their 
+experiences with using natural pesticides. If available, distribute 
+sheets describing the preparation of different natural pesticides 
+used in the region. 
+Divide the participants into groups, each group preparing one 
+natural pesticide. The groups can be instructed by an extension 
+worker or farmer experienced in the preparation and use of the 
+natural pesticide. In the end, each group presents their method 
+and product to the other participants. 
+ 
+Transparency 22: Direct pest management methods. 
+ 
+Description of the transparency 
+The transparency shows three categories for direct pest management 
+and lists some examples of each category. The pictures show one 
+example, with the name indicated to the left. 
+Organic Cotton Training Manual
+Direct pest management methods
+Biological control
+Trichogramma cards (parasitic wasp)
+Bt-spray (Bacillus thuringensis)
+NPV (Nuclear polyhedrosis virus)
+Beauvaria bassiana (fungus)
+Mass trapping
+Light traps
+Sticky traps
+Pheromone traps
+Natural pesticides
+Neem
+Botanical mixtures
+Buttermilk spray
+Soft soap spray
+Pheromone trap
+Giant milkweed
+Trichogramma
+
+Organic Cotton Training Manual 
+
+Monitoring pests 
+Æ Chapter 5.5 
+Key messages to be conveyed 
+ A key to successful pest management in cotton is a careful and 
+continuous monitoring of pest levels in the cotton fields during 
+the critical growth period (approx. 4 weeks after sowing up to 
+the second harvest). 
+ Monitoring helps to determine when a pest population reaches 
+the economic threshold and, therefore, when direct control 
+measures need to be implemented. 
+ For different pests there are different economic threshold 
+levels. Pest populations below the economic threshold are 
+acceptable and do not cause crop loss to an extent that 
+justifies spraying. 
+ For monitoring pest populations, randomly inspect a number of 
+cotton plants while crossing the field in diagonals. 
+ It is important that pest management measures are 
+implemented at the right time – not too early, not too late. 
+ 
+Field demonstration: Monitoring with the help of the pegboard 
+Explain the concept of monitoring and the use of the pegboard 
+(see description in the Organic Cotton Crop Guide) with the help of 
+Transparency 23. If possible, visit a nearby cotton field and 
+demonstrate the use of the pegboard for monitoring American 
+bollworms or other insects. This exercise can be combined with 
+field demonstrations on pests, pest damage and natural enemies 
+covered in Chapters 5.2 and 5.3. 
+ 
+Transparency 23: Monitoring bollworm infestation based on the concept 
+of economic thresholds with the help of a peg board. 
+ 
+Description of the transparency 
+The picture on the left side shows a farmer using the pegboard for 
+monitoring bollworm populations in a cotton field. An example of a 
+pegboard is given below the drawing. The picture to the right emphasizes 
+that spraying (of natural pesticides!) should only be done if the economic 
+threshold is reached. 
+Organic Cotton Training Manual
+Monitoring pests - Economic threshold
+(Graphics: gtz-IPM Project Shinyanga, Tanzania)
+Scouting for pests with the pegboard
+Pest control only if pest populations
+are beyond the economic threshold
+•
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+•
+• • • • • • • • • • • • • • •
+
+Organic Cotton Training Manual 
+
+Soil cultivation and weed management 
+Æ Chapters 6.1 – 6.3 
+Key messages to be conveyed 
+ For soil and seedbed preparation the same ‘good farming 
+practices’ should be followed as recommended in conventional 
+farming. 
+ Once the cotton crop has developed a good stand and the first 
+top dressing of organic manure has been applied (e.g. de-oiled 
+castor cake (DOC) and compost), earthing up ridges helps 
+suppress weeds and reduces evaporation of soil moisture. 
+ The ideal spacing depends on the soil type and the irrigation 
+facilities. The spacing should be such that the mature crop 
+covers the soil completely. 
+ Re-sow cotton in gaps where the seeds did not germinate, or 
+fill the gaps with trap crops such as sunflower, maize and 
+pigeon pea. 
+ Most important for successful weed management in cotton are 
+proper crop rotation and timely soil cultivation. 
+ Fields need not be kept completely free of weeds: weeds take 
+up nutrients which otherwise would be lost through leaching, 
+and are important hosts for beneficial insects. 
+ They also serve as trap crops, distracting pests from the cotton 
+plant. 
+ 
+Brain storming: Soil cultivation and weed management 
+Prepare three charts with the topics ‘Preparing the field’, ‘Sowing’ 
+and ‘Weed management’. Ask the participants what practices they 
+find useful in the three areas, and note them down on the 
+respective charts. Complement the collected points with the help of 
+Transparency 24. 
+ 
+Transparency 24: Soil cultivation and weed management in organic 
+cotton. 
+ 
+Description of the transparency 
+The transparency lists some measures recommended for organic cotton 
+cultivation related to field preparation, sowing and pest management. 
+Photos are of the Maikaal bioRe project in central India. 
+Organic Cotton Training Manual
+Soil cultivation and weed management
+Preparing the field
+Early ploughing to expose pests to 
+the sun
+Earthing up ridges
+Soil cultivation speeds up the 
+decomposition of organic matter
+Weed management
+Crop rotation prevents weeds
+Weeds can also be beneficial
+Timely intercultural 
+operations
+Sowing
+Appropriate spacing
+2-4 seeds per spot
+Gap filling with trap crops
+Timely thinning
+
+Organic Cotton Training Manual 
+
+Water management 
+Æ Chapters 7.1 – 7.3 
+Key messages to be conveyed 
+ Increasing soil organic matter improves water retention in the 
+soil, and thus allows the crop to better sustain dry periods. 
+ During the first 6–7 weeks after sowing, irrigation should be 
+moderate in order to avoid too heavy vegetative growth, and to 
+encourage cotton roots to penetrate deeply into the soil. 
+ The cotton crop is very sensitive to waterlogging, which causes 
+increased boll shedding, thus affecting yields. 
+ Shallow soil cultivation (hoeing) breaks the soil capillaries and 
+thus reduces evaporation. 
+ Active rainwater harvesting through pits or trenches leading to 
+wells can help to recharge groundwater levels and thus to 
+improve the availability of irrigation water. 
+ Drip irrigation systems enable farmers to start cotton cultivation 
+before the onset of the rainy season, to bridge dry periods and 
+to protect at least part of their fields from drought. 
+ Low-cost drip systems allow farmers to install drip-irrigation 
+with lower investment costs, but the cheaper systems are 
+usually less durable. 
+ 
+Guest lecture: Irrigation and water saving in cotton 
+Invite a resource person (extension worker, scientist, experienced 
+farmer) to share his/her knowledge and experience with irrigation 
+and water saving in cotton cultivation. If possible, illustrate the 
+suggested measures with photos, samples or field visits. Discuss 
+the advantages and disadvantages of the suggested measures 
+with the participants and note down the points. 
+ 
+Transparency 25: Drip, “Easy drip” and “Pepsee drip” systems for 
+cotton. 
+ 
+Description of the transparency 
+The photo shows three low-cost drip irrigation systems used in cotton 
+fields in central India. From left to right the durability as well as the price 
+decreases. The ‘Pepsee’ system makes use of thin polyethylene pipes 
+locally used for packing ice candies. Because it is installed without micro-
+tubes one pipe is needed per cotton row. 
+Organic Cotton Training Manual
+Low-cost drip irrigation in cotton
+Normal drip system 
+(approx. 1100 US$ per ha)
+“Easy Drip” system 
+(approx. 400 US$ per ha)
+“Pepsee” drip system 
+(approx. 220 US$ per ha)
+
+Organic Cotton Training Manual 
+
+Picking, storage, processing and trade 
+Æ Chapters 8.1 – 8.3 
+Key messages to be conveyed 
+ The quality of the cotton harvest depends on the length of the 
+fibre (staple length), on the degree of contamination with non-
+fibre material such as leaves or dust, and on the portion of fibre 
+damaged by pest or disease infestation. 
+ Measures like picking cotton at the right time and keeping 
+cotton of lower quality separately improve the quality of the 
+harvest, and thus pay off directly for the farmers. 
+ To reduce the labour required for cotton picking use a long 
+sack so that the weight rests on the ground, keep the sack 
+permanently open with a ring of flexible wood and pick two 
+rows at a time. 
+ Take care to prevent contamination from dust or chemicals, 
+especially fertilizers, pesticides and petroleum while storing the 
+cotton. 
+ Throughout the entire organic cotton processing chain, it is 
+important to prevent contamination and to separate organic 
+from conventional cotton. 
+ The market success and thus the businesses of all who are 
+involved in the cotton chain depend on whether a product of 
+high quality and ensured organic integrity can be achieved. 
+ 
+Discussion: Identifying critical points for quality management 
+Present Transparency 26 and explain the individual steps of the 
+cotton processing chain from field to the consumer. Ask the 
+participants what could affect the quality or the organic integrity of 
+the product in each processing step. Discuss why the quality of the 
+final product is important also for the organic farmer. 
+ 
+Transparency 26: The cotton processing chain – from field to 
+consumer. 
+ 
+Description of the transparency 
+The arrows lead you through the individual steps of the cotton processing 
+chain from the field to the consumer. The photos illustrate how organic 
+cotton from the Maikaal bioRe project reaches the retail outlets in 
+Switzerland as organic garments. 
+Organic Cotton Training Manual
+The cotton processing chain
+Picking
+Storing
+Selling
+Ginning
+Cleaning
+Collecting
+Baling
+Spinning
+Fabric formation
+Retail
+Stitching
+Dying/Finishing
+Photos: 
+Remei AG
+
+Organic Cotton Training Manual 
+
+Strategies for organic cotton production 
+Æ Chapter 9.2 
+Key messages to be conveyed 
+ Generally, farmers’ income from a crop depends on the yields, 
+the costs of production, the price gotten on the market and the 
+production risk involved. 
+ In organic cotton, farmers can basically follow one of two 
+different strategies to achieve good profits: ‘intensive organic’ 
+or ‘low input, low risk’.’ 
+ The first strategy (‘intensive organic’) aims to achieve high 
+yields through optimum nutrient supply and crop care. 
+ The second strategy (‘low cost, low risk’) tries to reduce 
+production costs and the risk of production, targeting medium 
+yields. 
+ Although it is not possible to draw a clear line between the two 
+strategies, this basic understanding can help farmers to make 
+their farms more profitable and/or less risky. 
+ 
+Discussion: Making organic cotton farming profitable 
+Using a board, explain the different general options for increasing 
+farmers’ income (see Organic Cotton Crop Guide Figure 22). Then 
+present Transparency 27 and explain the idea of the two different 
+strategies. If possible, provide examples of farmers following the 
+strategies (e.g. the examples given in the Crop Guide Table 9). 
+Ask the participants which strategy they would opt for on their 
+farm. Discuss the advantages and disadvantages of both 
+strategies. Which strategy could be suitable for which type of 
+farms? The objective of this exercise is to make participants aware 
+that there is no one-size-fits-all approach in organic cotton farming. 
+ 
+Transparency 27: Two strategies for achieving good revenues from 
+organic cotton. 
+ 
+Description of the transparency 
+The transparency shows two different approaches to organic cotton 
+farming. In reality, of course, farms are somewhere in-between. The 
+major advantages and disadvantages are listed for both strategies. The 
+illustration shows how higher or lower input costs (piles of coins) lead to 
+bigger or smaller crops, resulting in higher or lower revenues. The 
+difference between the revenues (e.g. 500 coins) minus the production 
+costs (e.g. 200 coins) is the profit or gross margin (in this case 300 
+coins). 
+Organic Cotton Training Manual
+Strategies in organic cotton farming
+Strategy I: Intensive organic
+ High yields, but relatively high
+production costs
+ High loss in case crop fails
+Strategy II: Low input, low risk
+ Smaller yields, but also lower 
+production costs, thus still good
+income
+ Lower loss in case crop fails
+Production costs
+Revenues
+Production costs
+Revenues
+
+Organic Cotton Training Manual 
+
+The economic performance of organic cotton 
+Æ Chapters 9.3 and 9.4 
+Key messages to be conveyed 
+ The yields and profits of organic cotton production vary to a 
+great degree among different farms and different regions. 
+ Organic cotton production can be more or less intensive 
+regarding input use and productivity (see Transparency 28). 
+ Most organic cotton projects in the tropics report that after 
+going through a conversion period of 2–3 years, the cotton 
+yields on organic farms reach back to roughly the same level. 
+ Costs for inputs are usually 20-80% lower, depending on 
+whether organic manures and pest management items are 
+purchased from outside or are produced on the farm itself. 
+ With similar yields, lower production costs and a premium 
+price, organic cotton farming usually is more remunerative 
+compared to conventional cotton farming. 
+ During the initial years of organic management (conversion 
+period), the farm economy looks different. 
+ Record keeping can help compare the economies of organic 
+and 
+conventional 
+farms, 
+and 
+monitor 
+the 
+economic 
+performance during the conversion period. 
+ 
+Exercise: Record keeping 
+Introduce the concept of record keeping with the help of the 
+template given in Annex 10.6 of the Crop Guide. Invite the 
+participants to fill in empty templates in small groups, using the 
+examples of their own farms or of farmers they know. If time 
+permits organize a visit to a village and ask the participants to fill in 
+the templates together with cotton farmers in interviews. Each 
+group shall calculate the production costs, revenues and profits, 
+and present the result to the plenum. 
+ 
+Transparency 28: Farming intensities in conventional and organic 
+cotton production. The arrows indicate typical paths of conversion from 
+conventional to organic production. 
+ 
+Description of the transparency 
+The illustration compares the intensity of production (input use, yields) of 
+different types of conventional (left) and organic cotton farming (right). 
+While conversion to organic farming usually means a reduction in 
+intensity (the right bar is lower), in some cases it can also lead to higher 
+intensity – with intensive organic nutrient and pest management. The 
+arrows indicate typical developments when conventional farms convert to 
+organic management. 
+Organic Cotton Training Manual
+Farming intensities in conventional and organic cotton production
+Conventional 
+Agriculture
+Organic 
+Agriculture
+Intensity of the production
+High input 
+conventional
+Low input 
+conventional
+Traditional, 
+not certifiable
+Traditional, 
+certifiable
+Low input 
+organic
+High input 
+organic
+Conversion 
+paths
+“Organic by default”
+usual conversion path
+minor conversion path
+
+Organic Cotton Training Manual 
+
+The conversion process 
+Æ Chapter 9.5 
+Key messages to be conveyed 
+ The most important hurdle for organic cotton production is the 
+challenge of getting through the conversion process. 
+ During conversion, most farmers experience a drop in yields, 
+while at the same time measures to re-establish soil fertility 
+require additional effort and labour. 
+ With proper organic management implemented, yields usually 
+recover after 2–3 years, as the soil builds up organic matter 
+and populations of soil organisms increase. 
+ Conversion to organic farming usually results in greater 
+diversity: of crops grown, of types of activities and of solutions 
+to problems. 
+ Organic farming is a knowledge-intensive type of production, 
+and thus competent extension services play an important role. 
+ Appropriate 
+measures 
+can 
+help 
+to 
+reduce 
+problems 
+encountered during the conversion process. 
+ 
+Group work: Developing a crop calendar 
+Introduce the topic with the help of Transparency 29. Divide the 
+participants into 3-4 groups. If participants are from different 
+regions, form groups by region. Provide each group with a chart 
+with a grid as given below: 
+Period/Month 
+Crop 
+management & 
+general activities 
+Soil and water 
+management 
+Pest management 
+& crop care 
+ 
+ 
+ 
+ 
+Ask the groups to fill in the measures they find suitable for organic 
+cotton farming for each month/period. Inspiration can be drawn 
+from the crop calendar in Annex 10.5 of the Organic Cotton Crop 
+Guide. Each group shall present their result in the plenum. 
+ 
+Transparency 29: Success factors in the conversion to organic cotton 
+farming. 
+ 
+Description of the transparency 
+The transparency lists some crucial aspects to be considered before and 
+during conversion to organic cotton farming. The photo to the right shows 
+a farmer explaining his compost management to extension staff from 
+different organic cotton projects in India. The photo to the left shows an 
+organic cotton field with a border crop of pigeon pea (right) and residues 
+of a previous soy bean crop (front). 
+Organic Cotton Training Manual
+Success factors in the conversion to organic cotton farming
+Adapting the production system
+Try out organic technologies on small 
+plots to gain experience
+Identify suitable crop rotation, green 
+manures and intercrops
+Ensure sufficient input of organic 
+matter (if necessary from outside the 
+farm)
+Getting ready
+Adequate training in organic agriculture 
+and organic cotton production
+Involve the family in decision making
+Develop strategies to cope with initial 
+drop in yields and higher labour 
+requirement
+Competent and timely advice on organic 
+crop management
+Regular exchanges with experienced 
+organic farmers
+
+Organic Cotton Training Manual 
+
+The role of women in organic cotton farming 
+Æ Chapter 9.6 
+Key messages to be conveyed 
+ Although on many farms most decisions are still taken by men, 
+women play an important role in organic farming. 
+ Conversion to organic cotton farming is not only a question of 
+production techniques; it has equally important implications for 
+the social and economic level of the household. 
+ Thus the different perceptions and needs of the family 
+members should be taken into consideration when thinking 
+about conversion. 
+ Organic cotton projects need to ensure that women are 
+included in decision-making processes, especially concerning 
+the conversion process. For this, they should be encouraged to 
+participate in training activities and meetings. 
+ 
+Group work 
+Introduce the topic with the help of Transparency 30. Divide the 
+participants into groups and invite them to brainstorm about the 
+different aspects mentioned on the transparency. Ask them to note 
+down their main points on cards. Each group shall present the 
+result of their discussion by posting their cards on a chart with the 
+three divisions. Discuss possible activities and measures that 
+organic cotton projects can do to improve the participation of 
+women. The aim of this session is to stimulate awareness among 
+participants for gender issues in organic cotton farming. 
+ 
+Transparency 30: The role of women in organic cotton farming. 
+ 
+Description of the transparency 
+The transparency indicates some relevant aspects when it comes to re-
+thinking the role of women in organic cotton farming. The points listed in 
+the three fields are to stimulate reflection and discussion. The photo 
+shows women harvesting red chillis on an organic cotton farm of the 
+Maikaal bioRe project, central India. 
+Organic Cotton Training Manual
+The role of women in organic cotton farming
+Involvement of women
+Impact on women
+Support to women
+Work load
+Learning new skills
+Forming of 
+women’s groups
+Training on organic 
+farming
+Experience 
+sharing
+Role sharing
+Decision making
+Food crops
+New activities
+
+Organic Cotton Training Manual 
+
+Annex 1: Example of a 5-day training schedule 
+ 
+Time 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+9:00 
+• Introduction to the 
+training: objectives, 
+programme 
+• Introduction of the 
+participants 
+• Why organic cotton? 
+ 
+• Soil properties 
+• The importance of soil 
+organic matter 
+• Keeping your cotton 
+crop healthy 
+Excursion to organic 
+cotton farms: 
+• The farmer presents 
+the farm and explains 
+his management 
+practices. 
+• Soil cultivation and 
+weed management 
+• Water management 
+• Picking, storage, 
+processing and trade 
+10:30 
+Tea Break 
+11:00 
+• Growing organic cotton
+• Organic standards 
+• Crop rotation – rotation 
+crops 
+• Green manures and 
+intercrops 
+• Important cotton pests 
+• Management of major 
+cotton pests 
+• Demonstration: Pests 
+and natural enemies 
+• Exercise: Monitoring 
+pests 
+• Strategies in organic 
+cotton production 
+• The economic 
+performance of organic 
+cotton 
+ 
+12:30 
+Lunch Break 
+13:30 
+• Inspection and 
+certification 
+• Nutrient requirements 
+• Uptake of nutrients 
+• Nitrogen immobilisation
+• Promotion of natural 
+enemies 
+• Direct pest 
+management methods 
+ 
+• Exercise: Setting up a 
+compost heap 
+• The conversion 
+process 
+• The role of women in 
+organic cotton farming 
+15:30 
+Tea Break 
+16:00 
+• Requirements of the 
+cotton crop 
+• Selecting the right 
+cotton varieties 
+ 
+• Application of manures 
+and fertilizers 
+• Compost quality 
+• Bio-fertilizers 
+• Monitoring pests 
+• Exercise: Record 
+keeping 
+• Course evaluation and 
+feedback about the 
+training 
+17:30 
+Break, Dinner

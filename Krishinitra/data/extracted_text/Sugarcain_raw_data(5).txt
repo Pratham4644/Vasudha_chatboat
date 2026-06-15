@@ -1,0 +1,3930 @@
+Foreword 
+ 
+Numerous books and documents have been written and published about the 
+sugarcane crop, documenting cultivation practices associated with its culture. A vast 
+majority of these describing agronomic practices are adequate in written text, but are 
+inadequate in directing the reader about field practical skills in growing sugarcane. 
+ 
+To be viable and competitive, sugarcane growers face many challenges. These require 
+significant economic and social restructuring and the adoption of new, complex and 
+high-risk technologies. The main prerequisites for these decisions are the availability of 
+high quality, timely and relevant information. 
+ 
+More than ever, sugarcane farmers, cane department officials of sugar factories, 
+technicians, extension workers, students, consultants, bank officials, teachers and 
+research scientists need to understand the whys and how's of modern sugarcane 
+production with drip irrigation. 
+ 
+But recommendations given to farmers often do not answer questions such as growing 
+method, drip system guidelines, how to increase the efficiency of water use and 
+applied fertilizer through fertigation, how to lessen the chance of lodging etc. This is 
+why there is a wide gap between the potential and actual productivities in most 
+sugarcane growing regions of the world. 
+ 
+Producing this information was a challenge for Netafim ACS, Israel. The existing 
+information system on drip irrigated sugarcane crop lacks adaptability to local 
+conditions, completeness, quality, easy access and regular updating. Over the last 45 
+years Netafim has developed many crop growing manuals to address these 
+deficiencies. This has culminated in this new series of growing guide on web pages.
+
+Introduction 
+ 
+Sugarcane, Saccharum officinarum L., an old energy source for human beings and, 
+more recently, a replacement of fossil fuel for motor vehicles, was first grown in South 
+East Asia and Western India. Around 327 B.C. it was an important crop in the Indian 
+sub-continent. It was introduced to Egypt around 647 A.D. and, about one century 
+later, to Spain (755 A.D.). 
+ 
+ 
+Global Distribution of Sugarcane (Click to Enlarge) 
+ 
+Since then, the cultivation of sugarcane was extended to nearly all tropical and sub-
+tropical regions. Portuguese and Spaniards took it to the New World early in the XVI 
+century. It was introduced to the United States of America (Louisiana) around 1741. 
+ 
+Botanically, sugarcane belongs to the Andropogonae tribe of the family Gramineae, 
+order Glumiflorae, class Monocotyledoneae, subdivision Angiospermae, division 
+Embryophita siphonogama. The subtribe is Sacharae and the genus, of course, 
+Saccharum, derived from the Sanskrit "sarkara = white sugar", a reminder that the 
+plant reached the Mediterranean region from India. 
+ 
+Sugarcane growing countries of the world are lying between the latitude 36.7° north 
+and 31.0° south of the equator extending from tropical to subtropical zones. This 
+map depicts the distribution of sugarcane in the world. 
+ 
+Worldwide sugarcane occupies an area of 20.42 million ha with a total production of 
+1333 million metric tons (FAO, 2003). Sugarcane area and productivity differ widely
+
+from country to country (Table 1). Brazil has the highest area (5.343 million ha), while 
+Australia has the highest productivity (85.1 tons/ha). Out of 121 sugarcane producing 
+countries, fifteen countries (Brazil, India, China, Thailand, Pakistan, Mexico, Cuba, 
+Columbia, Australia, USA, Philippines, South Africa, Argentina, Myanmar, Bangladesh) 
+86% of area and 87.1% of production (Table 1). Out of the total white crystal sugar 
+production, approximately 70% comes from sugarcane and 30% from sugar beet. 
+ 
+Sugarcane area and productivity differ widely from country to country (Table 1). Brazil 
+has the highest area (5.343 million ha), while Australia has the highest productivity 
+(85.1 tons/ha). Out of 90 sugarcane producing countries, fifteen countries (Brazil, 
+India, China, Thailand, Pakistan, Mexico, Cuba, Columbia, Australia, USA, Philippines, 
+South Africa, Argentina, Myanmar, Bangladesh) 86% of area and 87.1% of production 
+(Table 1). 
+ 
+Table 1. Sugarcane In The world: Area, Production And Productivity 
+Country 
+Area 
+(million ha) 
+Production (million tons) 
+Productivity 
+(Tons/ha) 
+Brazil 
+5.343 
+386.2 
+72.3 
+India 
+4.608 
+289.6 
+62.8 
+China 
+1.328 
+92.3 
+65.5 
+Thailand 
+0.970 
+64.4 
+66.4 
+Pakistan 
+1.086 
+52.0 
+47.9 
+Mexico 
+0.639 
+45.1 
+70.6 
+Colombia 
+0.435 
+36.6 
+84.1 
+Australia 
+0.423 
+36.0 
+85.1 
+USA 
+0.404 
+31.3 
+77.5 
+Philippines 
+0.385 
+25.8 
+67.1 
+Indonesia 
+0.350 
+25.6 
+73.1 
+Cuba 
+0.654 
+22.9 
+35.0 
+South Africa 
+0.325 
+20.6 
+63.4 
+Argentina 
+0.295 
+19.2 
+65.2 
+Myanmar 
+0.165 
+7.5 
+45.4 
+Bangladesh 
+0.166 
+6.8 
+41.2 
+WORLD 
+20.42 
+1333.2 
+65.2 
+ 
+ Sugarcane is a renewable, natural agricultural resource because it provides sugar, 
+besides biofuel, fibre, fertilizer and myriad of by products/co-products with ecological 
+sustainability. 
+ 
+Sugarcane juice is used for making white sugar, brown sugar (Khandsari), Jaggery 
+(Gur) and ethanol. The main byproducts of sugar industry are bagasse and molasses.
+
+Molasses, the chief by-product, is the main raw material for alcohol and thus for 
+alcohol-based industries. Excess bagasse is now being used as raw material in the 
+paper industry. Besides, co-generation of power using bagasse as fuel is considered 
+feasible in most sugar mills.
+
+Growth morphology 
+ 
+Propagation 
+ 
+Stem cuttings or sections of the stalks 
+called "setts" or seed pieces propagate 
+sugarcane. Each sett contains one or 
+more buds. The buds, located in the root 
+band of the node, are embryonic shoots 
+consisting of a miniature stalk with small 
+leaves. 
+ 
+The outer small leaves are in the form of 
+scales. The outermost bud scale has the 
+form of a hood. Normally, one bud is 
+present on each node and they alternate 
+between one side of the stalk to the 
+other. 
+ 
+Variations in size, shape and ther characteristics of the bud provide a means of 
+distinguishing between varieties. Each sett also contains a circle of small dots above 
+the node, which are the root primordia. Each primordium exhibits a dark center, which 
+is a root cap, and a light colored "halo". 
+ 
+The bud sprouts under favourable conditions and gives rise to a primary stalk, whereas 
+from the primordial the sett roots originate. 
+ 
+During nearly one month after germination, that is, sprouting of the buds, the young 
+plant lives at the expense of the reserves present in the seed piece, and partially using 
+water and nutrients provided for by the first roots. 
+ 
+The Leaf 
+The leaf of the sugarcane plant is divided into two 
+parts: sheath and blade, separated by a blade joint. 
+The sheath, as its name implies, completely sheaths 
+the stalk, extending over at least one complete 
+internode. 
+ 
+The leaves are usually attached alternately to the 
+nodes, thus forming two ranks on opposite sides. The 
+mature sugarcane plant has an average total upper 
+leaf surface of about 0.5 square meter and the 
+number of green leaves per stalk is around ten, 
+depending on variety and growing conditions.
+
+The blade joint is where two wedge shaped areas called "dewlaps" are found. The 
+leaves are numbered by Kuijper's system, as quoted by Casagrande (1991). The first 
+leaf from top to bottom of the stalk with clearly visible dewlap is designated as +1. 
+Downwards they receive, in succession, the numbers +2, and +3. The "top visible 
+dewlap" leaf (+3) is a diagnostic tissue that is frequently used in the evaluation of the 
+nutritional status. 
+ 
+The Inflorescence 
+ 
+When a sugarcane plant has reached a 
+relatively mature stage of development, 
+its growing point may, under certain 
+photoperiod 
+and 
+soil 
+moisture 
+conditions, change from the vegetative 
+to reproductive stage. 
+ 
+This means the growing point ceases 
+forming leaf primordia and starts the 
+production of an inflorescence. It is a 
+short day plant. Its photoperiodic 
+conditions can thus be attained largely 
+in the tropics. 
+ 
+The 
+inflorescence, 
+or 
+tassel, 
+of 
+sugarcane is an open-branched panicle 
+.It is also known as arrow. Therefore 
+flowering is also known as "arrowing". 
+Each 
+tassel 
+consists 
+of 
+several 
+thousand tiny flowers, each capable of 
+producing one seed. The seeds are 
+extremely 
+small 
+and 
+weigh 
+approximately 250 per gram or 113,500 
+per pound. 
+ 
+For commercial sugarcane production,inflorescence 
+development is of little economic importance. Flowering is important for crossing and 
+producing hybrid varieties. 
+ 
+Generally, a day length close to 12.5 hours and night temperatures between 20° to 
+25°c will induce floral initiation. Optimum growth conditions in the vegetative phase 
+(fertile soil, abundant supply of nitrogen and moisture) restrict inflorescence while 
+stress conditions induce formation of blossoms.
+
+The Root System 
+ 
+In the commercial sugarcane crop, 
+which is asexually propagated, 
+development of the root system is 
+initiated soon after planting a 
+portion of stem (sett) with atleast 
+one lateral bud. 
+ 
+The first roots formed are sett 
+roots, which emerge from a band of 
+root primordia above the leaf scar 
+on the nodes of the sett.Sett roots 
+can emerge within 24 hours of 
+planting, although differences in 
+the 
+time 
+required 
+for 
+root 
+emergence occur among varieties. 
+Sett roots are fine and highly branched roots, which sustain the growing plant in the 
+first weeks after germination. 
+ 
+Shoot roots are second type of root, which emerge from the base of the new shoot 5-7 
+days after planting .The shoot roots are thicker and fleshier than sett roots and develop 
+in to the main root system of the plant. Sett roots continue to grow for a period of 6-15 
+days after planting, mostly senescing and disappearing by 60-90 days as the shoot 
+root system develops and takes over supply of water and nutrients to the growing 
+shoot. By the age of 3 months, sett roots comprise less than 2% of root dry mass. 
+ 
+Sett roots initially have an elongation rate of a few mm/day, reaching 20 mm/day within 
+a few days of germination under favourable conditions. Shoot roots grow more rapidly, 
+with maximum rates of elongation of up to 80 mm/day observed, though only for short 
+periods. Mean growth rates for shoot roots over 10 days were 40 mm/day in sandy 
+soils and 28 mm/day in heavy clay. 
+ 
+Mean rates of root penetration, or the rate of descent of the root system, of 20-30 
+mm/day were also reported. Root penetration in another trial was 20 mm/day down to 
+a depth of 1.6 m for rainfed crops, but slowed in irrigated crops to 17 mm/day in the 
+first 1.0 m and 6 mm/day between 1.0 and 1.6 m. 
+ 
+Genotypic variation in sugarcane root systems is well documented and those 
+producing many tillers normally produce many roots because each new tiller is a 
+source of shoot roots. Likewise cultivars with more horizontal (weak gravitropic) root 
+penetration are more resistant to lodging than those with strongly gravitropic root 
+system.
+
+A longitudinal section of a root tip consists mainly of four parts: the root cap, the 
+growing point, the region of elongation, and the region of root hairs. The root cap 
+protects the tender tissues of the growing point as the root pushes through the soil. 
+The growing point consists mainly of an apical meristem, where cell division takes 
+place. 
+ 
+In the region of elongation, the cells increase in size and diameter until they reach their 
+ultimate size. The region of root hairs is characterized by epidermal cells forming 
+outgrowths (hairs), which dramatically increases the root-absorbing surface. 
+ 
+Stalk 
+ 
+Stalk is also known as "millable cane". It develops from the bud of seed-cane. When 
+seed-cane is planted, each bud may form a primary shoot. 
+ 
+From this shoot, secondary shoots 
+called "tillers" may form from the 
+underground buds on the primary 
+shoot. In turn, additional tillers may 
+form 
+from 
+the 
+underground 
+secondary shoot buds. The stalk 
+consists of segments called joints. 
+ 
+Each joint is made up of a node and 
+an internode. The node is where the 
+leaf attaches to the stalk and where 
+the buds and root primordia are 
+found. A leaf scar can be found at 
+the node when the leaf drops off the 
+plant. The length and diameter of 
+the joints vary widely with different varieties and growing conditions. The colors of the 
+stalk seen at the internodes depend on the cane variety and environmental conditions. 
+ 
+For example, exposure of the internodes to the sun may result in a complete change of 
+color. The same variety grown in different climates may exhibit different colors. All 
+colors of the stalk derive from two basic pigments: the red color of anthocynin and the 
+green of chlorophyll. 
+ 
+The ratio of the concentration of these two pigments produce colors from green to 
+purple-red to red to almost black. Yellow stalks indicate a relative lack of these 
+pigments. The surface of the internode, with the exception of the growth ring, is more 
+or less covered by wax. The amount of wax is variety dependent.
+
+The top of the stalk is relatively low in sucrose and therefore is of little value to the mill. 
+The top 1/3 contains, however, many buds and a good supply of nutrients, which 
+makes it valuable as seed cane for planting. 
+ 
+A cross section of an internode shows, from the outside to the center, the following 
+tissues: epidermis, cortex or rind, and ground tissue with embedded vascular bundles. 
+The cells of the rind are thick-walled and lignified. These cells help strengthen the 
+stalk. More toward the center, the ground tissue contains the vascular bundles with the 
+xylem and phloem. 
+ 
+Xylem tissue conducts water and its dissolved minerals upward from the roots, and 
+phloem conductive tissue transports plant- manufactured nutrients and products, for 
+the most part, downward toward the roots. 
+ 
+Two types of cracks are sometimes found on the surface of the stalk; harmless, small 
+corky cracks, which are restricted to the epidermis, and growth cracks which may be 
+deep and run the whole length of the internode. 
+ 
+Growth cracks are harmful since they allow increased water loss and expose the stalk 
+to disease organisms and insects. Growth cracks are dependent on variety and 
+growing conditions.
+
+Crop growth phases 
+ 
+Germination and Establishment Phase 
+The germination phase is from 
+planting 
+to 
+the 
+completion 
+of 
+germination of buds. 
+Under field conditions germination 
+starts from 7 to 10 days and 
+usually lasts for about 30-35 days. 
+In sugarcane, germination denotes 
+activation 
+and 
+subsequent 
+sprouting of the vegetative bud. 
+The 
+germination 
+of 
+bud 
+is 
+influenced by the external as well 
+as internal factors. 
+The external factors are the soil 
+moisture, soil temperature and 
+aeration. 
+The internal factors are the bud 
+health, sett moisture, sett reducing 
+sugar content and sett nutrient 
+status. 
+Optimum temperature for sprouting 
+is 
+around 
+28o-30oc 
+.Base 
+temperature 
+for germination 
+is 
+about 12o. Warm, moist soil ensures rapid germination. 
+Germination results in an increased respiration and hence good soil aeration 
+are important. 
+Therefore open structured porous soils facilitate better germination. 
+Under field conditions, about 60 per cent germination can be considered safe 
+for raising a satisfactory crop. 
+ 
+Tillering Phase 
+Tillering starts from around 40 days after planting and may last up to 120 days. 
+Tillering is a physiological process of repeated under ground branching from 
+compact nodal joints of the primary shoot. 
+Tillering provides the crop with appropriate number of stalks required for a good 
+yield. 
+Various factors viz., variety, light, temperature, irrigation (soil moisture) and 
+fertilizer practices influence tillering
+
+Light is the most important external factor influencing tillering. Adequate light 
+reaching the base of the sugarcane plant during the tillering period is of 
+paramount importance. 
+Temperature around 30oc is considered optimum for tillering. Temperature 
+below 20o retards tillering. 
+Early formed tillers give rise to 
+thicker and heavier stalks. Late 
+formed tillers either die or 
+remain short or immature. 
+Maximum 
+tiller 
+population 
+reaches around 90-120 days 
+after planting. By about 150-
+180 days, atleast 50 per cent 
+of the shoots die and a stable 
+population is established. 
+Cultivation practices such as 
+spacing, time of fertigation, 
+water availability and weed 
+control influence tillering. 
+Though 6-8 tillers are produced from a bud, ultimately only 1.5 to 2 tillers per 
+bud remains to form canes. 
+Ratoon crop gives much higher and early tillering than a plant crop. 
+Encouraging good tillering is important to build adequate population. 
+Grand Growth Phase 
+Grand growth phase starts from 120 days after planting and lasts up to 270 
+days in a 12-month crop. During the early period of this phase tiller stabilization 
+takes place. Out of the total tillers 
+produced only 40-50% survive by 150 
+days to form millable cane. 
+Most important phase of the crop wherein 
+the actual cane formation and elongation 
+and thus yield build up takes place. 
+Leaf production is frequent and rapid 
+during this phase with LAI reaching around 
+6-7. 
+Under favourable conditions stalks grow 
+rapidly almost 4-5 internodes per month. 
+Drip irrigation, fertigation and warm, humid 
+and sunny climatic conditions favour better 
+cane elongation. Moisture stress reduces 
+internodal length. A temperature around 30oc with a humidity of around 80% is 
+most conducive for good growth.
+
+Ripening and Maturation Phase 
+Ripening 
+and 
+maturation phase in a 
+twelve-month 
+crop 
+lasts for about three 
+months starting from 
+270-360 days. 
+Sugar synthesis and 
+rapid accumulation of 
+sugar 
+takes 
+place 
+during this phase and 
+vegetative growth is 
+reduced. 
+As ripening advances, 
+simple 
+sugars 
+(monosaccharide viz., fructose and glucose) are converted into cane sugar 
+(sucrose, a disaccharide). 
+Cane ripening proceeds from bottom to the top and hence bottom portion 
+contains more sugars than the top portions. 
+Ample sunshine, clear skies cool nights and warm days (i.e., more diurnal 
+variation in temperature) and dry weather are highly conducive for ripening. 
+Practical Implications 
+Better understanding of what is going on in the plant 
+This understanding aids in efficient water and nutrient management 
+Control of vegetative growth and manipulation of sugar production to some 
+extent is possible 
+Knowledge of phenological growth phases is essential for maximizing cane 
+yields and sugar recovery 
+Climate 
+ 
+Sugarcane is grown in the world from alatitude 36.7° N and 31.0° S, from sea level to 
+1000m of altitude or little more. It is considered as essentially a tropical plant. It is a 
+long duration crop and thus it encounters all the seasons' viz., rainy, winter and 
+summer during its life cycle. 
+ 
+Principal climatic components that control cane growth, yield and quality are 
+temperature, light and moisture availability. The plant thrives best in tropical hot sunny 
+areas. The "ideal" climate for production of maximum sugar from sugarcane is 
+characterized as:
+
+• 
+A long, warm growing season with a high incidence of solar radiation and 
+adequate moisture (rainfall) - the plant uses from 148 to 300g of water to 
+produce 1.0g of dry substance. 
+• 
+A fairly dry, sunny and cool, but frost free season for ripening and harvesting - 
+moisture percentage drops steadily throughout the life of the sugarcane plant, 
+from 83% in very young cane to 71% in mature cane, meanwhile sucrose grows 
+from less than 10 to more than 45% of the dry weight. 
+• 
+Freedom from typhoons and hurricanes 
+Rainfall: A total rainfall between 1100 and 1500 mm is adequate provided the 
+distribution is right, abundant in the months of vegetative growth followed by a dry 
+period for ripening. During the active growth period rainfall encourages rapid cane 
+growth, cane elongation and internode formation. But during ripening period high 
+rainfall is not desirable because it leads to poor juice quality, encourages vegetative 
+growth, formation of water shoots and increase in the tissue moisture. It also 
+hampers harvesting and transport operations. This seems to be the case in regions 
+of South America, South East Asia and some parts of Southern India. 
+Temperature: Growth is closely related to temperature. Optimum temperature for 
+sprouting (germination) of stem cuttings is 32° to 38°c. It slows down below 25°, 
+reaches plateau between 30°-34°, is reduced above 35° and practically stops when 
+the temperature is above 38°.Temperatures above 38° reduce the rate of 
+photosynthesis and increase respiration. For ripening, however, relatively low 
+temperatures in the range of 12° to 14° are desirable, since this has a noticeable 
+influence on the reduction of vegetative growth rate and enrichment of sucrose in 
+the cane. At higher temperatures reversion of sucrose into fructose and glucose 
+may occur besides enhancement of photorespiration thus leading to less 
+accumulation of sugars. Severe cold weather inhibits bud sprouting in ratoon crop 
+and arrests cane growth. Temperatures lower than 0°C induces freezing of less 
+protected parts such as young leaves and lateral buds. The damage depends upon 
+the length of the cold period. Smut initiation and spread is high at ambient 
+temperatures of 25° -30°. Similarly the spread of red not disease is high at higher 
+temperatures (37°-400°) when all other conditions are similar. Rust incidence is 
+high when the minimum temperatures are drastically reduced. Shoot-fly incidence 
+is high in summer when the air temperatures are very high. Also higher shoot fly 
+incidence was observed when the difference between maximum (day) and 
+minimum (night) temperature are low. 
+Relative humidity: High humidity (80-85%) favours rapid cane elongation during 
+grand growth period. A moderate value of 45-65% coupled with limited water supply 
+is favourable during the ripening phase.
+
+Sunlight: 
+ 
+ 
+ 
+Sugarcane is a sun loving plant. It grows well in areas receiving solar energy from 
+18 - 36 MJ/m2. Being a C4 plant, sugarcane is capable of high photosynthetic rates 
+and the process shows a high saturation range with regards to light. Tillering is 
+affected by intensity and duration of sunshine. High light intensity and long duration 
+promote tillering while cloudy and short days affect it adversely. Stalk growth 
+increases when daylight is within the range of 10 - 14 hours. Increase in leaf area 
+index is rapid during 3rd to 5th month, coinciding the formative phase of the crop 
+and attained its peak values during early grand growth phase (Ramanujam and 
+Venkataramana, 1999). 
+Optimum climatic requirements: Mean total radiation received in 12 months of 
+growth has been estimated to be 
+around 6350 MJ/m2. About 60% 
+of this radiation was intercepted 
+by the canopy during formative 
+and grand growth periods. The 
+total 
+dry 
+matter 
+production 
+showed linear relationship with 
+the intercepted PAR and the test 
+of correlation yielded R2 value of 
+0.913 
+(Ramanujam 
+and 
+Venkataramana, 1999). However, 
+the energy conversion rate in 
+terms of dry matter production 
+per unit of intercepted radiation 
+showed a quadratic response 
+with percent light interception indicating that the rate of energy conversion 
+increased linearly up to 50% light interception and beyond this level, the rate of 
+photosynthetic conversion of solar radiation gets reduced (Ramanujam and 
+Venkataramana, 1999). In sugarcane crop canopy the upper 6 leaves intercept
+
+70% of the radiation and the photosynthetic rate of the lower leaves decreased due 
+to mutual shading. Therefore, for effective utilization of radiant energy a LAI of 3.0 - 
+3.5 is considered optimum. Areas having short growing period benefit from closer 
+spacing to intercept high amount of solar radiation and produce higher yields. But in 
+areas with long growing season wider spacing is better to avoid mutual shading 
+and mortality of shoots. Rough estimates show that 80% of water loss is associated 
+with solar energy, 14% with wind and 6% with temperature and humidity. High wind 
+velocities exceeding 60-km/hour are harmful to grownup canes, since they cause 
+lodging and cane breakage. Also, winds enhance moisture loss from the plants and 
+thus aggravate the ill effects of moisture stress. 
+Effect of climate on sugarcane yields and sugar recovery: 
+The sugarcane productivity and juice quality are profoundly influenced by weather 
+conditions prevailing during the various crop-growth sub-periods. 
+Sugar recovery is highest when the weather is dry with low humidity; bright 
+sunshine hours, cooler nights with wide diurnal variations and very little rainfall 
+during ripening period. These conditions favour high sugar accumulation. 
+ 
+Soil Requirement 
+ 
+Soil is a medium for plant growth. It provides nutrients, water and anchorage to the 
+growing plants. Maintenance of proper physical, chemical and biological conditions of 
+the soil is necessary for realizing higher growth, yield and quality of sugarcane. 
+Sugarcane does not require any specific type of soil as it can be successfully raised on 
+diverse soil types ranging from sandy soils to clay loams & heavy clays. 
+ 
+A well drained, deep, loamy soil with a bulk density of 1.1 to 1.2 g/cm3 (1.3-1.4 g/cm3 in 
+sandy soils) and total porosity, with an adequate balance between pores of various 
+sizes, is higher than 50%; ground water table below 1.5 to 2.0 m from soil surface and 
+an available water holding capacity of 15% or more (15 cm per meter depth of soil is 
+considered ideal for sugarcane cultivation). 
+ 
+The optimum soil pH is about 6.5 but sugarcane can tolerate considerable degree of 
+soil acidity and alkalinity. Hence, it is found growing in soils with pH in the range of 5 to 
+8.5. Liming is required if pH is less than 5.0, or gypsum application if pH is more 
+than 9.5. Nematode infestations are likely to occur in very sandy soils. 
+ 
+Soil testing before planting is desirable as it helps in determining the optimum quantity 
+of macro and micro nutrient application. Chemical constraints in the soils, such as 
+acidity and low fertility, are relatively easy to correct or control.
+
+Poor physical conditions like soil compaction due to intense mechanization when 
+limiting, are much more difficult to ameliorate. For this reason, physical properties of 
+soil are given as a factor in sugarcane growth. Based on the experience gained in 
+Brazil, a few criteria to define soils, which are apt for sugarcane growing, were 
+suggested (Table 2). 
+ 
+Table 2. Criteria to Classify the Aptitude of Soils for Growing Sugarcane 
+ 
+Class 
+Characteristics Good 
+Average 
+Restricted 
+Unfit 
+Effective depth 
+Deep 
+Medium 
+Shallow 
+Too shallow 
+Soil texture 
+Clayey 
+Medium to clayey 
+Sandy 
+Too sandy 
+Relief 
+Flat 
+Rolling 
+Too rolling 
+Hilly 
+Fertility 
+High 
+Medium or low 
+Too low 
+Too low 
+Drainage 
+Good 
+Medium to 
+accentuated 
+or incomplete 
+Incomplete
+Excessive or 
+deficient 
+Restraints to 
+mechanization 
+Absent 
+Medium 
+Strong 
+Too strong 
+Susceptibility 
+to erosion 
+Low 
+Medium 
+High 
+Too high 
+Source: Kofeler and Bonzelli (1987) 
+ 
+ 
+Management of compacted soils 
+Problem of sub-surface hard pans or compaction is a common phenomenon in 
+intensive mechanization, more number of ratoons and sugarcane - rice rotation 
+systems. 
+ 
+Effects of Soil Compaction 
+Increases bulk density (Light to medium soils: 1.5 to 1.7 g/m3 and Heavy soils: 
+1.45 to 1.57 g/m3) and soil penetration resistance 
+Reduction in porosity, infiltration rates, and water storage capacity 
+Impedance to root penetration and proliferation. Shallow root system makes the 
+plant susceptible to drought during dry spells. 
+Reduced nutrient and water uptake 
+Promotes lodging particularly in unusually wet conditions 
+ Ameliorative Practices 
+Deep ploughing, sub-soiling or chiseling up to a depth of 50 - 75 cm at 90 cm 
+Application of organic manures (FYM at 25 tons/ha), growing of green manure 
+crops and turning them into soil 
+Incorporation of gypsum at 5 tons/ha
+
+Management of Acid Soils 
+Usually acid soils are found in high rainfall areas and in soils where organic matter 
+content is high. Soil acidity adversely affects sugarcane growth, yield and quality. 
+Under acidic conditions, the adverse effects are due to aluminium, iron and 
+manganese toxicity. Aluminium toxicity can cause P deficiency symptoms due to 
+precipitation of alumino-phosphate complexes with in the plant and in the soil. In 
+Australia, Ca deficiency is associated with Al toxicity on acid soils. 
+ 
+In acid soils conditions (pH less than 5.2), Al replaces Ca on cation exchange capacity. 
+Aluminium toxicity may occur on mineral soils when Al occupies greater than 30% of 
+the cation exchange capacity. 
+ 
+In 
+sandy 
+soils 
+having a very low 
+cation 
+exchange 
+capacity, 
+lower 
+concentrations of Al 
+in the soil solution 
+may cause toxicity 
+problems. 
+High 
+applications of K 
+may 
+induce 
+Ca 
+deficiency in acid 
+soil containing low 
+Ca levels (Photo 
+Source: 
+Anderson 
+and Bowen, 1990). 
+ 
+Root growth, tillering, shoot elongation and LAI are severely affected due to the above 
+nutritional disorders thus causing poor cane yield and juice quality. 
+ 
+On acid soils in Brazil, better root development deeper in the soil horizon has been 
+noticed when gypsum is used. Liming is the most important practice in the acid soils to 
+improve productions. 
+ 
+The General Lime Requirements as Follows. 
+Sandy soils 450 - 675 kg/ha every 2 years 
+Clay loams 1800 - 2250 kg/ha every 3 - 4 years 
+Clay soils 2700 - 3600 kg/ha every 4 - 5 years. 
+Bone meal and rock phosphates are well suited to acid soils to supply 
+phosphorous
+
+Management of Soil Salinity and Sodicity 
+The saline and sodic soils are wide spread in sugarcane growing areas of the world. A 
+soil with electrical conductivity below 2 dS/m, by and large, does not affect the growth 
+appreciably. Sugarcane is moderately sensitive to soil salinity. The decrease in crop 
+yield varies with the level of soil salinity (Photo Source: Anderson and Bowen, 1990). 
+ 
+The decrease in crop 
+yield is 0% at an ECe of 
+1.7 dS/m, 10% at 3.3, 
+25% at 6.0, 50% at 10.4 
+and 100% at an ECe of 
+18.6 dS/m. Soil salinity 
+also 
+adversely 
+affects 
+sheath moisture content 
+and nitrogen content. 
+ 
+Likewise, 
+SAR 
+more 
+than 20 
+caused 
+50% 
+yield reduction. Increase 
+in exchangeable sodium 
+percent from 14.4 to 23.5 lead to reduction in cane (9 - 26%) and sugar yield (12 - 
+29%) in 10 sugarcane cultivars studied at Karnal, India. 
+ 
+Varieties differ in their responses to soil salinity and acidity. Germination and early 
+growth stages are more sensitive than later stages of crop growth. Ratoon crop is 
+more sensitive to salinity than plant crop. 
+ 
+Symptoms of Soil Salinity and Sodicity 
+Stunted growth and necrotic leaves with scorched tips and margins 
+Poor tillering and root growth 
+Reduction in internodal length and girth of cane 
+Impaired cane quality with reduced juice purities 
+Problems in processing for jaggery and sugar 
+ Ameliorative Measures 
+Growing of slat tolerant varieties 
+Manipulation of soil environment by reclamation and drainage 
+Adoption of drip irrigation to maintain higher soil water potential in the root zone 
+by light and frequent irrigations
+
+Drip Irrigation Features 
+ 
+Introduction 
+Drip 
+irrigation 
+in 
+sugarcane 
+is 
+a 
+relatively 
+new 
+innovative 
+technology that can 
+conserve 
+water, 
+energy 
+and 
+increase 
+profits. 
+Thus, drip irrigation 
+may 
+help 
+solve 
+three of the most 
+important problems 
+of 
+irrigated 
+sugarcane - water 
+scarcity, 
+rising 
+pumping 
+(energy) 
+costs 
+and 
+depressed 
+farm 
+profits. 
+ 
+ 
+ 
+ 
+ 
+ Surface Drip Subsurface Drip 
+ 
+Whether or not drip will be successful depends on a host of agronomic, engineering 
+and economic factors. "Drip irrigation is defined as the precise, slow and frequent 
+application of water through point or line source emitters on or below the soil surface at
+
+a small operating pressure (20-200 kPa) and at a low discharge rate (0.6 to 20 LPH), 
+resulting in partial wetting of the soil surface. 
+ 
+In the literature, "trickle" is used interchangeably with "drip". Most popular drip versions 
+used in sugarcane are surface and subsurface drip. 
+Surface Drip: The application of water to the soil surface as drops or a tiny 
+stream through emitters placed at predetermined distance along the drip lateral 
+is termed as surface drip irrigation. It can be of two types - online or integral 
+type surface drip system. Integral dripline is recommended for sugarcane. 
+Subsurface Drip (SDI): The application of water below the soil surface through 
+emitters molded on the inner wall of the dripline, with discharge rates (1.0 - 3.0 
+LPH) generally in the same range as integral surface drip irrigation. This method 
+of water application is different from and not to be confused with the method 
+where the root zone is irrigated by water table control, herein referred to as 
+subirrigation. The integral dripline (thin or thick-walled) is installed at some 
+predetermined depth in the soil depending on the soil type and crop 
+requirements. There are two main types of SDI - "one crop" and "multicrop". 
+Adoption of drip irrigation (surface or subsurface) system in sugarcane cultivation is 
+technically feasible, economically viable and beneficial in many ways: 
+Higher water application uniformity 
+Deceased energy costs due to reduced pumping time to irrigate a given design 
+area 
+Saving in water up to 45 to 50% contributing to higher water use efficiency 
+Saving in fertilizer (25 to 30%) due to fertigation consequently improved fertilizer 
+use efficiency i.e., agronomic efficiency, physiological efficiency and apparent 
+recovery fraction 
+Less weed growth and saving in labour due fewer weed control, fertigation & 
+plant protection operations 
+Less pest & disease incidence due to better field sanitation 
+Optimum soil water air relations contributing to better germination, uniform field 
+emergence and maintenance of optimum plant population 
+Early harvesting and more ratoons 
+Day/Night irrigation scheduling is possible 
+Facilitates growing of crop on marginal soils due to frequent irrigations and 
+fertigation 
+High frequency irrigation, micro-leaching and higher soil water potential enables 
+use of saline water for irrigation 
+Higher cane and sugar yields
+
+Effective drip technology requires a more intense application of crop, soil, climatic, 
+engineering, and economic factors than is usually present with furrow irrigation. New 
+management perspectives and skills are required t planting configuration, land 
+preparation, drip design features, irrigation scheduling, fertigation, operation & 
+maintenance of the system. 
+ 
+The new management practices induced with drip technology seem to have 
+significantly helped increase cane and sugar yields. Planting configuration and drip 
+design features will be dealt in this section while others will dealt in different sections. 
+ 
+Planting Configuration 
+Widely followed sugarcane planting systems are viz., ridge and furrow system in 
+tropical region and flat system in sub-tropical region. The spacing of crop rows ranges 
+from 0.60 m to 1.5 m. The most common spacing followed is 0.90 m in ridge and 
+furrow system as shown in Fig, because it facilitates easy irrigation and solid support 
+when proper earthing up is done. 
+ 
+However, when the crop is raised under drip method of irrigation modifying the 
+conventional ridge and furrow planting system to a paired-row or dual row system 
+without sacrificing the plant population per unit area proved to be physiologically 
+efficient and cost effective. 
+ 
+The spacing of paired-rows is dependent upon the soil type and planting season. 
+Wider spacing is advisable in fine textured soils under high fertility conditions and for 
+long duration crop (&gt; 13 to 16 months) and high tillering varieties. While in coarse 
+textured soils with poor soil fertility status, short season crop (10-12 months) and shy 
+tillering varieties narrow spacing is desirable. 
+ 
+The paired-row planting pattern and associated spacing requirements both under 
+surface and subsurface drip irrigation are depicted in the picture. 
+These planting patterns are for guidance only. If necessary, adjustments in planting 
+patterns may have to be made depending upon the variety, planting season, and 
+fertility status and soil textural conditions of the region. 
+ 
+Drip Design Guidelines - Summary 
+The summary of drip guidelines recommended for sugarcane in different countries 
+based on varietal characteristics, soil type, management, cost-effectiveness, and a 
+local condition is given in Table 3. 
+ 
+Table 3. Sugarcane: Drip Design Guidelines 
+Distance (m) 
+Planting 
+pattern 
+Drip 
+system 
+Two 
+rows of 
+a pair 
+Two 
+paired 
+rows / two 
+Two 
+driplines 
+Dripline 
+installation 
+depth (cm) 
+Emitter 
+distance 
+(m) 
+Discharge 
+(LPH)
+
+rows 
+Single row 
+Surface 
+--- 
+1.2 to 1.5
+1.2 to 1.5 
+--- 
+0.4 to 0.6 
+1.0 to 3.0 
+Paired row 
+Surface 
+0.4 to 1.0 1.4 to 2.0 
+1.8 to 2.5 
+--- 
+0.4 to 0.6 
+1.0 to 3.0 
+Paired row 
+SDI 
+0.4 to 1.0 1.4 to 2.0 
+1.8 to 2.5 
+0.15 to 0.30 
+0.4 to 0.6 
+1.0 to 2.3 
+ 
+Design of Drip Irrigation Scheme 
+Drip irrigation offers the grower the potential for increasing cane yields & quality; and 
+opportunity for improving irrigation & energy efficiencies in irrigated sugarcane. 
+However, to realize this potential and opportunity, drip irrigation schemes must be 
+designed, installed and managed correctly. 
+ 
+Design Factors 
+The main technical factors that should be considered when designing a drip irrigation 
+scheme for sugarcane are as follows: 
+Peak crop water requirements 
+Area of fields to be irrigated 
+Availability of irrigation water and power 
+Irrigation water quality 
+Soil characteristics 
+Land topography 
+Components of a Drip Irrigation System 
+The pictures shows the main components of a drip irrigation system. 
+ 
+ 
+ 
+ 
+Agronomic Advantages of Drip Over Sprinkler & Furrow Irrigation 
+ 
+System Capacity 
+Drip irrigation system must have a design capacity adequate to satisfy the peak crop 
+water requirement of the crop to be irrigated within the design area. The capacity shall 
+include an allowance for water losses that may occur during application periods. The 
+system shall have the capacity to apply a stated amount of water in the design area in
+
+a specified net operation period. The system should have a minimum design capacity 
+sufficient to deliver the peak daily crop water requirements in about 90% of the time 
+available or not more than 22 h of operation or not more than the power availability 
+period per day. 
+ 
+Operating Pressure 
+The design operating pressure shall be in accordance with the recommendations of 
+the manufacturer. The system operating pressure must compensate for pressure 
+losses through system components and field elevation effects. 
+ 
+Equipment Selection Control Head 
+The control head station includes facilities for water measurement, filtration & 
+treatment, injection of fertilizers & chemicals, flow and pressure control, timing of 
+application and backflow prevention. 
+ 
+Filtration System 
+Filtration system is the assembly of independently controlled physical components 
+used to remove suspended solids from irrigation water. Filtration of irrigation water is 
+vital for drip irrigation schemes in order to avoid blockage of emitters as the internal 
+passages of emitters are very small. 
+ 
+The choice of filter depends mainly on the kind of impurities contained in the water and 
+the degree of filtration required on the emitter. It is recommended that Netafim expert 
+advise is sought on water quality analysis for pH, suspended solids, dissolved solids 
+and bacterial population. Filtration system design recommendations should include 
+location, size, specification of allowable suspended material sizes, types of filters, and 
+maintenance requirements. 
+Location: A primary filter shall be located after the pump and fertigation unit to remove 
+both large and fine particles from the flow. Secondary filters may be used downstream 
+from the primary filter to remove any particles, which may pass through the primary 
+filter during normal or cleaning operations. When secondary filters are used, the size of 
+the openings is usually larger than that of the primary filter to minimize needed 
+attention. 
+ 
+Size: Filter flow openings shall be sufficiently small to prevent the passage of 
+unwanted particles into the system. The filter size should be based on the diameter of 
+the emitter opening or the type and size of contaminants to be filtered. The capacity of 
+the filter should be sufficiently large to permit the rated flow without frequent cleaning. 
+Filters that are to be cleaned by hand should not require more than daily maintenance. 
+The size should be the most economical with the lowest friction losses ranging from 
+0.3 to 0.5 bars. 
+ 
+Types: Filtration may be accomplished through the use of different types of filters viz., 
+screen (for inorganic impurities and moderate quality water or following a primary
+
+filtration with sand or disc filters) disc (for removal of impurities of organic and 
+inorganic origin, algae included), hydrocyclones (for separation of sand or silt from well 
+or river water) and media or sand filters (for open wells, open reservoirs, streams etc). 
+ 
+Fertigation Unit 
+Drip irrigation systems provide a convenient method of applying fertilizers and 
+chemicals with the irrigation water using special fertigation devices. The fertigation 
+devices include pressure differential systems (fertilizer tank), suction produced by a 
+venturi principle (venturi injectors) and pumps (diaphragm or piston or electrically 
+operated). The fertilizer unit is an integral part of control head. 
+ 
+The important considerations are injection method & rate, concentration, storage tank 
+capacity, contamination of water supply, reliability and accuracy of operation, warranty 
+and service, automation suitability, field performance, price including acquisition and 
+maintenance cost, life expectancy etc 
+ 
+Water Carrier System - Supply Lines, Main Lines and Submains 
+The design objective of supply lines, main lines and submains is to deliver the 
+required, pressurized quantity of water to the laterals (driplines) as efficiently as 
+possible. The cane grower should attempt to minimize the total cost of the supply lines 
+and mainlines needed to meet the engineering specifications. 
+ 
+Sub-main pipe should be based upon capacity requirement, maintenance cost, 
+investment cost and pressure uniformity. Buried pipelines are less subject to damage 
+than surface lines and do not require special handling during the crop season. 
+Appropriate risers and valves exist for each kind of pipe. Supply lines, main lines and 
+submains generally account for 20-35% of total investment cost/ha. 
+ 
+Riser Assembly 
+Connected to the water carrier system and located at each field block is a riser 
+assembly. Typically, this will consist of a control valve, a disc filter, a pressure relief 
+valve and pressure regulator, a water pressure test point, and an air release valve. 
+ 
+The volume of water applied to each field block is controlled by the opening and 
+closing of valves. These can be simple gate valves, semi-automatic volumetric valves 
+or automatic solenoid valves connected back to a central controller. Although semi-
+automatic and automatic systems reduce labour running costs and facilitate night-time 
+irrigation, they are more expensive. It is recommended, wherever possible, that cane 
+growers choose the simplest control systems and systems that are easy to use and 
+easy to maintain. 
+ 
+The air relief valve, which may also act as a water pressure test point, is necessary to 
+prevent water hammers whenever air is escaping from the water carrier system. The
+
+discharge of driplines other than those with pressure compensating emitters is 
+dependent on the water pressure in the dripline. 
+ 
+The pressure regulator at the riser is used to maintain water pressure in the driplines at 
+the level recommended by the Netafim design engineer. It should be noted that riser 
+assemblies should be protected from damage through vandalism, cane fires and infield 
+operations such as mechanical harvesting, loading etc. A concrete box with a metal 
+door usually provides sufficient protection. 
+ 
+ 
+Dripline Type 
+ 
+In most sugarcane drip irrigated systems water is conducted from the riser assembly 
+into a sub-main into which the driplines are connected. Although there are many 
+different types of Netafim driplines that are used in sugarcane, they are all designed to 
+distribute water uniformly over the entire design area of a given field block. A variation 
+in discharge rate from dripline emitters that is acceptable is of the order of 
+± 8-10%. 
+ 
+Driplines vary in emitter design, quality, uniformity of discharge and cost. From the 
+outside, most integral driplines look alike. Yet there are major differences between 
+products, particularly emitters. Consistent and superior performance of an integral 
+dripline lies in the quality of its emitter. Several years of experience has shown that the 
+following factors should be considered when selecting a dripline that is to remain either 
+on surface or buried throughout a complete life cycle of a plant cane and 2 to 8 
+ratoons.
+
+Technical Factors 
+Precision-molded emitters for uniform and constant low discharge of water & 
+nutrients 
+Wider and deeper flow path cross section for clog free discharge of water 
+Sharp teeth for increased turbulence, flow control & flushing the emitter 
+Seamless pipe construction for maintaining greater tensile and burst strength 
+facilitating higher operation pressures for longer runs 
+Raised filter inlet emitter for drawing clean water from the pipe center to prevent 
+clogging 
+Emitters with filters to prevent plugging, less maintenance & longer life. 
+Flexible emitter spacing and choice of flow rates to suit different sugarcane 
+varieties, planting patterns, soil types etc. 
+Low emitter exponent and manufacturing coefficient of variation 
+Flow rate insensitive to temperature differences 
+Insect resistance, resistance to sunlight, no moving parts and anticipated life 
+Driplines come in a range of wall thicknesses. Construction and wall thickness 
+of the dripline should be sufficient to reduce the risk of the pipe being crushed or 
+pinched by cane stools or roots or by in-field traffic such as mechanical loaders, 
+farm machinery etc. Recommended successful driplines are given in Table 4: 
+Flap mechanism to prevent the risk of sucking of fine soil material into the 
+dripline emitters leading to plugging 
+Nominal diameters are 16 mm and 22mm. A larger diameter will allow the 
+supply of water to a greater length of dripline before pressure drops below 
+design requirements. This results in saving in the cost of submains. 
+Availability of machinery to recover the driplines at the end of the crop cycle and 
+used for a second crop cycle if possible after refurbishment 
+Table 4. Recommended Driplines for Sugarcane 
+Dripline thickness 
+Category 
+Crop type 
+34 mil (0.8 mm) - 47 mil 
+ 
+ 
+ 
+ 
+(1.2 mm) 
+Thickwalled & 
+ 
+ 
+ 
+ 
+PC or Non PC 
+For surface and subsurface drip, rougher 
+soil conditions and where insect damage is 
+expected. Lasts 10+ years with proper 
+operation and maintenance techniques 
+12 mil (0.3 mm) - 25 mil 
+ 
+ 
+ 
+(0.63 mm) 
+Thinwalled & 
+ 
+ 
+ 
+PC or Non PC 
+For 
+subsurface 
+drip 
+and 
+good 
+soil 
+conditions. Lasts for 3-5 years. 
+ 
+Agronomic Factors 
+Both surface and subsurface drip irrigation system were technically feasible in 
+sugarcane under diverse conditions
+
+Availability of dripline types for application in sugarcane viz., thick-walled for 
+surface drip irrigated cane, thin-walled for subsurface drip irrigated cane, non-
+pressure compensated driplines for leveled land, pressure compensated 
+driplines for undulated topography etc 
+Subsurface drip irrigation was superior over surface drip in terms of water 
+availability, uniformity, water use, water use efficiency, cane yield and quality, 
+management etc 
+Paired row or dual row or pineapple planting configuration with variable 
+spacings depending upon the soil texture with one dripline for every two rows 
+was found to be technically feasible, economically viable and potentially 
+profitable in comparison to rectangular single row planting configuration with 
+dripline for every crop row. 
+Driplines can be successfully buried before planting cane with out waiting for 
+planting and germination of cane. 
+Cane germination and field emergence was adequate to give satisfactory plant 
+stand both under surface and SDI systems with out any supplementary use of 
+surface furrow or overhead sprinkler system for germination irrigation 
+Emitter Spacing, Discharge Rate and Depth of Placement 
+The area wetted as a percent of the total crop area i.e., wetting patterns that are 
+obtained under drip irrigation depend on a number of factors which include the soil 
+hydraulic properties, emitter spacing, dripline placement with respect to the cane rows, 
+emitter discharge rate, planting configuration, crop evapotranspiration and irrigation 
+regime. The following information concerning wetting patterns has been obtained by 
+Netafim Agronomists & Design Engineers from several years of experimentation and 
+experience under diverse agro-ecological conditions: 
+Emitter Spacings: Spacings of 0.3 to 0.75 m and discharge rates of 1.0 to 3 
+LPH were acceptable to most soil types on which sugarcane is grown in 
+different countries today. It is recommended, however, that the lower discharge 
+rates and closer emitter spacings are used on light textured sandy, loamy 
+sands, sandy loams, which have low water retention capacities. Conversely 
+higher discharge rates and wider emitter spacings are recommended for 
+medium to heavy textured soils viz., loamy, silty clay, clay loams and clays. 
+Emitter discharge rate should not create runoff within the immediate application 
+area. In fields with varying soil types, this criterion shall apply to the soil with the 
+lowest infiltration rate unless it is less than 15% of the area irrigated. It should 
+be noted that wider the spacing between emitters the more difficult it is to 
+achieve uniform wetted strip and in turn uniform cane germination and field 
+emergence.
+
+• 
+Wetted Area: The area wetted as a percent of the total cane cropped area 
+ranged from a low of 28% in widely spaced paired-row planting configuration 
+with dripline for every two rows (placed midway in between two rows) to a high 
+of 60% in single-row rectangular planting configuration with dripline for each 
+row. 
+• 
+Depth of Placement: Subsurface dripline placement is the most popular 
+technique used in cane. Driplines buried underground are protected from 
+mechanical damage. Depth of placement is critical to optimize the potential for 
+drip irrigation. Soil type and topography dictates depth of placement. Light 
+textured soils (sandy, loamy sand and sandy loam) require shallow depth of 
+dripline placement so that water is not lost by deep percolation. Medium to 
+heavy textured soils (loamy, silty loam, clay loam & clay) which will wet-up 
+laterally 
+(larger 
+wetted 
+diameter) 
+can 
+have 
+deeper 
+placement. 
+This is an advantage in minimizing damage to dripline from insects and rats and 
+intrusion of roots; it also allows planting over the top of the dripline. In sloping 
+blocks dripline placement can be offset to the uphill side of the sett so that water 
+will gravity drain to the root zone but care must be taken to avoid damage 
+during cultivation. The overall aim when considering dripline placement is to 
+maintain the most efficient supply of water to the effective root zone of the plant 
+under the conditions of soil type, soil depth, topography and any other limiting 
+conditions (Table 5). Shallow depth can cause crushing of driplines by 
+mechanical loaders and cane fires. Shallow depth of installation of driplines may 
+also lead to irrigation water being lost to direct soil evaporation as a result of 
+puddles formed above the driplines during irrigation. Try not to allow water to 
+reach the soil surface as it will allow germination of weed seeds. In dry 
+conditions it will be beneficial to wet-up to the surface after harvest to assist in 
+ratooning. 
+Table 5. Depth o Placement of Dripline in SDI System 
+Soil 
+texture 
+Placement 
+depth below 
+ground 
+Remarks 
+ 
+Loamy 
+sand 
+& 
+Sandy 
+loam 
+ 
+15 to 20 cm 
+ 
+These soils benefit from short & frequent 
+irrigations. Irrigate to refill the soil profile to 
+effective rooting depth only. Note that drip 
+irrigation wets only a narrow band under the 
+dripline in these soils and the storage 
+capacity of the soil is small. 
+Silty loam 
+& 
+Clay 
+loam 
+ 
+20 to 25 cm 
+ 
+Less frequent irrigations, larger volume of 
+irrigation water application can be allowed 
+since water spreads laterally more into the 
+root zone. Water storage capacity of the 
+soils is high.
+
+Clay soil 
+ 
+ 
+25 to 30 cm 
+ 
+Less frequent, longer irrigation cycles and 
+larger volume of irrigation water application 
+can be allowed since water spreads laterally 
+more into the root zone. Water storage 
+capacity of the soils is very high. However, 
+watch 
+for 
+ill-drained 
+conditions 
+and 
+waterlogging in the crop root zone. 
+ 
+Economic and Managerial Design Factors 
+The main managerial and economic factors that should be considered when designing 
+a SDI for sugarcane are as follows: 
+Potential yield and CCS increment 
+Cost of subsurface drip irrigation system 
+Cost of installation and interest rate 
+Operation and maintenance costs 
+Availability and cost of water 
+Availability and cost of trained skilled staff to operate the drip scheme 
+Price of sugar 
+ Other Factors 
+Water - Source, availability and quality evaluation for determining filtration 
+system type, maintenance of irrigation system, crop management and selection 
+of fertilizers 
+Soil evaluation for fertility status, clay content, CEC, bulk density etc for 
+determining the fertigation programme 
+Determination of moisture holding properties and evaporative demand of the 
+atmosphere for irrigation scheduling 
+Contour survey for selection of dripline type (pressure compensating or non-
+pressure compensating), to determine dripline length and sub-main spacing 
+Soil characteristics for determining appropriate emitter spacing and depth of 
+dripline placement 
+Installation 
+It is essential that high quality installation and maintenance is adopted for 
+dripline which is installed below ground. The following points are important 
+when installing a system:Follow the Netafim Design Engineer instructions 
+scrupulously, for example when glueing PVC pipes, installing mains & submains 
+as pipe sizes will have been dimensioned to enable specified flow rates and 
+pressure throughout the system. 
+After installation, check each part of the system carefully for leaks as these will 
+cause pressure problems at the tail end of the scheme
+
+Check every dripline being injected for correct placement, orientation and depth 
+and to ensure there is no crimping of the riser, which connects dripline to the 
+submain. 
+Bury mains and submains to ensure that rocks in the back fill do not damage 
+pipes. 
+After hook-up, partially backfill portions of submains and pressure test before 
+completely backfilling trenches. 
+Flush out the water carrier system to remove extraneous material before riser 
+assemblies and driplines are connected. 
+Check water pressure at the risers and dripline flow rates: if these are not 
+according to the specification there has been a problem at either the design or 
+the installation stage. 
+Dripline Monitoring 
+Driplines and emitters, for both surface and subsurface systems, are subject to 
+plugging and breaking with passing time. Microbial and inorganic deposits are the two 
+principal causes of emitter plugging. Algae and bacterial slimes are of particular 
+concern when water is pumped directly from an irrigation ditch, reservoir, open well, or 
+natural channel. Even with sand media filters, microorganisms may grow in the lines 
+and become a major problem. 
+ 
+Maintaining a pH of 6.5-6.8 with periodical acid injection reduces precipitation of 
+inorganic compounds (phosphates, calcium, bicarbonates) and discourages algae 
+growth. Chlorine, also, may be used to treat algae. Shock treatments, with acids 
+(sulphuric, hydrochloric and phosphoric), which periodically reduce pH to 2-3 also kill 
+algae and eliminate some inorganic plugging. 
+ 
+Acidified fertilizers are used or are being developed to deal with emitter plugging. 
+Rodents, rabbits, and coyotes may chew holes in driplines, roots may clog subsurface 
+emitters, or lines may be mechanically damaged. For the most part, drip irrigated cane 
+growers world over have nor found these to be major problems. Broken or damaged 
+lines (from all causes) have affected less than 4% of the total system. Broken lines are 
+usually easily and inexpensively repaired. 
+ 
+Chemicals (like Trifluralin) help keep roots from clogging emitters under SDI. And 
+subsurface driplines are better protected from mechanical as well as rodent damage 
+with deeper line placement and more careful machinery operation in the field. 
+ 
+Improved Varieties 
+ 
+Variety is the pivot around which entire production system revolves. Therefore, 
+scientific sugarcane cultivation must start with choosing an appropriate variety for the
+
+agro-climatic zone, soil type and season concerned. Improved varieties are now 
+available for almost all the growing conditions in the world. 
+ 
+New varieties are continuously evolved by the Sugarcane Breeding Institutes, 
+Agricultural Universities, and Sugarcane Research & Development Centres world over. 
+It would be therefore worthwhile for the growers to manipulate the environment in such 
+a way as to bring out the maximum expression of the yield potential possessed by 
+these varieties. 
+ 
+Classification of Sugarcane Varieties 
+Sugarcane is considered to be mature and ready for harvesting if it attains over 16% 
+sucrose and 85% purity of cane juice. The varieties, which attain such level at 12, 14 
+and 16 months age, if planted in December/January are broadly classified as early, 
+mid-late and late maturing types. 
+ 
+The terms early, mid and late are, therefore, not natural classfication and only 
+represent relative grading among varieties under comparative assessment. The main 
+idea of maturity-based classification of varieties is to facilitate harvesting of variety at 
+proper time in order to enhance over all recovery and consequently the sugar 
+production. 
+ 
+Proper Varietal Proportions 
+Proper proportion of area should be kept under early, mid-late and late maturing 
+varieties to ensure proper supply of cane of desired quality throughout the crushing 
+period. Proper varietal proportion will not only increase the total sugar recovery but will 
+also maintain it throughout the crushing season. a ration of 30:40:30 has been 
+suggested for early, mid-late and late ripening varieties for optimal performance and 
+utilization of the crushing seasons. 
+ 
+With in a maturity group, there should be more than one variety in the factory zone. It 
+is for simple reason of providing insurance against epidemic of pest or disease of the 
+crop, which may otherwise completely wipe out the crop. 
+ 
+Choice of Variety 
+Important considerations in choosing an appropriate variety include cane yield, juice 
+quality, age group, suitability to the growing conditions viz., soil type, irrigation regime, 
+season etc., ratooning potential, resistance to pests & diseases and adverse growing 
+conditions. 
+Some of the desirable varietal attributes one should look for are high yield potential, 
+high sucrose content, good field appearance, higher tillering capacity, medium thick to 
+thick and long stalks, long internodes, erect growing habit, non-lodging, non-flowering 
+or shy flowering, good ratooning ability, absence of spines on the leaf sheaths, 
+absence of splits on the stalks, less bud sprouting and resistance to prevailing local 
+problems.
+
+Varietal defects include lodging tendency, flowering propensity, disease susceptibility, 
+cavity development, high fibre content, big and bulged buds which may be damaged 
+during transportation, heavy spines on leaf sheath, drying of green top at maturity, tight 
+leaf clasping, presence of heavy pith, growth cracks or splits. 
+These defects may appear as minor and insignificant, at first, but they understandably 
+draw the growers attention when the varieties come into cultivation. 
+ World over sugarcane cultivars receive a designation, which corresponds to the 
+country wherein they were developed/obtained. A few examples could be given: 
+Argentina - NA; South Africa - N; Australia - Q; Brazil - CB, IAC, PB, RB and SP; 
+Colombia - ICA; Cuba - C; USA - CP; Philippines - Phil; India - Co; Indonesia - POJ; 
+Peru - PCJ; Egypt - E; Puerto Rico - PR; and Mauritius - M. Three or more digits 
+usually follow the sigla. Improved varieties under cultivation in major sugarcane 
+countries are given in Table 6. 
+ 
+Table 6. Sugarcane: Improved Varieties Under Cultivation in Different Countries 
+S.No. 
+Country 
+Improved varieties 
+
+Brazil 
+SP-77-5181, RB-85-5453, SP-81-3250, SP-80-1816, 
+RB-85-5113, SP-80-3280, RB-1049, SSSP-71-5181, 
+BR85-5113, BR72-454, BR83-5486 
+
+India 
+CoS.687, 
+CoPant.84211, 
+CoJ.64, 
+CoLk.8001, 
+Co.1148, CoS.767, CoS.802, CoC.671, CoC.85061, 
+Co.8021, Co.6304, 
+Co.1148, CoJ.79, CoS.767, 
+Co.740, CoM.7125, Co.7527, CoC.671, Co.740, 
+Co.8014, 
+Co.7804, 
+Co.740, 
+Co.8338, 
+Co.6806, 
+Co.6304, Co.7527, Co.6907, Co.7805, Co.7219, 
+Co.7805, Co.8011 
+
+Louisiana CP 65-357, CP 70-321, CP 72-370, CP 74-383, CP 
+79-318, LCP 82-89, LHo 83-153, LCP 85-384, HoCP 
+85-845, LCP 86-454, HoCP 91-555 
+
+Thailand 
+91- 2 -29, K 92 -181, K 95 -84 
+
+China 
+
+Hawaii 
+
+South 
+Africa 
+CP 66 - 1043, NCo 376, N 12, N 14, N 16, N 17, N 19, 
+N 21, N 22, N 23, N 24, N 25, N 26, N 27, N 28, N 29, 
+N 30, N 31, N 32, N 33, N 35, N 36, N 37, N 39, N 40, 
+N 41 
+ 
+ 
+Land Preparation 
+ 
+For higher sugarcane yields, providing optimum soil environment is an essential pre-
+requisite since the crop remains in the field for about 5 to 6 years due to the practice of 
+raising several ratoon crops.
+
+Good Land Preparation Improper Land Preparation 
+ 
+Further intense mechanization involving traffic of heavy machinery from planting to 
+harvesting and transporting to the sugar mill or distillery, can cause the deterioration of 
+soil physical conditions. This translates into soil compaction with a cohort of harmful 
+side effects viz., reduction in storage & movement of air and water, mechanical 
+difficulty for root growth and difficulty in absorption of nutrients from the soil itself and 
+from the fertilizer. 
+ 
+Therefore a through land preparation every time a new crop is planted is absolutely 
+essential to bring the soil to fine tilth for proper germination of the sets and field 
+emergence and root growth. 
+ 
+Tillage is the physical manipulation of the soil with appropriate implements to loosen 
+the surface soil layer. 
+ 
+Objectives of Land Preparation 
+To prepare a seed bed which permits optimal soil water air relations 
+Good physical conditions for early root penetration and proliferation 
+To incorporate preceding crop residues and organic manures 
+To destroy weeds and hibernating pest & disease organisms 
+To facilitate proper soil chemical and microbial activity 
+Tillage operations through tractor drawn implements are most ideal and quick. For 
+initial ploughing use either mould board plough or disc plough. Whenever, soil turning 
+is desired, a mould board plough should be used. 
+ 
+On the other hand when the soil is hard, uneven and composed of crop stubbles, a 
+disc plough is preferable. Ploughing at optimum soil moisture content is very essential 
+to achieve tilth. Too wet soil interrupts movement of machinery and causes destruction 
+of soil structure.
+
+On the other hand too dry soil will not allow tynes to penetrate deep and results in 
+frequent mechanical breakdowns, increased power requirement and cloddy soil 
+surface affecting soil water air relations. 
+ 
+ 
+ Without Subsoiling With Subsoiling 
+ 
+The secondary tillage operations are carried out using disc harrows, tyned harrows or 
+rotavator. The rotavator is a very useful multi purpose implement, which cuts the crop 
+residues, shred them and incorporates in the soil in one pass. Use mechanical 
+methods (subsoiling or chiseling or deep ploughing) or biological means (green 
+manuring between last ratoon harvest and start of a new crop) to destroy the 
+compacted layer and to allow roots to develop normally. Subsoiling was also shown to 
+reduce fuel consumption, working time and facilitate optimum plant population. 
+ 
+Steps in Land Preparation Involve the Following: 
+Subsoiling or chiseling to a depth of 50 to 75 cm to break hard compact sub-pan 
+layer 
+Ploughing to incorporate previous crop's crop residues and organic manures 
+Discing to break clods 
+Land shaping to provide the required gradient for draining excess water during 
+rainy season 
+Field layout - Construct ridges & furrows and shape them. Depth of furrows 
+should be 25 cm. The furrow bottom should be loosened to about 10 cm. 
+Provide drainage channels, which are deeper than the furrows along the field 
+borders as well as within the field at regular intervals. Drainage channels are 
+particularly important in the high rainfall areas to drain the excess water during 
+rainy season. 
+Table 7 summarizes the power requirement and output during land preparation.
+
+Table 7. Sugarcane: Power Requirement and Work Ouput for Land Preparation 
+ 
+Power requirement/ha 
+Operation 
+kWatts 
+Diesel 
+(Litres/ha) 
+Output 
+(ha/hr) 
+Pre-discing 
+
+2.5 
+Ripping 
+
+0.5 
+Ploughing 
+
+1.7 
+Post-discing 
+
+2.5 
+Land leveling 
+
+3.5 
+Ridging 
+
+0.5 
+ 
+ 
+Planting Material 
+ 
+Sugarcane is vegetatively propagated for commercial cultivation. Different kinds of 
+planting materials viz., cane setts; settlings and bud chips are used for raising 
+sugarcane crop. 
+ 
+Cane Setts 
+Stem cuttings or sections of the stalks are called "setts" or seed pieces. Each sett 
+contains one or more buds. Always use fresh, genetically pure, pest and disease free 
+setts as seed material. Generally, three bud setts are used for planting throughout the 
+world, while in some areas two-bud setts are also used. 
+ 
+Three Bud Sett (Source: Verma, 2004) 
+ 
+Experimental evidence shows that germination percentage of 3-bud setts is higher 
+than the setts having more or less than 3-buds. The middle bud of a 3-bud sett has the 
+highest germinating capacity followed by top end bud and the bottom end bud, 
+respectively (Verma, 2004). The middle bud has an advantage in germination 
+because, as a non-terminal bud having nodes on either side, its moisture resources 
+are better protected than those of the terminal buds.
+
+Middle bud showing the highest germinating capacity in 3-Bud Sett 
+(Source: Verma, 2004) 
+ 
+Germination capacity of single-bud sett is very poor due to loss of moisture from cut 
+ends on either side. Further the plants arising from single-bud setts also lack vigour 
+and yield low as compared to those from three-budded setts. Thus the preference 
+given to three-budded setts over single-bud setts is partly based on germination 
+capacity and partly on initial vigour of the germinated plants and cane yield. 
+ 
+If whole cane stalk is planted without being cut into setts, usually few buds at its top 
+end germinate and the lower end buds remain inactive due to top dominance. The 
+effect of top dominance is eliminated when stalk is cut into pieces. 
+ 
+Settlings 
+Cane setts with roots and shoots are known as settlings. Settlings can be raised either 
+in nursery beds or in polythene bags. Single node settlings are used as a planting 
+material in spaced transplanting technique of raising sugarcane crop. 
+ 
+ 
+Single bud settling (Source: Verma, 2004) 
+ 
+Bud Chips 
+Little portion of stem with one bud is known as bud chip. Bud chips are used to raise 
+settlings in nursery. They were found to produce a good crop when transplanted in 
+main field. The principal advantage of bud chips is substantial saving in seed material.
+
+Seed requirement is reduced to less than one ton per ha. Adopting the following 
+procedure raises settlings from bud chips: 
+Prepare the bud chips from whole cane using a sharp edged knife in such a way 
+that each bud has a little portion of stem 
+Plant the bud chips on raised nursery beds adopting a inter-row spacing of 7.5 
+cm at the rate of 300 buds/m2 
+Alternatively nursery can be raised in polybags of 15 cm x 10 cm size 
+Fill the polybags with homogeneous mixture of equal quantity of soil, sand and 
+well rotten compost 
+Plant the bud chips in polybags with the bud facing upwards and cover with soil 
+mixture to avoid drying of the bud 
+Bottom of the bags should have holes to facilitate drainage 
+Ensure regular watering of bags or nursery area 
+Settlings are ready in 5 - 8 weeks for transplanting in the main field 
+Under good management conditions establishment of transplanted seedlings in 
+the main field is high (90-100%) 
+Raising of Seed Cane Crop 
+The normal practice in many parts of the world is to 
+use commercial crop of sugarcane for seed purposes. 
+Characteristics for good seed are seldom taken into 
+consideration. Many growers do not care for seed 
+quality and many of those who do, select the seed only 
+at the sett cutting and planting stage. This is not 
+enough. If a grower wants to be sure of getting good 
+and disease free seed cane he should raise the seed 
+crop separately. This crop should be kept completely 
+free from pests and diseases by constant field scouting 
+from the very beginning. 
+ 
+Moreover, seed quality is not merely a matter of pest 
+and disease freedom. Seed has to be in high water 
+content and of good nutritional status. Neglect in 
+raising good seed crop is one of the major defects in 
+sugarcane cultivation all over the world. (In the picture above: Bud Chip) 
+ 
+Use of sugarcane seed from the commercial crop has been responsible for rapid 
+multiplication of a large number of diseases like red rot, wilt, smut, ratoon stunting and 
+grassy shoot which adversely affect the cane yield and quality. It is, therefore, raising 
+of healthy and vigorous sugarcane crops for seed purpose is essential and 
+recommended.
+
+Select an upland field for raising seed crop with no soil problems (soil salinity, 
+acidity, waterlogging etc) and adequate irrigation facility 
+Prepare the soil thoroughly and incorporate 20-25 tons/ha of FYM 15 days 
+before planting 
+Provide field channels and field drains to prevent rain water traversing from 
+adjoining field to check spread of red rot disease 
+Select seed material from previously raised seed nursery crop and prepare the 
+setts. Use only sterilized setts to avoid transmission of certain diseases like 
+RSD and GSD 
+Give heat treatment (heat therapy) to eliminate seed borne diseases and 
+organomercurial treatment to protect the setts from soil borne diseases to 
+ensure better germination 
+Adopt narrow spacing of 75 cm to obtain higher yield of setts per unit area 
+Use 25% higher seed rate than normal cane crop 
+Apply higher nutrient dose of 250 kg N + 75 kg P2O5 + 125 kg K2O/ha 
+Irrigate the crop at optimum levels to avoid any water stress during crop life 
+taking in to account evaporative demand of the atmosphere (ETo) and Crop 
+characteristics (Kc) at different crop growth stages 
+Provide weed free environment for better growth of the crop and also to avoid 
+infestation of pests and diseases 
+Adopt field scouting for timely control of pests and diseases 
+Rouge out the affected clumps and plants of other varieties 
+Protect the crop from lodging, binding and propping 
+Crop is ready in 7 - 8 months. Setts obtained from such crop contain healthy 
+and sound buds, higher moisture content, adequate nutrients, higher amounts 
+of reducing sugars, therefore, establish quickly and grow vigorously thus 
+ensuring a good commercial main field crop. 
+Preparation of Setts for Main Field Planting 
+Harvest the seed crop one day before planting to obtain higher percentage and 
+uniform germination. 
+Prepare the setts always one day before planting by giving sett treatment. 
+Planting material or seed cane should be free from aerial roots and splits. 
+Avoid damage to buds while cutting setts. 
+Change the seed material after every two to three seasons. In case if it is 
+inevitable to use mature cane as seed, the top one-third portion can be used 
+satisfactorily. 
+Ideal Seed Cane 
+Always use seed cane obtained from a seed crop of 7-8 months 
+Free from disease and pest infestation like red rot, wilt, smut, ratoon stunting 
+disease etc 
+Possesses healthy buds without any damage in handling and transport.
+
+Buds with higher moisture content, adequate nutrients, higher amount of 
+reducing sugars and viability. 
+Free from aerial roots and splits. 
+Pure in quality. 
+Seed Cane Treatment 
+Objective: To protect the 
+crop 
+from 
+soil 
+borne 
+diseases 
+causing 
+pathogens, which usually 
+gain entry into the setts 
+through 
+the 
+cut 
+ends 
+following 
+planting 
+and 
+cause 
+sett 
+rotting 
+and 
+damage 
+to 
+buds, 
+thus 
+affecting germination. 
+Most farmers don't treat the 
+setts before planting which 
+results low plant population 
+per unit area consequently 
+reducing the yield 
+ 
+In the Pictures above: Sett treatment with fungicide against soil borne pathogens + moist hot 
+air treatment of setts against seed borne diseases 
+In the picture below: Termite damaged setts (Source: Verma, 2004)
+
+Treat the setts soon after cutting in 0.1% (at 1g/liter) Carbendazim solution for 
+15 minutes. 
+Three important diseases viz., grassy shoot disease, smut and ratoon stunting 
+disease are carried forward through seed cane material. These diseases lead to 
+progressive decline in yields and degenerate sugarcane varieties. For control of 
+these diseases treat the seed material (setts) with moist hot air at 52°c for 30 
+minutes. 
+To control termites early shoot borer and scale insects treat the setts in a 
+systematic insecticide viz. Malathion 50EC (at 2 ml/liter) or Dimethoate 30EC (at 
+3 ml/liter) for 15 minutes. 
+Seed Rate 
+Under drip irrigated paired-row 
+system of planting [(0.6m + 
+1.20m) x 0.12m], about 60,000 
+two-bud or 40,000 three-bud 
+treated setts would be required 
+to plant one ha of land. With 
+proper germination of buds, 
+this seed rate is adequate to 
+give a gapless stand and raise 
+a successful crop. 
+ 
+Nearly 10-12 tons of seed 
+cane is required to plant one ha of field. However, it is better always to go by number 
+of setts per ha rather than weight basis as sett weight in sugarcane varies largely with 
+varieties. 
+ 
+Measures to obtain higher germination 
+Some important yet simple measures to obtain higher uniform plant population are as 
+follows: 
+Using quality setts as 
+seed material obtained 
+from a short seed crop 
+devoid of any primary 
+infection 
+Using 
+preferably 
+two 
+eye bud setts instead of 
+three bud setts as seed 
+material 
+Careful preparation of 
+setts without damaging 
+the buds or setts
+
+Using sterilized knives for preparing setts to avoid transmission of root stunting 
+and grassy shoot diseases 
+Planting freshly prepared and treated setts 
+Giving adequate and frequent irrigation's during germination phase 
+Control of weeds through pre-emergence herbicides 
+Seed treatment with fungicide and pesticides 
+Transplanting Technique 
+ 
+Seedlings are raised in a nursery bed using single bud setts. When the seedlings are 
+of about 6 week old, they are transplanted in the prepared main field. 
+ 
+In the pictures on the right and below (Source: Verma, 2004): 
+• Single bud sett nursery 
+• Single bud sett settlings from nursery for transplanting in main field 
+• Transplanting In main field 
+ 
+Advantages 
+Saving in the seed cost as the seed requirement is only about 2-3 tons/ha 
+against the normal seed requirement of 10-12 tons/ha.
+
+Synchronous 
+tillering 
+leading 
+to uniform growth 
+and maturity of 
+stalk population, 
+which 
+usually 
+gives better yield 
+and 
+sugar 
+recovery. 
+Sufficient time for 
+main 
+field 
+preparation 
+Saving in water 
+and fertilizer 
+Better weed management 
+ 
+Planting Time 
+ 
+Sugarcane is grown under diverse agro-climatic conditions in the world. Therefore 
+there is a considerable variation in the planting dates. The optimum planting periods in 
+different countries are presented in Table 8. 
+ 
+Table 8. Recommended Planting Time in Different Countries 
+S.No. 
+Country 
+Season 
+Planting time 
+Central-South 
+May to October 
+
+Brazil 
+Northeastern 
+September to March 
+Tropical 
+October to March 
+
+India 
+Subtropical 
+September to April 
+
+China 
+November to April 
+Hawaii 
+Year round 
+
+USA 
+Southeastern 
+August to March 
+
+Mexico 
+November to June 
+
+South Africa 
+May to November 
+
+Australia 
+June to December 
+
+Argentina 
+May to November 
+
+Cuba 
+November to May 
+
+Thailand 
+June to July and November 
+
+Philippines 
+October to May 
+
+Pakistan 
+February to March
+
+Machinery Planting 
+Due to increase in labour scarcity use of cane planting machinery is on the rise in 
+different countries not only to achieve efficiency in planting operation but also to save 
+fuel expenses and time to cover large areas. Several types of planting machinery have 
+been developed in different countries to suit the local conditions. 
+ 
+Research on depth of soil cover over seed cane indicates that soil cover in excess of 
+four inches can cause yield losses. Growers should use a covering tool that will cover 
+the cane without pushing the cane closer than the width it was planted. Packing of 
+rows should be done immediately after covering. 
+ 
+ 
+ 
+In the picture: Planted Cane and Sett Coverage Using Machine 
+ 
+Germination Irrigation 
+ 
+To 
+get 
+uniform 
+and 
+higher 
+germination 
+(sprouting) percentage of planted setts is quite a 
+technique in drip irrigated cane production. This 
+operation demands full attention of the farmer. 
+ 
+In the picture: Subsurface dripline laying 
+machine 
+ 
+In the following paragraphs we explain the 
+procedure to be adopted to get best results: 
+ 
+• 
+Prepare the main field to fine tilth
+
+Lay the drip laterals (driplines) at 15 to 20 cm depth using SDI laying machine 
+and test for their design performance. Under surface drip driplines are spread 
+on the soil surface. 
+Plant the treated two or three budded setts at 10-15 cm depth by planting 
+machine adopting recommended planting pattern and spacing. 
+ 
+Surface drip Subsurface drip 
+After ensuring proper coverage of setts start the irrigation. Continue irrigation 
+until a uniform wet band (not standing water) is formed along the dripline to a 
+depth of not less than 30 to 40 cm. 
+Depending upon the soil texture and soil tilth achieved during land preparation it 
+would take about four to six hours. 
+Examine the soil frequently at various places in the planting zone i.e, 10 to 15 
+cm of soil depth, for ascertaining the moisture status. As the days pass on soil 
+moisture content decreases. 
+Depending upon the soil texture and the climatic conditions (i.e, evaporative 
+demand of the atmosphere), in about 3 to 5 days the soil moisture content in the 
+planting zone will deplete to a level not congenial for germination process of the 
+cane. When this happens start the second round of irrigation in time so that the 
+bud sprouting process is not interrupted. Continue the second irrigation 
+operation similar to the first round i.e., until uniform wet moisture band is 
+achieved. But this time the irrigation duration will be less may be 50% of the first 
+irrigation cycle (i.e., 2 to 3 hours) to achieve the same level of moisture status 
+and wetting pattern in the soil. However, this needs to be confirmed before 
+terminating the irrigation. 
+Normally after 3 to 4 such irrigation cycles an experienced grower can obtain a 
+very high germination percentage and uniformity of growth by adopting the 
+above-described method.
+
+Poor soil conditions and improper land preparation affect but sprouting, 
+germination and crop emergence. 
+ 
+ 
+In the pictures above: 
+Germination irrigation in surface drip to achieve a wetted strip 
+Uniform emergence of sugarcane under drip irrigation 
+ 
+Weed Management 
+ 
+In sugarcane weeds have been estimated to cause 12 to 72 % reduction in cane yield 
+depending upon the severity of infestation. 
+ 
+The nature of weed problem in sugarcane cultivation is quite different from other field 
+crops because of the following reasons 
+Sugarcane is planted with a relatively wider row spacing 
+The sugarcane growth is very slow in the initial stages. It takes about 30 - 45 
+days to complete germination and another 60-75 days for developing full 
+canopy cover 
+The crop is grown under abundant water and nutrient supply conditions 
+In ratoon crop very little preparatory tillage is taken up hence weeds that have 
+established in the plant crop tend to flourish well 
+Major weed flora observed in sugarcane fields are: Sedges- Cyprus rotundus; 
+Grasses-Cynodon dactylon, Sorghum helepense, Panicum spp, Dactylocternium 
+aegyptium, Broad leaved weeds - Chenapodium album, Convolvulus arvensis L., 
+Amaranthus viridis L., Portulaca oleraceae L., Commelina bengalensis L., Trianthema 
+portulacastrum L. 
+ 
+Weeds flora in sugarcane field besides competing for moisture and light also remove 
+about 4 times N and P and 2.5 times of K as compared to crop during the first 50-days
+
+period. Weeds also harbour certain diseases and pests that attack sugarcane and thus 
+lead to indirect losses. 
+ 
+Doob grass (Cynodon dactylon), the cogan grass (Imperata cylindrica) are known to 
+play as alternate hosts to ratoon stunting disease of sugarcane. Thus weeds 
+essentially harm young sugarcane sprouts by depriving them of moisture, nutrients and 
+sunlight. Poor growth of cane resulting from weed infestation also affects quality. 
+ 
+Weeds that are present in the furrows i.e., along the cane rows cause more harm than 
+those present in the inter-row spaces during early crop growth sub-periods. Thus the 
+initial 90-120 days period of crop growth is considered as most critical period of weed 
+competition. Therefore the weed management practice adopted should ensure a 
+weed-free field condition for the first 3-4 months period. 
+ 
+ 
+ 
+In the picture: 
+Weed control through herbicides pays in sugarcane (Source: Verma, 2004) 
+ 
+Recommended Herbicides 
+A chemical program for weed control can help Louisiana growers produce maximum 
+yields of sugarcane when combined with sound agronomic practices such as timely 
+cultivation, selection of adapted varieties, proper fertilization, and disease and insect 
+control. Herbicides are expensive, and, unless applied properly and at the correct time, 
+they will not provide maximum control of weeds. 
+ 
+Spray equipment should be in good condition, properly calibrated (several times during 
+a season) and should have vigorous agitation capability (especially important for 
+wettable powders). Herbicides also should be accurately measured or weighed.
+
+Herbicides to control weeds are essential to prevent weed competition and losses in 
+sugarcane production. Sugarcane is most susceptible to weed competition during the 
+first eight to 10 weeks after cane emergence. Unless herbicides are applied 
+immediately after planting, weed seed present in the soil following a fallow program will 
+germinate, producing viable seeds and/or rhizomes. 
+ 
+As a result weeds can quickly re-infest a field, with the benefits of weed control in the 
+fallow period rapidly lost. 
+Selection of pre-emergence herbicides should be based on soil texture and organic 
+matter content, weed problem and the variety of sugarcane. For best results, apply 
+pre-emergence herbicides im mediately after planting 
+ 
+Recommendations for use of herbicides for weed control in sugarcane are summarized 
+in the table below: 
+ 
+Table 9. Pre and Post-Emergence Herbicides For Weed Control in Sugarcane 
+ 
+Dosage (kg/ha) based on clay% 
+S.No. 
+Herbicide 
+Control 
+(weeks)
+&lt; 20% 
+21 - 30% 
+&gt;30% 
+Pre-Emergence 
+
+Atrazine 50 FW 
+6- 8 
+
+Ametryn 80 WP 
+6- 8 
+
+Diuron 80 WP 
+5-7 
+
+Metribuzin 70 WP 
+10-12 
+
+Alachlor 48 EC 
+6- 8 
+4.0 
+
+Trifluralin 48 EC 
+5- 7 
+
+Pendimethalin 50 EC 
+8-10 
+
+Terbacil 
+1.0 
+1.2 
+
+Diuron + 2, 4-D 
+1.2 + 1.8 
+1.2 + 1.8 
+1.2 + 1.8 
+
+Atrazine + Dalapan 
+1.25 + 2.5 
+1.25 + 2.5 
+1.25 + 2.5 
+Post - Emergence 
+
+2, 4-D Sodium salt 80 WSP 
+5-6 
+1.0 
+1.2 
+
+Paraquat 
+4.0 
+
+Glyphosate 41 WSC 
+
+1.2 
+
+MAMA 
+ 
+ 
+ 
+ 
+ 
+Irrigation Water Management 
+Sugarcane being a long duration crop producing huge amounts of biomass is classed 
+among those plants having a high water requirement and yet it is drought tolerant. It is 
+mostly grown as an irrigated crop. The plant crop season being 12-18 months in India, 
+13-14 months in Iran, 16 months in Mauritius, 13-19 months in Jamaica, 15 months in 
+Queensland (Australia) and 20 - 24 months in Hawaii.
+
+Moisture Extraction Pattern 
+Most root biomass for sugarcane is found close to the surface and then declines 
+approximately exponentially with depth. Typically, approximately 50% of root biomass 
+occurs in the top 20 cm of soil and 85% in the top 60 cm. The percentage of roots in 
+the 0-30 cm horizon was 48-68%; from 30 to 60 cm, 16 - 18%; 60 to 90 cm, 3-12%; 90 
+to 120cm, 4-7%; 120 to 150 cm, 1-7%; and 150 to 180 cm, 0-4%. Thus the moisture 
+extraction pattern from different soil layers follows the root biomass distribution. 
+ 
+Root growth responds strongly to the soil environment, creating plasticity in the form 
+and size of the root system. The size and distribution of the root system is strongly 
+affected by the distribution and availability of soil water, causing differences in the 
+capacity of crops to exploit deeper soil reserves. 
+ 
+ 
+Root distribution of sugarcane crop raised on loamy soil irrigated at 7, 14 and 21 days 
+interval. Roots of a 12-month old plant crop were more deeply distributed under less 
+frequent irrigation presumably in response to drying of the surface. Deeper rooting 
+reduces the vulnerability of crops to soil water deficits by providing increased capacity 
+for uptake of deep reserves of soil water. It also aids in reducing lodging. Hence, drip 
+irrigated cane should be scheduled irrigations at less frequency during the initial 2 to 3 
+months period to promote deeper rooting. (In the graph above: Distribution of root 
+riomass with depth for sugarcane irrigated at frequencies of 7 days, 14 days and 21 
+days (Baran et. al., 1974) 
+ 
+Nutrient supply has also been shown to similarly affect the rooting patterns. High soil 
+strength causes slower root growth with reduced branching and thickened roots. High 
+water markedly affects root distribution, with a majority of studies showing that rooting 
+ceases within approximately 0.1 m of static water tables. 
+ 
+Restricted root growth above shallow water tables does not necessarily reduce crop 
+growth, as capillary rise can supply the crop with water and instances of water uptake 
+from within the saturated zone have been observed.
+
+A risk of water stress does result from the lack of root penetration in soils with high 
+water tables if ground water height falls rapidly, leaving the root system restricted to 
+dry soil. 
+ 
+Physiological Characteristics to be Considered for Efficient Water Managment 
+A liberal water supply reduces the cane yield and/or sugar yield, while mild 
+water stress enhances the yield 
+Excessive watering at tillering should be avoided since it coincides with active 
+root development and hinders nutrient uptake due to poor O2 diffusion 
+Length of the cane determines the sink available for sugar storage since there is 
+no secondary thickening of the stem in sugarcane 
+A drying off or cut out period of 4-6 weeks prior to harvest ensures an optimum 
+sugar yield 
+Reduction of water during the ripeness to flower stage helps to control flowering 
+or arrows 
+Field Irrigation Schedule 
+The goal of an efficient irrigation scheduling programme is to "provide knowledge on 
+correct time and optimum quantity of water application to optimize crop yields with 
+maximum water use efficiency and at the same time ensure minimum damage to the 
+soil". Thus, 
+Irrigation scheduling is the decision of when and how much water to apply to a 
+cropped field. 
+Its purpose is to maximize irrigation efficiencies by applying the exact amount of 
+water needed to replenish the soil moisture to the desired level. 
+Make efficient use of water and energy. 
+Therefore, irrigation scheduling for sugarcane involves precise estimation of depth of 
+water to apply at each irrigation, and the interval between irrigation, for each soil-plant-
+climatic condition. With drip irrigation, intervals of irrigation are usually daily 
+irrespective of the evaporative demand of the atmosphere. 
+ 
+The crop evapotranspiration under standard conditions, denoted as ETc, is the 
+evapotranspiration from disease free, well-fertilized sugarcane crop, grown in large 
+fields, under optimum soil water conditions, and achieving full production under the 
+given climatic condition. The amount of water required to compensate the 
+evapotranspiration loss from the cropped field is defined as crop water requirement. 
+ 
+Although the values for crop evapotranspiration and crop water requirement are 
+identical, crop water requirement refers to the amount of water that needs to be 
+supplied, while crop evapotranspiration refers to the amount of water that is lost in 
+evaporation + transpiration.
+
+The irrigation water basically represents the difference between the crop water 
+requirement and effective precipitation. The irrigation water requirement also includes 
+additional water for leaching of salts and to compensate for non-uniformity of water 
+application. 
+ 
+Adequate soil moisture throughout the crop-growing season is important for obtaining 
+maximum yields because vegetative growth including cane growth is directly 
+proportional to the water transpired. Depending on the agro-ecological conditions, 
+cultivation practices adopted and crop cycle (12-24 months) seasonal water 
+requirements of sugarcane are about 1300mm to 2500mm distributed throughout the 
+growing season (Table 10). The amounts of water required to produce 1.0-kg cane, dry 
+matter and sugar are 50 - 60, 135-150 and 1000-2000g, respectively. The transpiration 
+coefficient of sugarcane is around 400. This means 400 m3 of water is required to 
+produce one ton of dry matter. 
+ 
+Table 10. Sugarcane Water Requirements in Various Countries 
+ 
+S.No. 
+Country 
+Water requirement (mm) 
+1. 
+Australia 
+1522 (Drip) 
+2. 
+Burundi, Central Africa 
+1327 to 2017 (Furrow) 
+3. 
+Cuba 
+1681 to 2133 (Plant) 
+4. 
+Hawaii 
+2000 to 2400 (24 months) 
+
+Jamaica 
+
+Mauritius 
+1670 (Drip) 
+
+Philippines 
+2451 (Furrow) 
+
+Pongala, South Africa 
+
+Puerto Rico 
+
+South Africa 
+
+Subtropical India 
+1800 (Furrow) 
+
+Taiwan 
+1500 to 2200 (Furrow) 
+
+Tropical India 
+2000 to 2400 (Furrow) 
+
+Venezuela 
+2420 (Furrow) 
+
+Thailand 
+2600 (Furrow) 
+Source: Several 
+ 
+The Calculation Procedure for Crop Evapotranspiration, ETc, Consists of: 
+ 
+Calculation of Reference Crop Evapotranspiration (ETo) 
+Collect available climatic data; based on meteorological data available, select 
+prediction method viz., either Penman-Monteith or Pan evaporation method to
+
+calculate ETo. Compute for necessary periods considering the growth subperiods of 
+the crop in question. 
+ 
+Construction of Crop Coefficient (Kc) Curve 
+Determine time of planting, identify the crop growth subperiods, determining their 
+lengths; Select Kc for a given crop growth sub-period under prevailing climatic 
+conditions. Construct the crop coefficient curve (allowing one to determine Kc values 
+for any period during the growing period); and 
+ 
+ 
+Calculation of ETc under standard conditions as a product of ETo and Kc. 
+ 
+The reference crop evapotranspiration (ETo) estimated based on Penman-Monteith or 
+Adjusted USWB Class A Pan evaporation method reflects the evaporative demand of 
+the atmosphere for the location in question. 
+ 
+ 
+ 
+In the picture: USWB Class a Pan Evaporimeter for Estimating ETo 
+ 
+While the crop factor (a dimensionless ratio) reflects the crop characteristics and 
+indicates the combined loss of water from a sugarcane field both by transpiration and 
+soil evaporation (Crop ETc) relative to ETo over the same period. 
+ 
+Several workers have worked out estimates of crop factors experimentally for different 
+crop growth stages of sugarcane. The daily requirement in millimeters is converted to 
+the equivalent volumetric quantity for the area under drip (1 mm = 10 m3/ha). 
+ 
+A field irrigation schedule prepared based on above approach for irrigating sugarcane 
+grown in Tropical region of India is presented in the picture for field application.
+
+While the water requirement during different crop-growth subperiods and cumulative 
+ETc is depicted in the picture here. Such type of irrigation scheduling programmes can 
+be prepared for each location (depending up on the climatic data availability) in real 
+time operation. 
+ 
+ 
+Water Supply and Cane Yield 
+Frequency and depth of irrigation should vary with growth periods of the cane. The 
+relationship 
+between 
+relative 
+yield 
+decrease 
+(1 
+- 
+Ya/Ym) 
+and 
+relative 
+evapotranspiration deficit for the individual growth sub-periods is shown in the picture. 
+During the initial germination, field emergence and establishment of young seedlings 
+the crop requires less water, hence light and frequent irrigation water applications are 
+preferred.
+
+The water supply must be just sufficient to keep the soil moist with adequate aeration. 
+If the soil is allowed due to infrequent and less water application, the germinating buds 
+get desiccated leading to a lower and delayed germination. 
+ 
+ 
+On the other hand over irrigation leads to bud rotting due to lack of aeration, fungal 
+attack and soil reducing soil temperature. Thus both under and over irrigation are 
+detrimental for germination, resulting in low stalk population per unit area. 
+ 
+During the early vegetative period (formative) the tillering is in direct proportion to the 
+water application. An early flush of tillers is ideal because this furnishes shoots of 
+approximately same age. Any water shortage during tillering phase would reduce tiller 
+production; increase tiller mortality and ultimately the stalk population-an important 
+yield component.
+
+However, excess irrigation during tillering phase is harmful particularly in heavy soils, 
+since it coincides with active root development, which may be hampered by anaerobic 
+condition created in the soil as a result of over irrigation. 
+ 
+The yield formation or grand growth period is the most critical period for moisture 
+supply in sugarcane. This is because the actual cane yield build-up or stalk growth 
+takes place in this period. The production and elongation of inter-nodes, leaf 
+production on the stalk and its expansion, girth improvement, ultimately the stalk 
+weight takes place in this period. It is also the period for production of sugar storage 
+tissues. Therefore, crop reaches its peak water requirement in this stage. With 
+adequate water supply to maintain a sheath moisture content of 84-85% in the leaf 
+sheaths, 3,4,5 and 6 from the top during this period of active growth produces longest 
+inter-nodes with more girth (thick cane) and the total cane weight is greater. 
+ 
+On the other hand water deficits in yield formation period reduce stalk elongation rate 
+due to shortening of inter-nodes resulting in less cane weight and the effect is well 
+marked on yield at harvest. A severe water deficit during the later part of the grand 
+growth period forces the crop to ripen. In many an areas in India the tillering/early yield 
+formation period coincides with hot weather period (March - June). 
+ 
+The evaporative demand of the atmosphere is very high during hot weather period vis-
+Ã -vis the crop water needs. Therefore management of available water supplies to 
+meet the peak water requirement is very crucial to realize optimum yield potential. 
+ 
+In ripening period the a restricted water supply or mild water deficits (sheath moisture 
+content of 74-76%) is necessary to bring the crop to maturity by reducing the rate of 
+vegetative growth, dehydrating the cane and forcing the conversion of total sugars to 
+recoverable sucrose. With the check of vegetative growth, the ratio between dry matter 
+stored as sucrose and that used for new growth increases. 
+ 
+On the other hand plentiful supply of water leads continued vegetative growth thus 
+affecting sugar accumulation process. However, when the plant is too seriously 
+deprived of water, it would disrupt the plant metabolism and loss of sugar content can 
+be greater than sugar formation. An important consideration is that soil should not be 
+allowed to crack, as it would cause root pruning and damage the root system. 
+ 
+When the crop is in the ripening period, a farmer may also have a just planted crop on 
+his farm in most situations. Therefore, the tendency of the farmer will be to provide 
+sufficient water to the new (young) crop and neglect the grown up crop that is to be 
+harvested. This situation is particularly true under limited water availability situations. If 
+the grown up crop is not irrigated as required it experiences severe water deficits and 
+there could be cane breakage, pith formation, significant reduction in cane weight, 
+increase in fibre content and deterioration in juice quality.
+
+The situation is further aggravated if the harvesting is delayed. Thus both the farmer 
+and the factory would suffer. Therefore, even for the grown up crop, reasonable 
+amount of water with restricted supply is necessary to obtain good cane yield. 
+ 
+Sheath Moisture Content 
+The sheath moisture or relative water content determined by crop logging technique is 
+presented in Fig. It has long been used to control water application to commercial 
+sugarcane crop, more particularly during ripening phase, when gradual increase in 
+water stress is used to stimulate sugar storage in the stem. 
+ 
+A ripening log is used to compare measured and desired sheath water content during 
+approximately 12 to 24 weeks (depending upon the crop duration) prior to harvest. 
+ 
+Sheath water content is measured on a periodic basis, and irrigation intervals and 
+amounts are varied to produce a gradual decline of sheath water content, from about 
+83% at the beginning of ripening to about 75% at harvest. 
+ 
+ 
+ 
+In the graphs / pictures above: 
+• 
+Cane yield response to water deficits (Doorenbos and Kassam, 1979 ) 
+• 
+Optimum Sheath Moisture content indices for sugarcane (Lakshmikantham, 
+1983) 
+• 
+Cane Yield Response to seasonal evapotranspiration [Thompson (1976) & 
+Jones (1980)] 
+ 
+In Hawaii and Taiwan sheath water content has been found to be a good indicator of 
+stem sugar content. Similar methods involving other tissues are in use in Mexico, 
+South Africa, India and Zimbabwe.
+
+Irrigation water is often limited and costly input. Therefore determination of optimum 
+amount of water over a crop period to achieve higher water use efficiency assumes 
+significance. 
+ 
+Several experiments conducted world over have indicated that the relationship 
+between cane yield and seasonal crop water use under a given climatic condition was 
+linear. 
+ 
+When irrigation plus rainfall is greater than the crop water requirement, anaerobic soil 
+conditions or N losses may reduce crop growth rates and cane yield. 
+ 
+Fertigation 
+ 
+Sugarcane being a giant crop producing huge quantity of biomass generally demands 
+higher amounts of nutrient elements. A large number of research experiments have 
+clearly demonstrated that for producing higher cane and sugar yields on a sustainable 
+basis application of adequate amounts of fertilizer nutrients viz., N, P and K is 
+essential. 
+ 
+At the same time the cost of chemical fertilizers have increased and there is a need to 
+improve fertilizer use efficiency for more benefits. The best answer to this challenge is 
+"Fertigation", where both water and fertilizers are delivered to crop simultaneously 
+through a drip irrigation system. Fertigation ensures that essential nutrients are 
+supplied precisely at the area of most intensive root activity according to the specific 
+requirements of sugarcane crop and type of soil resulting in higher cane yields and 
+sugar recovery. 
+ 
+Fertigation Offers Several Distinct Advantages in Comparison to Conventional 
+Application Methods: 
+Distribution of plant nutrients more evenly throughout the wetted root zone 
+resulting in increased nutrient availability & uptake contributing to higher crop 
+growth rates and cane yields 
+Supply of nutrients incrementally according to the crop developmental phases 
+throughout the season to meet the actual nutritional requirements of the crop 
+Careful regulation and monitoring the supply of nutrients 
+Application of nutrients to the soil when crop or soil conditions would otherwise 
+prohibit entry into the field with conventional equipment 
+Minimal nutrient losses through consumption by weeds, leaching and runoff 
+No damage to the crop by root pruning, breakage of leaves, or bending of 
+leaves, as occurs with conventional fertilizer application methods/equipment 
+Less energy is expended in application of the fertilizer
+
+Usually less labour & equipment are required for application of the fertilizer and 
+to supervise the application 
+Soil compaction is avoided because heavy equipment never enters the field 
+No salt injury to foliage 
+Allows raising of crop on marginal lands, where accurate control of water and 
+nutrient ion in the plant's root environment is critical 
+Nutrient Uptake by Sugarcane 
+ 
+ 
+ Absorption of macronutrients by the variety CB41 - 76 (Malavolta, 1982) 
+ 
+Fig. shows the accumulation of macronutrients by the variety CB 41-76 under Brazilian 
+conditions. Several works have indicated that there is a close relationship between 
+increase in stalk production and accumulation of N and K, which suggests that these 
+two elements "go together" in the nutrition and fertilization of the sugarcane plant. The 
+maximum rate of uptake of macronutrients by plant cane and first ratoon in the period 
+of higher growth rate is given in 
+Table 11.
+
+Table 11. Maximum Rate of Uptake of Nutrients by Plant Cane and Ratoon Cane 
+(Malavolta, 1994) 
+ 
+Element 
+Plant cane 
+Firfst ratoon 
+ 
+kg ha-1 day-1 
+Nitrogen 
+0.59 
+0.73 
+Phosphorus 
+0.08 
+0.11 
+Potassium 
+0.71 
+0.95 
+Calcium 
+0.45 
+0.33 
+Magnesium 
+0.24 
+0.26 
+Sulphur 
+0.16 
+0.31 
+ 
+Generally speaking, the content of the macro and micronutrients in the plant obeys the 
+following decreasing order: 
+ 
+K»gt; N»gt; P»gt;Ca»gt;S»gt;Mg»gt;Cl»gt;Fe»gt;Zn»gt;Mn»gt;Cu»gt;B»gt;Mo 
+ 
+Further most of the published data on the mineral requirements of sugarcane refer only 
+to the above ground parts, which are stalks and leaves. Table 12 is an attempt to show 
+the quantities of macro and micronutrients contained in the entire plant cane. 
+ 
+Table 12. Quantity of Macro and Micronutrients in the Below Ground and Aerial 
+Parts of Plant Cane 
+Roots 
+Millable stalks 
+Leaves 
+Total 
+Element 
+Kg/ha 
+Nitrogen 
+
+Phosphorus 
+
+Potassium 
+
+Calcium 
+
+Magnesium 
+
+Sulphur 
+
+Chlorides 
+
+Silicon 
+
+g/ha 
+Boron 
+
+Copper 
+
+Iron 
+
+16600 
+Mangnese 
+
+Molybodynum 
+
+Zinc 
+
+Catani et al. (1959), Orlando Filho (1978), Haag et al. (1987), 
+Sampaio et al. (1987), Korndorfer (1989)
+
+Role of Nutrients 
+ 
+Nitrogen 
+1. N constitutes only a fraction of 1.0% of the total dry weight of mature cane 
+2. Key element influencing growth, yield & quality 
+3. Adequate and timely supply promotes - Tillering, Canopy development, Stalk 
+formation & stalk growth [internode formation, elongation, increase in girth & 
+weight 
+4. Root penetration and proliferation 
+5. Deficiency of N causes chlorosis, early leaf senescence, thinner & shorter stalk 
+and longer and thinner roots 
+6. Excess N prolongs vegetative growth, delays maturity and ripening; increases 
+reducing sugar content in juice and thus lowering juice purity, and increases 
+soluble N in juice affecting clarification; makes crop susceptible to lodging and 
+pest and disease attack 
+ 
+Phosphorus 
+1. Requirement is relatively less than N and K 
+2. Vital for plant metabolism and photosynthesis 
+3. Essential for cell division and thus indispensable for crop growth & development 
+4. Promotes tillering, canopy and stalk development 
+5. Promotes root penetration and proliferation 
+6. Adequate P [ 3-4mg/liter ] in cane juice is necessary for proper clarification 
+7. Phosphorus deficiency causes - Poor tillering & reduction in internodal length, 
+Delay in canopy closure and Reduction root surface area 
+ 
+Potassium 
+1. Required for several plant activities - Photosynthesis, carbon assimilation & 
+translocation of carbohydrates 
+2. Promotes sugar synthesis & its translocation to storage tissue 
+3. Imparts resistance against pests & disease attack and lodging 
+4. Regulates stomatal opening & closing and thus maintains turgor pressure under 
+unfavourable soil moisture conditions 
+5. Luxury consumption adversely affects the crystallization of sugar & higher sugar 
+losses in molasses 
+6. Deficiency of K affects growth by reducing internodal length, sugar synthesis 
+and recovery
+
+Causes of Nutrient Deficiency Symptoms 
+When a given nutrient is not present in the soil solution in a concentration sufficient for 
+normal growth and differentiation, visual symptoms of malnutrition may eventually 
+show up. The shortage of nutrients, which translate into symptoms of deficiency, could 
+be due to several causes as shown in Table 13. It is clear that the three chief causes 
+are low reserves to begin with, as it is the case of old weathered soils in the tropical 
+regions, decrease in availability, and absence or lack of the element in the fertilizer 
+programme at the rates it is applied. 
+ 
+Table 13. Main Causes of Deficiency Symptoms in the Sugarcane Plant 
+Element 
+Cause 
+Any 
+Low soil reserve 
+Absence or inadequate quantity in the fertilization or liming 
+programme 
+Nitrogen 
+Low organic matter content 
+High acidity (lack of mineralization) 
+High rainfall (leaching) 
+Phosphorus 
+High acidity and high sexquiooxides (fixation) 
+Excess liming (lower availability) 
+Potassium 
+Excess liming (competition for uptake) 
+High rainfall (sandy soils, leaching) 
+Calcium 
+& 
+Magnesium 
+Excess K in the fertilizer programme (competition) 
+Sulphur 
+See nitrogen 
+Use of "concentrated" fertilizers 
+Boron 
+See nitrogen 
+Excess nitrogen ("dilution" or inhibition in uptake) 
+Copper 
+Excess P in the fertilization programme(inhibition in 
+uptake) 
+Iron 
+High organic matter and moisture (loweravailability) 
+Manganese 
+High organic matter, Excess liming (loss in availability) 
+Molybdenum 
+High acidity (lower availability) 
+Excess sulphate (inhibition in uptake) 
+Zinc 
+High P in fertilizer programme (inhibition uptake) 
+Source: Malavolta (1994) 
+ 
+Fertilizer recommendations in different states 
+Sugarcane being a heavy feeder requires very large quantities of nutrients for growth 
+and yield, accounting for 20 to 25% of the total cost of the production. The fertilizer 
+recommendations for sugarcane in different countries are given in Table 14.
+
+Table 14. Sugarcane: Recommended Nutrient Doses in Different Countries 
+NNuuutttrrriiieeennntttsss (((kkkggg///hhhaaa))) 
+CCooouuunnntttrrryyy 
+CCrrroooppp 
+NN 
+PP2
+OO5
+
+K
+KK2
+22000 
+RReeem
+mmaaarrrkkksss 
+AArrrgggeeennntttiiinnnaaa 
+111000000 
+AAdddaaapppttt tttooo rrreeeqqquuuiiirrreeem
+mmeeennnttt 
+AAuuussstttrrraaallliiiaaa 
+555666 
+777888 
+222555---888000 
+777555---111555000 
+IIInnn aaaddddddiiitttiiiooonnn tttooo B
+BBuuurrreeeaaauuu 
+m
+mmiiixxxtttuuurrreee 
+B
+BBaaannnggglllaaadddeeessshhh 
+888555 
+111111000 
+B
+BBrrraaazzziiilll 
+NNooorrrttthhh E
+EEaaasssttt 
+SSooouuuttthhh E
+EEaaasssttt 
+CCeeennntttrrraaalll W
+W
+Weeesssttt 
+SSooouuuttthhh 
+666000---888000 
+666000---888000 
+555000---999000 
+555000--- 999000 
+333000---444000 
+444000--- 666000 
+444000---111000000 
+222000---444000 
+888000--- 111888000 
+222000---111000000 
+555000---111111000 
+222555---555000 
+111555---666000 
+000---111222000 
+222000---666000 
+444000---111444000 
+222000---111222000 
+111000---888000 
+222000---999000 
+000---666000 
+NN --- 222///333 sssiiidddeee---dddrrreeesssssseeeddd 
+KK aaaccccccooorrrdddiiinnnggg tttooo sssoooiiilll 
+aaannnaaalllyyysssiiisss 
+KK aaaccccccooorrrdddiiinnnggg tttooo sssoooiiilll 
+aaannnaaalllyyysssiiisss 
+AAsss aaabbbooovvveee 
+AAsss aaabbbooovvveee 
+AAsss aaabbbooovvveee 
+B
+BBrrriiitttiiissshhh G
+GGuuuyyyaaannnaaa ------ 
+666555---999000 
+555000---111000000 
+666000---111555000 
+CCooolllooom
+mmbbbiiiaaa 
+555000---777000 
+555000---111000000 
+555000---111000000 
+666000---111222000 
+666000---111555000 
+666000---111555000 
+NN 
+--- S
+SSiiidddeee 
+dddrrreeesssssseeeddd 
+aaaccccccooorrrdddiiinnnggg 
+tttooo 
+llleeeaaafff 
+aaannnaaalllyyysssiiisss 
+KK rrraaattteeesss dddeeepppeeennndddiiinnnggg 
+uuupppooonnn sssoooiiilll aaannnaaalllyyysssiiisss 
+CCooossstttaaa R
+RRiiicccaaa 
+888000---222000000 
+111000000---222555000 
+666000---222000000 
+555000---222000000 
+888000---222000000 
+888000---222555000 
+CCuuubbbaaa 
+
+333555---111555000 
+000---555000 
+000---555000 
+000---111222000 
+000---111555000 
+KK rrraaattteeesss dddeeepppeeennndddiiinnnggg 
+uuupppooonnn sssoooiiilll aaannnaaalllyyysssiiisss aaannnddd 
+yyyiiieeelllddd llleeevvveeelll 
+E
+EEcccuuuaaadddooorrr 
+999000 
+777555---111333555 
+777555---111999555 
+NN---111///333 sssiiidddeee dddrrreeesssssseeeddd 
+KK rrraaattteeesss aaaccccccooorrrdddiiinnnggg 
+tttooo sssoooiiilll aaannnaaalllyyysssiiisss 
+IIInnndddiiiaaa 
+SSE
+EEE
+EE N
+NNE
+EEX
+XXTTT TTTA
+AAB
+BBLLLE
+EE 
+IIInnndddooonnneeesssiiiaaa 
+KK rrraaattteeesss aaaccccccooorrrdddiiinnnggg 
+tttooo sssoooiiilll aaannnaaalllyyysssiiisss 
+JJJaaam
+mmaaaiiicccaaa 
+888000---111666000 
+KK rrraaattteeesss aaaccccccooorrrdddiiinnnggg 
+tttooo sssoooiiilll aaannnaaalllyyysssiiisss 
+M
+MMaaauuurrriiitttiiiuuusss 
+111000000---111222555 
+222 --- 111 ---111 m
+mmiiixxxtttuuurrreee 
+M
+MMeeexxxiiicccooo 
+111222000---111888000 
+000---111555000 
+000---111555000 
+M
+MMooosssttt fffrrreeeqqquuueeennnttt rrraaattteeesss::: 
+NN+++666000 
+PP2
+OO5
+55+++666000 
+K
+KK2
+OO 
+PPaaakkkiiissstttaaannn 
+999000---111666000 
+PPhhhiiillliiippppppiiinnneeesss 
+V
+VVM
+MMC
+CC D
+DDiiissstttrrriiicccttt 
+LLLuuuzzzooonnn 
+PPuuueeerrrtttooo R
+RRiiicccooo 
+111222555 
+111222000---111444000 
+111333555---222000000 
+666222 
+111888000 
+111111222 
+SSooouuuttthhh A
+AAfffrrriiicccaaa 
+CCoooaaassstttaaalll 
+LLLooow
+wwlllaaannnddd 
+NNaaatttaaalll M
+MMiiidddlllaaannnddd 
+LLLooow
+wwvvveeelllddd 
+111000000---111222000 
+111444000 
+888000 
+111000000 
+444000 
+222000 
+666000 
+444000 
+333000 
+111000 
+111000000 
+111555000 
+111222555 
+111777555 
+111222555 
+111777555 
+NN aaannnddd K
+KK2
+OO fffooorrr ppplllaaannnttt 
+cccaaannneee 
+iiinnn 
+
+ssspppllliiittt 
+aaappppppllliiicccaaatttiiiooonnnsss 
+H
+HHaaaw
+wwaaaiiiiii (((U
+UUS
+SSA
+AA))) 
+IIIrrrrrriiigggaaattteeeddd 
+RRaaaiiinnnfffeeeddd 
+444000000 
+333000000 
+222888000 
+222888000 
+444000000---444555000 
+444000000---444555000 
+NN iiinnn 222 ssspppllliiittt aaappppppllliiicccaaatttiiiooonnnsss
+
+Leaf Analysis 
+Leaf analysis may be considered a method, which evaluates the soil supply of 
+available elements using the plant itself as an extracting agent. A general 
+representation of the relationship between leaf concentration and cane yield is 
+presented in fig. 
+ 
+ 
+Relationship Between Leaf Concentration and Cane Yield 
+(Prevot & Ollagnier, 1956) 
+ 
+The picture describes several situations, which may occur. Clockwise the following 
+segments are shown: 
+Curve in "C" - Yield is increased but leaf level is reduced; this happens when 
+the rate of dry matter production is higher than the velocity of uptake or 
+transport of the element into the leaf tissue which causes its dilution 
+Zone Of Deficiency Or Adjustment - Only in this section is the relationship 
+between leaf level and growth or yield is observed, and very often there is a 
+linear relationship between increase in leaf concentration and yield; 
+Lower Critical Level - Usually a narrow band below which yield is reduced due 
+to a shortage of the element 
+Zone Of Luxury Consumption - It is wider in the case of macronutrients like K, 
+and much shorter in other cases such as that of B; leaf level increases wheras 
+production remains constant, there is therefore, a waste of fertility or fertilizer; 
+Upper critical level - A zone which separates the yield plateau from the toxicity 
+zone; 
+Zone of toxicity - Leaf content increases even further and yield drops, either as 
+consequence of a toxic effect of the element, or as a result of unbalance among
+
+In the agricultural practice, the goal is not the maximum physical production but rather 
+the realization of the maximum economic yield (MEY). For this reason the concept of 
+critical level or lower critical level was redefined with the introduction of an economical 
+component: it is the range of an element in the leaf below which production is 
+restricted and above which fertilizer application is no longer economical. 
+ 
+This means that above this physiological-economical critical level, both yield and leaf 
+content of the element could rise in response to the fertilization. The increase in yield, 
+however, does not pay the additional fertilizer and the cost of its transport and 
+distribution. Thus levels of nutrients considered adequate for economic yield are 
+presented in Table 15 & 16. 
+ 
+Table 15. Levels of Macronutrients Considered Adequate for Maximum 
+Economic Yield 
+% of dry matter 
+Country 
+Crop 
+N 
+P 
+K 
+Ca 
+Mg 
+S 
+1.90-2.50
+0.21-0.30
+1.30-2.00
+0.20-0.60 0.10-0.30 
+Australia 
+1.90-2.50
+0.21-0.30
+1.30-2.00
+1.90-2.10
+0.20-0.24
+1.10-1.30
+0.80-1.00 0.20-0.30 0.25-0.30
+Brazil 
+2.00-2.20
+0.18-0.20
+1.30-1.50
+0.50-0.70 0.20-0.25 0.08-0.35
+2.1 
+0.21-0.35
+1.25-2.00
+0.15-0.20 0.12-0.18 0.08-0.35
+British Guyana 
+1.9 
+0.21-0.35
+1.25-2.00
+0.20-0.24 0.12-0.18 
+Colombia 
+1.80-2.00
+0.25-0.35
+1.60-1.80
+&gt; 0.25 &gt; 0.20 
+India 
+1.96 
+0.086 
+1.99 
+Puerto Rico 
+1.60-2.00
+0.18-0.24
+1.55-2.00
+0.13 
+South Africa 
+1.70-1.90
+0.10-0.20
+1.05-1.10
+0.15-0.18 
+0.08 
+0.12-0.13
+USA 
+1.50-1.75
+0.18-0.22
+1.25-1.75
+0.28-0.47 0.14-0.33 0.13-0.18
+Reuter (1986), Malavolta (1986), Evens (1967), Garcia Ocampo (1991), Srivastava (1992), 
+Samuels (1971), Gosnell & Long (1971), Anderson & Bowen (1990) 
+ 
+Table 16. Levels of Macronutrients Considered Adequate for 
+Maximum Conomic Yield 
+% 
+Country 
+Crop 
+B 
+Cl 
+Cu 
+Fe 
+Mn 
+Mo 
+Si 
+Zn 
+Australia 
+
+9-30 
+8-10 200-500 100-250
+0.15-
+0.30 
+25-50
+Brazil 
+9-30 
+8-10 
+80-150 50-125
+25-30
+British 
+Guyana 
+2-10 
+smaller 
+than 0.5% 
+5-100 
+4-15 
+20-200 0.08-1.0 
+15-50
+
+South Africa 
+-- 
+1.6-10
+ 
+49-915
+3-12 
+
+-- 
+12-25
+USA 
+-- 
+3-8 
+0.068% 
+7-600 
+20-21 14-235
+0.05-4 1.5-4% 19-38
+Anderson & Bowen (1990), Malavolta (1982), Evens (1967), Wood (1987), 
+Scroeder et.el (1983), Anderson & Bowen (1990) 
+ 
+Fertigation Programme 
+The aim of the fertigation programme is to cover the difference between requirement 
+and supply, that is: 
+ 
+(M) Fertilizer = [M (requirement - supply)] f 
+ 
+Wherein M = a macro or micronutrient, f = is a factor higher than 1 destined to 
+compensate for losses due to volatilization, leaching, fixation and immobilization. 
+ 
+Whenever the soil supply is lower than the crop requirement, fertilizers have to be 
+added in order to increase and to keep M (in soil solution) at a level compatible with 
+the plant needs. In order to make practical fertilizer recommendations, we have to 
+answer several questions, namely: 
+ 
+What? Which Element(s) is (are) Limiting Growth and Production; How Much? 
+What Quantity Has to be Added? 
+The capacity of the soil to supply nutrients can be evaluated through leaf analysis 
+already dealt with, and more frequently via soil chemical analysis. Further the cation 
+exchange capacity, clay content, efficiency factor etc have to be considered to quantify 
+the nutrient requirement. 
+ 
+When? In What Stages Fertilization is to be Done? 
+As shown in fig. accumulation pattern as a function of crop ontogeny has to be taken in 
+to account for timing of fertilizer application. Both nitrogen and potash fertilizers tend to 
+increase the osmotic pressure of the soil solution which when too high could damage 
+the seed cane or the roots. Nitrogen in mineral forms can be leached from the 
+rhizosphere. The same is true for K in the case of soils with low CEC. These facts 
+seem to point out the need to apply only part of the N requirement at planting and 
+doing the same for potash in sandy soils. 
+ 
+Nitrogen requirement of sugarcane is greatest during the tillering (formative) phase. 
+This is required for adequate tiller production and canopy development. Tillering in field 
+grown sugarcane commences around 30 to 45 days after planting. Therefore, 
+adequate N supply should be made available to the crop in the soil from the start of 
+tillering phase. Further, crop requirement for N is higher in early grand growth period.
+
+This facilitates cane formation; checks tiller mortality and promote cane growth. 
+Application of more N at later phase of active crop growth period not only promotes 
+late tiller formation, but also affects sugar recovery due to reduced juice sucrose (Pol) 
+percent, increase in soluble N in juice, water shoot formation besides attracting pests 
+and diseases. 
+ 
+Phosphorus need of sugarcane is greater in the formative phase of the crop. Thus, the 
+optimum time of P application is during initial stages of crop growth. Therefore, 
+sufficient P must be made available in the soil during formative phase for absorption by 
+the crop. 
+ 
+Potassium applications are usually done along with N application. This is because of 
+better utilization of N by the crop in the presence of K; therefore, potassium should be 
+applied along with N. However, late application of K at around six months has also 
+been found to improve sugar recovery. 
+ 
+In general all the phosphorus should be applied before 4 months, nitrogen before 6 
+months and potassium before 7 months period. Relative requirement of NPK (%) at 
+different crop growth stages is shown in Fig. 
+ 
+ 
+Relative requirement of NPK at different crop growth stages of sugarcane 
+(Bachchhav, 2005) 
+ 
+How? What is the Most Efficient Way of Fertilization? 
+The efficacy of fertilizer depends on several factors, such as: process of contact 
+between the element and the root, distribution of the root system, type of crop (plant 
+crop or ratoon) and spacing, type of fertilizer and application rate. Root interception, 
+mass flow and diffusion make the following percent contributions to the total of the 
+element, which reaches the root surface: N (1, 99 & 0), P (2, 4 & 94); K (2, 20 & 78).
+
+While in the case of nitrogen mass flow plays an almost exclusive role for the contact, 
+diffusion is the chief mechanism (94%) for P and for K (78%). It follows therefore that 
+as long as P is placed adequately, both N and K will be taken equally well. Thus from 
+the above it appears that fertigation is the best option of fertilization. 
+ 
+With what? Which fertilizers are to be Used? 
+Table 17 lists the main water soluble fertilizers used in the sugarcane world. It is 
+desirable to use water soluble specialty fertilizers in view of the following features: 
+ 
+Table 17. Fertilizers Suitable for Fertigation Via Drip Irrigation System 
+ 
+Nutrient 
+Water soluble fertilizers 
+Nutrient 
+content 
+Nitrogen 
+Urea 
+Ammonium Nitrate 
+Ammonium Sulphate 
+Calcium Nitrate 
+Magnesium Nitrate 
+Urea Ammonium Nitrate 
+Potassium Nitrate 
+Monoammonium Phosphate 
+46-0-0 
+34-0-0 
+21-0-0 
+16-0-0 
+11-0-0 
+32-0-0 
+13-0-46 
+32-0-0 
+Phosphorus 
+Monoammonium Phosphate 
+Monopotassium Phosphate 
+Phosphoric Acid 
+12-61-0 
+0-54-32 
+0-82-0 
+Potassium 
+Potassium Chloride 
+Potassium Sulphate 
+Potassium Nitrate 
+Potassium Thiosulphate 
+Monopotassium Phosphate 
+0-0-60 
+0-0-50 
+13-0-46 
+0-0-25 
+0-52-34 
+NPK 
+Polyfeed 
+19-19-19 
+20-20-20 
+Micronutrients 
+Fe EDTA 
+Fe DTPA 
+Fe EDDHA 
+Zn EDTA 
+Ca EDTA 
+Rexolin CXK (B+Cu+Fe+Mn+Mo+Zn+Mg) 
+
+9.7 
+--- 
+Free from chlorides and sodium 
+No salt build up in the crop root zone 
+Contain 100% plant nutrients 
+Fast acting nitrate nitrogen, soluble phosphorus and soluble postassium
+
+Completely water soluble with any residues 
+Most of the fertilizers are acidic in nature, hence no special chemical treatment 
+is required to check emitter plugging 
+Maintain optimum soil pH contributing to more uptake of nutrients 
+Most of the fertilizers are blended with micronutrients 
+Effect on Quality? Not Only Total Tonnage of Millable Stalks are to be 
+Considered, the Effect of the Fertilizer on Sugar Yield Has Also to be Taken into 
+Account: 
+It is well known that "sugar is made in the field, not in the factory". Sugar formation and 
+accumulation is a function of several variables viz., variety and age or duration of the 
+crop cycle, climatic conditions, soil fertility and fertilization. The effect of fertilization of 
+course reflects to a large extent the role played by the nutrient in the physiological 
+process within the plant, particularly photosynthesis, transport and accumulation of 
+sucrose (the sink source relationship). 
+ 
+Increase in the rate of N raises yields of stalk and sugar until yield reaches a 
+maximum. If N is applied in excess of the optimum, sugar production may drop. Timing 
+of N application has a profound influence on sucrose content at harvest. N application 
+at beginning of vegetative growth has no negative effect on sucrose content. However, 
+late application at 10 months caused a decrease in sugar yield of 14 g per stalk when 
+compared to the application before 7 months. 
+ 
+Higher rates of P (100 kg P2O5/ha) application can reduce yield, sugar concentration, 
+pol % and purity, particularly in ratoons and in soils not deficient in phosphorus. On the 
+other hand, in P deficient soils higher p levels increase pol % and purity. The amount 
+of P in cane juice has an effect on clarification and should be in the range of 132 to 
+264 ppm P when lime is used for clarification. Other methods of clarification may need 
+lower values. 
+ 
+Potassium application raises millable stalk yield, sugar % of cane and in brix % juice 
+also. K deficiency impairs sucrose transport from the leaf into the stalk (Fig.). There is 
+a positive interaction between N and K - the reduction in sugar content caused by high 
+rates of N is ameliorated by an adequate supply of K. Excessive dosages of K i.e., 
+over and above optimal rates may exert a negative effect on apparent sucrose percent 
+in cane (pol % cane) and may promote an increase in the ash content of juice. 
+Increased ash content in cane juice has a negative influence on sugar quality since K 
+is the main constituent of juice ashes. 
+ 
+When k exceeds 1000 ppm in juice it is undesirable and affects manufacturing 
+process. Potassium passes through the clarification process affecting the exhaustion 
+of the final syrup, keeping a certain amount of sucrose in solution. K is a mellassigenic 
+substance because one mol of K holds one molecule of sucrose. The unfavourable
+
+effects of K however, should be anticipated only when excessive rates are used; in low 
+potassium soils improvement in cane quality are to be expected, as shown in Fig. 
+ 
+ 
+Effect of K Supply on Sucrose Yield, Sucrose and Fibre Content 
+(Malavolta, 1994) 
+ 
+Considering the above factors a model fertigation progremme is given in Table 18 for 
+12 months crop and Table 19 for 14-16 months crops. This is only a guideline, based 
+on the local soil, variety, climatic and management factors necessary adjustments can 
+be made to the programme. 
+ 
+Table 18. Fertigation Schedule for Seasonal (12 months)/Ratoon Sugarcane 
+Nutrients (kg/ha/day) 
+Days After Planting 
+N 
+P2O5 
+K2O 
+1-30 Days 
+1.20 
+0.10 
+0.20 
+31-80 Days 
+1.50 
+0.40 
+0.24 
+81-110 Days 
+2.00 
+1.00 
+0.40 
+111-150 Days 
+0.75 
+0.30 
+0.75 
+151-190 Days 
+-- 
+ 
+1.50 
+ 
+Table 19. Fertigation Schedule for Preseasonal (14 to 16 months) Sugarcane 
+Nutrients (kg/ha/day) 
+Days After Planting 
+N 
+P2O5 
+K2O 
+1-30 Days 
+1.5 
+0.15 
+0.25 
+31-80 Days 
+2.0 
+0.60 
+0.30 
+81-110 Days 
+2.5 
+1.50 
+0.50 
+111-150 Days 
+0.75 
+0.50 
+1.0 
+151-190 Days 
+-- 
+ 
+1.80
+
+Earthing Up 
+ 
+Earthing-up operation is also known as 
+"hilling-up". This operation is carried out in 
+two or three stages.The first earthing-up 
+operation is known partial earthing-up and 
+the second/third operation is known as "full 
+earthing-up". 
+ 
+The partial earthing-up is done at 45 days 
+after planting. In partial earthing-up, little 
+amount of soil from either side of the 
+furrow is taken and placed around the base 
+of the shoots. While doing partial earthing-
+up, the furrow in which the cane row is 
+present gets partially filled-up. 
+ 
+Full earthing-up is done after 120 days 
+after planting coinciding with the peak tiller 
+population stage. During full earthing-up 
+the soil from the ridge in between is fully 
+removed and placed near the cane on either side. This operation converts the furrows 
+into ridges and ridges into furrows.This operation could be done either manually or by 
+using a bullock-drawn/tractor drawn furrower depending upon the spacing adopted. (In 
+the picture: Earthing up or hilling up by machinery) 
+ 
+Full earthing-up at the end of formative phase (i.e., 120 DAP) checks further tillering, 
+provides sufficient soil volume for root proliferation, promotes better soil aeration and 
+provides a sound anchorage or support to the crop and thus preventing lodging. 
+ 
+One more earthing-up after cane population is stabilized at 180 DAP may be helpful in 
+preventing lodging and water shoots formation. It also improves aeration and helps to 
+control weeds. 
+ 
+Detrashing 
+ 
+Detrashing refers to removal of unwanted bottom dry and green leaves at regular 
+intervals. Sugarcane stalk bears large number of leaves (30-35) equal to the number of 
+inter-nodes under good management systems. 
+ 
+However, all these leaves are not productive, only top eight to ten leaves are required 
+for optimum photosynthesis. In fact the bottom green leaves are parasitic on the upper 
+productive leaves and drain out the food reserves (photosynthates) which other wise
+
+could be used for stalk growth. Therefore, in sugarcane it is important to remove the 
+lower dry and green leaves. 
+ 
+ 
+In the picture: Detrashing in sugarcane is beneficial in many ways 
+ 
+Detrashing should be taken up after the cane formation around 150 days after planting. 
+There after it could be done at bi-monthly interval depending up on the labour 
+availability. 
+ 
+Detrashing helps in: 
+ 
+Maintaining clean field 
+Enhances air movement and enriches Co² with in the crop canopy providing an 
+ideal micro-climate for unrestricted growth of cane 
+More food material is made available for stalk growth 
+Reduces the problem of infestation of several insect-pests like scales, mealy 
+bug, white flies etc 
+Reduces bud sprouting due to accumulation of water inside the sheath in some 
+varieties. 
+Bud sprouting is not desirable as it would reduce main stalk growth and affect 
+sugar accumulation 
+Facilitates easy entry and movement in the field, particularly to inspect the 
+condition of the crop and drip laterals and thus accordingly plan the fertigation 
+and plant protection schedules 
+A clean field minimizes rodents, rats, squirrels in the field which may otherwise 
+cause damage to the crop 
+Facilitates easy and economy in harvesting besides clean canes for crushing 
+Detrashed trash can be used as a mulch for moisture conservation
+
+Clean leaves can be used for composting 
+ 
+Propping 
+ 
+The operation of tying the leaves together using the bottom dry and green leaves is 
+known as propping. It is primarily done to check lodging of cane. Usually the trash 
+without removing from the cane is twisted to form a sort of rope and cane stalks are 
+tied together. This is known as trash-twist propping. Propping can be either done for 
+each row or two rows can be brought together and tied. 
+ 
+In India bamboo poles are used and propping is done in certain pockets, but it is too 
+expensive. In areas where cane top growth is heavy and wind velocities are high, 
+propping is very much necessary to prevent lodging. This is because lodging leads to 
+several problems: 
+Cane breakage and thus loss of stalk number at harvest and thus loss of cane 
+yield 
+Infestation of certain pests and diseases causing microbes through lodged and 
+damaged canes 
+Damage by rats and rodents 
+Bud sprouting leading to reduced cane quality 
+Aerial root formation which also affects cane quality 
+Difficulty in inspection of driplines and harvesting 
+ 
+ 
+In the Picture: Propping in sugarcane prevents lodging and minimizes pests
+
+Removal of Water Shoots 
+ 
+Water shoots are the late-formed tillers or side shoots, which are robust and fast 
+growing. They originate mainly due to plentiful supply of water, inadequate earthing-up 
+and late fertigation. These water shoots, as the name indicates, contain lot of water 
+and less sucrose and more of reducing sugars. 
+ 
+Water shoots affects the growth of adjacent stalks. They harbour insect-pests and 
+when they are harvested and sent to mill for crushing, lead to reduced juice quality and 
+affect sugar recoveries. Therefore it is advisable to remove water shoots as and when 
+they arise. The water shoots can be used as cattle feed. 
+ 
+Harvesting Management 
+ 
+Harvesting of sugarcane at a proper time i.e., peak maturity, by adopting right 
+technique is necessary to realize maximum weight of the millable canes (thus sugar) 
+produced with least possible field losses under the given growing environment. 
+ 
+On the other hand harvesting either under-aged or over-aged cane with improper 
+method of harvesting leads to loss in cane yield, sugar recovery, poor juice quality and 
+problems in milling due to extraneous matter. 
+ 
+Therefore, proper harvesting should ensure: 
+ 
+To harvest the cane at peak maturity (i.e., avoiding cutting of either over-
+matured or under-matured cane) 
+Cutting cane to ground level so that the bottom sugar rich internodes are 
+harvested which add to yield and sugar 
+De-topping at appropriate height so that the top immature internodes are 
+eliminated 
+Proper cleaning of the cane i.e., removing the extraneous matter such as 
+leaves, trash, roots etc. 
+Quick disposal of the harvested cane to factory 
+Several standard analytical methods are available to determine the peak maturity or 
+quality so that the cane is harvested at right time. Without such analysis also several 
+farmers take-up cane harvesting based on crop age and appearance. Sometimes 
+farmers harvest the crop even before the crop fully matures due to necessity to supply 
+cane to the mills early. 
+ 
+Likewise delays in harvesting are also quite common, particularly when there is excess 
+cane area. To avoid such extremes harvesting should be done at right time employing
+
+right method. The following criteria enable harvesting of cane at right time adopting 
+proper procedures: 
+ 
+Crop Age 
+Harvesting is done based on maturity (age) group. Farmers who grow a particular 
+variety are usually conversant with the harvesting time. Even most sugar factories give 
+cutting orders to farmers based on crop age. This is not a scientific method since, 
+planting time, crop management practices, weather conditions etc influences maturity. 
+ 
+Visual Symptoms 
+Yellowing and drying of leaves, metallic sound of mature canes when tapped, 
+appearance of sugar crystal glistening when a mature cane is cut in a slanting way and 
+held against the sun are some of the visual indices of assessing maturity of cane. 
+ 
+Quality Parameters 
+Important sugarcane quality parameters for assessing cane maturity are the juice Brix, 
+pol or sucrose percentage and purity. 
+• 
+Juice Brix: Juice Brix refers to the total solids content present in the juice 
+expressed in percentage. Brix includes sugars as well as non-sugars. Brix can 
+be measured in the field itself in the standing cane crop using a Hand 
+Refractometer. This is usually referred as a Hand Refractometer Brix or HR 
+Brix. In the field using a pierce collect composite juice samples from several 
+canes. Then place a drop of the composite juice sample in the Hand 
+Refractometer 
+and 
+measure 
+the 
+Brix 
+reading. 
+The circular field gets darkened relative to the Brix level, which could be easily 
+read. The HR Brix meter has graduations from 0 to 32 per cent. The HR Brix 
+readings can be separately taken from both top and bottom. A narrow range 
+indicates ripeness of the cane, while a wide difference indicates that the cane is 
+yet too ripe. On the other-hand if the bottom portion of the cane has lower Brix 
+value than the top, it means that the cane is over-ripened and reversion of sugar 
+is taking place. 
+• 
+Juice Sucrose Or Pol Per Cent: The juice sucrose per cent is the actual cane 
+sugar present in the juice. It is determined by using a polarimeter, hence 
+sucrose per cent is also referred to as pol per cent. For all practical purposes 
+pol % and sucrose % are synonyms. Now a days an instrument called 
+sucrolyser is also available for determining sucrose % in juice. 
+• 
+Purity Coefficient: It refers to the percentage of sucrose present in the total 
+solids content in the juice. A higher purity indicates the presence of higher 
+sucrose content out of the total solids present in juice. The purity percentage 
+along with sucrose percent aids in determining maturity time.
+
+Purity Percentage = (Sucrose %/HR Brix)100 
+ A cane crop is considered fit for harvesting if it has attained a minimum of 
+16% sucrose and 85% purity. 
+• 
+Reducing Sugars: The reducing sugars refer to the percentage of other 
+sugars (fructose and glucose) in the juice. A lower reducing sugars value 
+indicates that much of the sugars have been converted into sucrose. 
+• 
+Commercial Cane Sugar: The commercial cane sugar (CCS) refers to the total 
+recoverable sugar percent in the cane. This could be calculated by the following 
+formula: 
+CCS (tons/ha) = [Yield (tons/ha) x Sugar Recovery (%)] /100 
+Sugar Recovery (%) = [S - 0.4 (B - S)] x 0.73 
+Where, S= Sucrose % in juice and B= Corrected Brix (%) 
+ 
+Manual Harvesting 
+ 
+In many countries even today harvesting is done 
+manually using various types of hand knives or hand 
+axes.Among the several tools the cutting blade is 
+usually heavier and facilitates easier and efficient 
+cutting of cane. 
+ 
+Manual harvesting requires skilled labourers as 
+improper harvest of cane leads to loss of cane & sugar 
+yield, poor juice quality and problems in milling due to 
+extraneous matter. 
+ 
+(In the picture: Manual harvesting of sugarcane) 
+ 
+ 
+ 
+Mechanical Harvesting 
+Harvesting labour is becoming scarce and 
+costly in view of diversion of labour to other 
+remunerative work in industry, construction, 
+business etc. Mill stoppages because of non-
+availability of canes are not uncommon owing 
+to shortage of harvesting labour. And, most of 
+the new mills are of higher crushing capacity 
+and many are expanding their crushing 
+capacities. Therefore daily requirement of 
+cane is increasing and hence greater 
+demand for harvesting labour.
+
+Added to this most of the present day agricultural labourers are not interested in field 
+operations involving much drudgery. Thus in years to come, the labour position is likely 
+to deteriorate further. Therefore mechanization is inevitable and hence, adoption of 
+mechanical 
+harvesting 
+of 
+cane 
+in 
+future 
+is 
+inevitable. 
+(In 
+the 
+picture: 
+Mechanical harvesting of sugarcane) 
+ 
+In countries like Australia, Brazil, USA, South Africa, Taiwan, Thailand etc where 
+sugarcane cultivation is highly mechanized huge harvesters are employed for cane 
+harvesting. In these countries, sugarcane is grown on large plantation scale in large 
+farms owned by either mills or big farmers. The field capacity of mechanical cane 
+harvesters varies with the size (2.5 to 4 ha per day of 8 hours. 
+ 
+The limitation of mechanical harvesters is use of such machines in small, irregular and 
+fragmented holdings, diversified cropping patterns, limited resource capacity of small & 
+marginal farmers in several countries. 
+ 
+Yield 
+ 
+Sugar yield depends on cane tonnage, sugar content of the cane and on the cane 
+quality. It is important that the cane is harvested at the most suitable time when the 
+economic optimum of recoverable sugar per area is reached. 
+ 
+Cane tonnage at harvest with best management practices under drip ferti-irrigation can 
+vary between 150 and 175 ton/ha in sub-tropical zone and between 150 to 300 
+tons/ha, which depends particularly on the length of the total growing period and 
+whether it is a plant or a ratoon crop. The water utilization efficiency for harvested cane 
+yield containing about 80 percent moisture is around 15 to 20 kg/m3 
+ 
+Toward maturity, vegetative growth is reduced and sugar content of the cane 
+increases greatly. Sugar content at harvest is usually between 10 and 12 percent of 
+the cane fresh weight, but under experimental conditions 18 percent or more has been 
+observed. Sugar content seems to decrease slightly with increased cane yields. 
+ 
+Luxurious growth should be avoided during cane ripening, which can be achieved by 
+low temperature, low nitrogen level and restricted water supply. With respect to juice 
+purity, low minimum temperatures positively affect this several weeks before harvest. 
+ 
+Nutrient Deficiency Symptoms 
+ 
+Nitrogen 
+• 
+Die back of older leaves. 
+• 
+Leaf baldes turn light green to yellow.
+
+In the picture: Nitrogen deficiency symptom (Source: D.L. Anderson) 
+• 
+Short and slender stalks 
+• 
+Tips and margins of older leaves become necrotic. 
+Phosphorus 
+ 
+ 
+In the picture: phosphorus deficiency symptom
+
+Red and purple discolouration of tips and margins 
+Slender leaves 
+Short sand slender stalks 
+Poor or no tillering 
+Potassium 
+Yellow-orange chlorosis of leaf borders & tips 
+Stalks slender 
+Older leaves brown or "fired" 
+Spindles distorted producing "bunched top" or "fan' appearance. 
+Calcium 
+Mottling and chlorosis of older leaves 
+Spindles often become necrotic at the leaf tip and long margins 
+Rusty appearance and premature death of older leaves 
+Magnesium 
+Mottled or chlorotic appearance at the tip and margins 
+Red necrotic lesions resulting in "rusty" appearance 
+Internal browning of rind 
+ 
+In the picture (Source: D.L. Anderson): 
+Magnesium deficiency symptom
+
+Sulphur 
+Chlorotic young leaves 
+Narrower and shorter leaves with faint purplish tinge 
+Slender stalks 
+Copper 
+Green splotches with leaves eventually showing bleaching 
+Stalk and meristems lack turgidity 
+Reduced internodal length and tillering. 
+Iron 
+Varying degrees of chlorosis 
+Interveinal chlorosis from tip to base of leaves. 
+ 
+ 
+In the picture : 
+Iron deficiency symptom
+
+Manganese 
+Occurrence of interveinal chlorosis from leaf tip towards the middle of leaf. 
+Bleaching of leaves under severe deficiency. 
+Boron 
+Distorted leaves 
+Formation of translucent lesions or water sacks along leaf margins 
+Brittle and bunched with many tillers 
+Death of apical meristem. 
+Molybdenum 
+Short longitudinal chlorotic streaks on the top one-third of the leaf. 
+Short and slender stalks 
+Slow vegetative growth. 
+ 
+ 
+In the picture: Molybdenum deficiency symptom (source: J.E. Bowen) 
+ 
+Zinc 
+Midrib and leaf margin remain green and yellowing of leaf blade 
+Red lesions on leaves 
+Reduced tillering and shorter internodes 
+Thin stalks with loss of turgidity.
+
+Pests and Diseases 
+ 
+Matching with long diversity of conditions under which sugarcane is grown in the world, 
+there is wide spectrum of pests and diseases which have come to acquire a place of 
+priority for control on regional or inter-regional basis due to the agro-climatic 
+management conditions associated with the area. 
+ 
+In addition the susceptibility of the variety to the diseases and pests aggravates the 
+situation and creates additive problems. Below herein is given a brief account of 
+symptoms of important pests and diseases occurring in several parts of the world. For 
+more information and pest and disease control measures consult the local Netafim 
+Agronomist or Plant protection expert. 
+ 
+Early Shoot Borer (Chilo infescatellus)- Symptoms 
+ 
+Attacks the crop during the early part of cane growth, before internode 
+formation. It also attacks the cane stalks in the years of scanty rainfall 
+Larvae enter the cane laterally through one or more holes in the stalks (shoot) 
+and bores downwards as well as upwards killing the growing point. Thus it cuts 
+of the central leaf spindle, which eventually dries forming a â€˜dead heart'. The 
+dead heart can be easily pulled out. It emits an offensive odour. 
+Borer infestation during the germination phase kills the mother shoots resulting 
+in the drying up of the entire clump. This leads to gaps in the field. 
+Causes heavy yield losses as it affects the plant stand/unit area. It also leads to 
+canes of different age, which will be poor in juice quality, with less cane weight. 
+When borer infects cane stalks, both yield and quality are reduced. 
+ 
+Internode Borer (Chilo Saccharifagus Indicus) - Symptoms 
+ 
+Damages 
+the 
+crop 
+soon 
+after 
+internode 
+formation and its activity continues till hatvest 
+Lodging, high dosage of nitrogen, waterlogged 
+condition and presence of water shoots favour 
+buildup of pest 
+Fresh borer attack is mostly found in the top five 
+immature internodes 
+Caterpillars bore at the nodal region and enter 
+the stem and tunnel up-wards in a characteristic 
+spiral fashion. Entrance hole is usually plugged 
+with excreta.
+
+Larvae feed and multiply in water shoots. One larvae found in a single cane 
+damages 1-3 internodes. The length and girth of the infected internodes get 
+reduced. 
+Yield loss and juice quality deterioration occurs when the infestation is severe 
+(In the picture above: Internode borer damage) 
+Top Borer (Scirpophaga Excerptalis) 
+Waterlogging favours moth attack 
+Larva first tunnels into the midrib of the leaves and causes a white streak which 
+later turns reddish brown usually in the second to fifth leaf from the top. As a 
+result of biting across the spindle, a number of shot holes are formed in the leaf. 
+As larva nibbles into the central core of the cane a portion of the internal tissue 
+is eaten resulting in dead heart formation. Dead heart when formed is reddish 
+brown, appears charred, and cannot be easily pulled out. In tillering phase of 
+the crop, the attacked shoots die, side shoots (tillers) develop producing a 
+bunchy top appearance. In the grand growth period, the crop growth is arrested, 
+and the crown with dead heart dries and may be blown off leaving the stump. 
+Severe yield loss and quality deterioration occurs due to top borer. Depending 
+upon the incidence level yield loss may be up to 20-30%. 
+Scale Insect (Melanaspis Glomerata) 
+Waterlogging, high temperature and humidity favour buildup of scale insect 
+population. Rainwater and high wind velocity facilitate dispersal of the pest. It 
+spreads to new areas through seed material. Men and animals passing through 
+the infested fields also lead to spread of the pest to the adjoining areas. 
+Scales usually establish on internodes covered with leaf sheath. The leaves of 
+infested canes show signs of tip drying and unhealthy pale green colour and 
+with continued infestation turn yellow. Desapping leads to non-opening of 
+leaves also, which also turn yellow and finally dry out. Nodal region is more 
+infested than internodal region. 
+Infested crop losses its vigour, canes shrivel, growth is stunted and the 
+internodal length is reduced drastically. Ultimately cane dries up. Such canes 
+when slit open appear brownish red. Thus yield and quality suffer. The yield loss 
+could range from negligible to total crop failure. 
+Pyrilla (Pyrilla purpusilla Walker) 
+Pyrilla is the most destructive foliage-sucking pest of sugarcane 
+Heavy rainfall followed by 75-80% humidity, intermittent drought periods, high 
+temperature (26-30°c) and wind movement favour rapid buildup of pyrilla. Other 
+factors favouring pyrilla buildup are dense and luxuriant crop, excess nitrogen
+
+application, water logging, lodging of cane and varieties with broad and 
+succulent leaves. 
+Adults and the nymps suck leaf sap from the under surface of the lower leaves. 
+When the infestation is heavy, leaves turn yellowish white and wither away. Due 
+to continuous desapping by large number of hoppers top leaves in the affected 
+canes dry up and lateral buds germinate. The hoppers exude a sweet sticky 
+fluid known as honeydew, which promotes quick and luxuriant growth of the 
+fungus, capanodium species and as a result the leaves are completely covered 
+by the sooty mould. This affects photosynthesis. 
+The loss in cane yield due to pyrilla have been estimated to be around 28% with 
+about 1.6% unit loss in sugar. 
+Termites (Coptotermes Heimi Wasmann; Odontotermes Assmuthi Holmgr; O. 
+Obesus Rambur; O. Wallonensis Wasmann; Microtermes Obesi Holmgr; 
+Trinervitermes Biformis Wasmann) 
+Polyphagous and found throughout the world. More serious under prolonged 
+drought conditions and in light textured soils viz., sandy and sandy loam soils 
+The termites attack setts, shoots, canes and also stubbles 
+The termites gain entry through the cut ends or through buds of the setts and 
+feed on the soft tissue. The tunnel excavated is filled with the soil. This affects 
+germination and thus the initial crop stand and ultimately the cane yield. The 
+germination failure could be up to 60%. 
+In the stalks the termites feed on the inner tissues leaving the rind intact. The 
+cavity formed is filled up with moist soil, having galleries, in which, they move 
+about. The affected canes die. 
+Whitefly (Aleurolobus Barodensis Mask) 
+Waterlogging 
+and 
+nitrogen 
+starvation cause severe out break 
+of whiteflies. Summer droughts 
+and dry spells during monsoon 
+season also favour buildup of this 
+pest 
+Varieties with broad and long 
+leaves are more susceptible to 
+this pest 
+The nymphs of white flies suck 
+the sap from the under surface of 
+leaves which turn yellow and 
+pinkish in severe cases and 
+gradually dry up. 
+Heavy 
+infested 
+leaves 
+are
+
+covered by the sooty mould caused by the fungus, which adversely affects 
+photosynthesis. The whitefly infestation retards cane growth and reduces sugar 
+content 
+Considerable loss on yield and sugar recovery has been observed. At 80% leaf 
+infestation 23.4% loss in cane yield and 2.9% units loss in sucrose has been 
+reported. (In the picture above: White fly infestation) 
+Red Rot (Colletotrichum Falcatum) 
+It is the most dreaded disease of sugarcane which has caused the elimination of 
+several important sugarcane varieties from cultivation 
+Yellowing and drying of leaves from margin to midrib, drying of the entire top 
+including the crown, loss of natural colour and considerable shrinkage of the 
+stalk, appearance of reddish lesions on the rind are some of the external 
+symptoms of red rot disease. 
+Most characteristic and diagnostic symptom of the disease is the presence of 
+reddish discoloured patches or lesions interspersed with white horizontal 
+patches on the internal tissue. As the diseases progresses the internal tissues 
+become dark in colour and dry resulting in longitudinal pith cavities. 
+Smut (Ustilago Scitaminea) 
+Primary spread of the disease is through infected setts and the secondary 
+spread is through wind borne teliospore 
+Stunting of infected stools, profuse sprouting of lateral shoots i.e., tillers, 
+reduction in internodal length, formation of thin stalks and narrow erect leaves 
+are certain symptoms of smut. 
+Characteristic symptom is the production of long whip like structure from the 
+terminal bud of the stalk, which is black in colour covered by thin silvery 
+membrane. This silvery membrane ruptures releasing millions of reproductive 
+spores of smut fungus, which are present in the form of powdery mass. 
+Losses due to smut in sugarcane depend on various factors viz., primary or 
+secondary infection, plant or ratoon crop that is affected and early or late 
+infection and have been reported to range from 30 - 40% in plant crops and 
+even up to 70% in ratoons. Sucrose content of infected cane is reduced to 3 - 
+7%. 
+Pineapple Disease (Ceratocystis Paradoxa) 
+Essentially a disease of seed material i.e., setts. Typical disease symptoms are 
+detected in setts after 2 - 3 weeks of planting. 
+Pathogen enters the sett mainly through the cut ends and destroy the central 
+soft portion i.e., parachymatous tissues of the internode and then damages the 
+buds.
+
+Affected tissues first develop a reddish colour, which turns to brownish black in 
+the later stages. Cavities are formed inside the severely affected internodes. 
+The presence of the fungus inside the sett prevents their rooting. In most cases 
+setts decay before bud sprouts or the shoots grown to an height of 6 - 12cm. 
+Thus causing germination failure leading to reduced initial crop stand per unit 
+area. 
+Occasionally, the disease occurs in standing crop too due to the entry of the 
+pathogen through stalk damaged by borers, rat damage or any such injuries. 
+Drought accelerates the damage. Pathogen spreads rapidly throughout the 
+canes, foliage turns yellow, and ultimately plant withers. The diseased stalk 
+when cut open smells like mature pineapple. The pineapple odour is due to 
+production of ethyl acetate by the fungus. 
+Wilt (Cephalosporium Sacchari) 
+Disease spreads through infected setts. The fungi gain entry mainly through 
+injuries. 
+Biotic stresses like nematode, root borer, termite, scales, mealy bugs etc and 
+abiotic stresses like drought, water logging etc predispose the plants for wilt 
+infection 
+Moisture stress coupled with high temperature and low humidity reduces plant 
+resistance to wilt. 
+Typical wilt symptoms appear during monsoon and post monsoon periods. 
+Affected plant appears wilted and conspicuously stunted. The crown leaves turn 
+yellow, loose turgor and eventually withers. 
+Wilt-affected canes loose their normal colour and are light in weight. The most 
+characteristic symptom during the early stage of infection is the presence of 
+diffused reddish brown patches on the internal tissue. Later canes become light 
+and hallow and shrink. 
+Disease reduces germination and in severe cases total cane yield losses occur 
+due to drying up of shoots and wilting of the stalks. 
+ 
+ 
+Ratoon Stunting Disease 
+ 
+Ratoon stunting disease has been considered as the most important cause for 
+sugarcane varietal degeneration 
+Primary spread of the disease is through infected setts. 
+Also spreads through harvesting implements contaminated with the juice of 
+diseased canes. 
+Expression of disease is more under adverse conditions.
+
+Progressive yield decline takes place due to the disease. Ratoon crop suffers 
+more damage due to RSD than the plant 
+crop. 
+Disease is known to reduce germination 
+and yield 
+Most characteristic symptom of the infected 
+stalks is the presence of pin head like 
+orange coloured dots of bacteria on the 
+internal soft tissue in the nodal region. 
+Other symptoms include stunted growth, 
+thin stalks with short internodes, pale 
+yellowish foliage and rapid tapering of the 
+stem 
+towards 
+the 
+top 
+ 
+ 
+(In the picture above: Ratoon stunting disease 
+symptom) 
+ 
+Grassy Shoot Disease (Phytoplasma) 
+It is a mycoplasamal disease. 
+Primary transmission of disease is through disease infected setts 
+Profuse tillering with narrow chlorotic leaves giving a grass like appearance is 
+characteristic symptom of GSD incidence 
+Very few tillers of GSD infected plants develop into canes, which are thin and 
+produce white shoots from the side buds. 
+Leaf Scald (Xanthomonas Albileneans) 
+It is a bacterial disease, widely spread in many countries. 
+Disease is favoured by wet seasons, water stress due to drought, water logging 
+and low temperatures. 
+Disease symptoms appear in two phases, the chronic and acute phases. 
+In the chronic phase, "white pencil line" extending entire length of lamina 
+reaching the margin of young leaves and stripes diffuse later resulting in leaf 
+etiolation. Drying from tip onwards presents a scalded appearance and hence 
+the name. Different degrees of chlorosis from total albinism to interveinal 
+chlorosis in young leaves during summer, germination of buds in acropetal 
+manner with bushy appearance in standing cane, cut open stalks showing dark 
+red vascular strands, prominent streaks at node invariably in the side shoots, 
+are other prominent symptoms of chronic phase.
+
+In the acute phase the symptoms appear suddenly and die without any major 
+leaf symptoms. The masking of symptoms is more common during monsoon 
+and symptoms may appear suddenly any time during crop growth. 
+ 
+Yellow Leaf Spoot (Cercospora Koepkei) 
+ 
+Prolonged rain with intermittent sunshine, 
+waterlogged conditions and higher nitrogen 
+doses are congenial for disease development. 
+Warm humid weather favours rapid and 
+abundant 
+production 
+of 
+conidia 
+by 
+the 
+pathogen and sopread of the disease. 
+Characteristic symptoms are presence of 
+small, yellow coloured, irregularly shaped 
+spots over the leaf surface. Density of spots is 
+minimum in the lower surface, moderate in the 
+middle and maximum towards the tip of the 
+leaf. Spots coalesce at late stages and cause 
+drying of leaves. Badly affected foliage looks 
+reddish-brown when viewed from a distance. 
+In the picture: Yellow leaf spot showing small yellow coloured spots 
+ 
+Eye spot (Helminthosporium sacchari) 
+Usually a crop of 6 - 7 months is more susceptible to the disease. 
+Fungus penetrates the host tissue either through stomota, bulliform cells or 
+directly through the cuticle. 
+Cloudy weather, high humidity with drizzle coupled with low night temperatures, 
+wetting of leaves either through precipitation or dew greatly enhance disease 
+development. 
+Likewise water logging, high fertility status and excess nitrogen fertilization also 
+favour the spread of the disease. 
+Lesions first appear as small water soaked spots, darker than the surrounding 
+tissues. The spot becomes more elongated, resembling the shape of an â€˜eye' 
+and turns straw coloured within a few days. Finally the central portion becomes 
+reddish brown surrounded by straw coloured tissues. Then reddish brown 
+streaks of â€˜runners' develop extending from the lesions towards the leaf tip 
+along the veins. Later the spots and streaks coalesce to form large patches and 
+causes drying of leaves. 
+- The End -

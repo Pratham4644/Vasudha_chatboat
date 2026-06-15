@@ -1,0 +1,8 @@
+OllamaSetup.exe
+ffmpeg*/
+*.exe
+__pycache__/
+*.pyc
+.venv*/
+venv/
+.env
